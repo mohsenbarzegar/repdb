@@ -39,13 +39,13 @@
 <div class="wrap">
   <header>
     <div class="logo">Rep<span>DB</span></div>
-    <nav><a href="#browse">Browse</a><a href="#api">API</a><a href="#pricing">Pricing</a><a href="/docs">Docs</a></nav>
+    <nav><a href="#browse">Browse</a><a href="#api">API</a><a href="#pricing">Pricing</a><a href="docs/">Docs</a></nav>
   </header>
 
   <section class="hero">
     <h1>Every exercise your app needs.<br><em>Data, GIFs, one API.</em></h1>
     <p>RepDB is an open exercise dataset for fitness products: structured movement data, looping start-to-finish demo GIFs and a dead-simple API — free to start, and you host the files yourself.</p>
-    <a class="cta" href="/api-static/v1/exercises.json">Download the dataset</a>
+    <a class="cta" href="api-static/v1/exercises.json">Download the dataset</a>
     <a class="cta ghost" href="#api">Try the API</a>
     <div class="stats">
       <div class="stat"><b id="st-count">876</b><span>exercises</span></div>
@@ -73,7 +73,7 @@
   "instructions": ["Lie back on a flat bench…", "…"],
   "level": "beginner", "mechanic": "compound", "force": "push"
 }</pre>
-  <p style="color:var(--mut)">Filter by <code>bodyPart</code>, <code>target</code> or <code>equipment</code>, page with <code>limit</code>/<code>offset</code>, or skip the server entirely — the whole API also ships as static JSON files any free host can serve. <a href="/docs">Read the docs →</a></p>
+  <p style="color:var(--mut)">Filter by <code>bodyPart</code>, <code>target</code> or <code>equipment</code>, page with <code>limit</code>/<code>offset</code>, or skip the server entirely — the whole API also ships as static JSON files any free host can serve. <a href="docs/">Read the docs →</a></p>
 
   <h2 id="pricing">Pricing</h2>
   <div class="tiers">
@@ -88,14 +88,14 @@
 const grid = document.getElementById('grid'), q = document.getElementById('q');
 let IDX = [];
 async function load(){
-  IDX = await (await fetch('/api-static/v1/search-index.json')).json();
+  IDX = await (await fetch('api-static/v1/search-index.json')).json();
   document.getElementById('st-count').textContent = IDX.length;
   render('');
 }
 function render(term){
   const hits = IDX.filter(e => e.name.toLowerCase().includes(term.toLowerCase())).slice(0, 24);
   grid.innerHTML = hits.map(e =>
-    `<div class="ex"><video autoplay loop muted playsinline preload="metadata" src="/media/enhanced/${e.id}.mp4" aria-label="${e.name}"></video>
+    `<div class="ex"><video autoplay loop muted playsinline preload="metadata" src="media/enhanced/${e.id}.mp4" aria-label="${e.name}"></video>
      <div><b>${e.name}</b><span>${e.bodyPart} · ${e.equipment}</span></div></div>`).join('')
     || '<p style="color:var(--mut)">No matches.</p>';
 }
