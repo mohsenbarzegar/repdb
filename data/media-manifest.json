@@ -1,0 +1,10405 @@
+{
+"3_4_Sit-Up": {
+"status": "ok",
+"shift": [
+0.17,
+-0.48
+],
+"bgDiff": 1.6,
+"flicker": 0.348,
+"bucket": "locked",
+"mp4KB": 157,
+"gifKB": 3327
+},
+"90_90_Hamstring": {
+"status": "ok",
+"shift": [
+2.03,
+12.0
+],
+"bgDiff": 17.7,
+"flicker": 20.904,
+"bucket": "usable",
+"mp4KB": 162,
+"gifKB": 1464
+},
+"Ab_Crunch_Machine": {
+"status": "ok",
+"shift": [
+3.14,
+-23.66
+],
+"bgDiff": 9.7,
+"flicker": 1.186,
+"bucket": "locked",
+"mp4KB": 248,
+"gifKB": 3210
+},
+"Ab_Roller": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 11.9,
+"flicker": 0.586,
+"bucket": "usable",
+"mp4KB": 273,
+"gifKB": 2611
+},
+"Adductor": {
+"status": "ok",
+"shift": [
+0.01,
+-0.02
+],
+"bgDiff": 28.4,
+"flicker": 7.736,
+"bucket": "angle_mismatch",
+"mp4KB": 172,
+"gifKB": 1521
+},
+"Adductor_Groin": {
+"status": "ok",
+"shift": [
+-12.22,
+6.01
+],
+"bgDiff": 2.2,
+"flicker": 0.384,
+"bucket": "locked",
+"mp4KB": 104,
+"gifKB": 1675
+},
+"Advanced_Kettlebell_Windmill": {
+"status": "ok",
+"shift": [
+-7.95,
+-0.95
+],
+"bgDiff": 2.6,
+"flicker": 0.005,
+"bucket": "locked",
+"mp4KB": 100,
+"gifKB": 1951
+},
+"Air_Bike": {
+"status": "ok",
+"shift": [
+-3.47,
+3.28
+],
+"bgDiff": 4.2,
+"flicker": 0.278,
+"bucket": "locked",
+"mp4KB": 177,
+"gifKB": 2331
+},
+"All_Fours_Quad_Stretch": {
+"status": "ok",
+"shift": [
+0.16,
+12.0
+],
+"bgDiff": 7.2,
+"flicker": 0.848,
+"bucket": "locked",
+"mp4KB": 189,
+"gifKB": 1777
+},
+"Alternate_Hammer_Curl": {
+"status": "ok",
+"shift": [
+12.0,
+0.04
+],
+"bgDiff": 9.1,
+"flicker": 0.044,
+"bucket": "locked",
+"mp4KB": 162,
+"gifKB": 2330
+},
+"Alternate_Heel_Touchers": {
+"status": "ok",
+"shift": [
+-6.44,
+1.13
+],
+"bgDiff": 3.4,
+"flicker": 0.041,
+"bucket": "locked",
+"mp4KB": 154,
+"gifKB": 2457
+},
+"Alternate_Incline_Dumbbell_Curl": {
+"status": "ok",
+"shift": [
+2.11,
+-9.0
+],
+"bgDiff": 3.9,
+"flicker": 0.086,
+"bucket": "locked",
+"mp4KB": 130,
+"gifKB": 2562
+},
+"Alternate_Leg_Diagonal_Bound": {
+"status": "ok",
+"shift": [
+3.57,
+0.87
+],
+"bgDiff": 5.0,
+"flicker": 0.017,
+"bucket": "locked",
+"mp4KB": 84,
+"gifKB": 1933
+},
+"Alternating_Cable_Shoulder_Press": {
+"status": "ok",
+"shift": [
+1.93,
+-0.19
+],
+"bgDiff": 3.4,
+"flicker": 0.011,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 3018
+},
+"Alternating_Deltoid_Raise": {
+"status": "ok",
+"shift": [
+-5.5,
+4.16
+],
+"bgDiff": 4.1,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 122,
+"gifKB": 2471
+},
+"Alternating_Floor_Press": {
+"status": "ok",
+"shift": [
+0.9,
+1.44
+],
+"bgDiff": 2.6,
+"flicker": 0.001,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 2088
+},
+"Alternating_Hang_Clean": {
+"status": "ok",
+"shift": [
+2.37,
+-9.61
+],
+"bgDiff": 4.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 107,
+"gifKB": 1998
+},
+"Alternating_Kettlebell_Press": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 9.3,
+"flicker": 0.018,
+"bucket": "locked",
+"mp4KB": 166,
+"gifKB": 1945
+},
+"Alternating_Kettlebell_Row": {
+"status": "ok",
+"shift": [
+-5.44,
+3.8
+],
+"bgDiff": 2.0,
+"flicker": 0.032,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2059
+},
+"Alternating_Renegade_Row": {
+"status": "ok",
+"shift": [
+4.55,
+5.07
+],
+"bgDiff": 2.0,
+"flicker": 0.061,
+"bucket": "locked",
+"mp4KB": 106,
+"gifKB": 2008
+},
+"Ankle_Circles": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 5.3,
+"flicker": 1.219,
+"bucket": "locked",
+"mp4KB": 215,
+"gifKB": 2923
+},
+"Ankle_On_The_Knee": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 36.1,
+"flicker": 24.552,
+"bucket": "angle_mismatch",
+"mp4KB": 163,
+"gifKB": 1477
+},
+"Anterior_Tibialis-SMR": {
+"status": "ok",
+"shift": [
+0.12,
+0.61
+],
+"bgDiff": 1.3,
+"flicker": 0.007,
+"bucket": "locked",
+"mp4KB": 117,
+"gifKB": 1612
+},
+"Anti-Gravity_Press": {
+"status": "ok",
+"shift": [
+0.7,
+-2.03
+],
+"bgDiff": 3.9,
+"flicker": 0.015,
+"bucket": "locked",
+"mp4KB": 134,
+"gifKB": 2629
+},
+"Arm_Circles": {
+"status": "ok",
+"shift": [
+6.69,
+-1.09
+],
+"bgDiff": 4.0,
+"flicker": 0.083,
+"bucket": "locked",
+"mp4KB": 106,
+"gifKB": 2079
+},
+"Arnold_Dumbbell_Press": {
+"status": "ok",
+"shift": [
+-3.31,
+7.58
+],
+"bgDiff": 7.1,
+"flicker": 1.576,
+"bucket": "locked",
+"mp4KB": 129,
+"gifKB": 2271
+},
+"Around_The_Worlds": {
+"status": "ok",
+"shift": [
+-6.78,
+-2.7
+],
+"bgDiff": 6.5,
+"flicker": 0.069,
+"bucket": "locked",
+"mp4KB": 154,
+"gifKB": 2460
+},
+"Atlas_Stone_Trainer": {
+"status": "ok",
+"shift": [
+8.95,
+8.39
+],
+"bgDiff": 10.6,
+"flicker": 3.522,
+"bucket": "usable",
+"mp4KB": 184,
+"gifKB": 2288
+},
+"Atlas_Stones": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 54.7,
+"flicker": 10.05,
+"bucket": "angle_mismatch",
+"mp4KB": 262,
+"gifKB": 2875
+},
+"Axle_Deadlift": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 49.3,
+"flicker": 13.439,
+"bucket": "angle_mismatch",
+"mp4KB": 230,
+"gifKB": 2512
+},
+"Back_Flyes_-_With_Bands": {
+"status": "ok",
+"shift": [
+2.23,
+-0.29
+],
+"bgDiff": 2.2,
+"flicker": 0.684,
+"bucket": "locked",
+"mp4KB": 93,
+"gifKB": 1777
+},
+"Backward_Drag": {
+"status": "ok",
+"shift": [
+0.27,
+-0.42
+],
+"bgDiff": 74.2,
+"flicker": 21.896,
+"bucket": "angle_mismatch",
+"mp4KB": 181,
+"gifKB": 1831
+},
+"Backward_Medicine_Ball_Throw": {
+"status": "ok",
+"shift": [
+-0.06,
+40.0
+],
+"bgDiff": 3.4,
+"flicker": 1.479,
+"bucket": "locked",
+"mp4KB": 159,
+"gifKB": 2354
+},
+"Balance_Board": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 3.5,
+"flicker": 0.747,
+"bucket": "locked",
+"mp4KB": 153,
+"gifKB": 1858
+},
+"Ball_Leg_Curl": {
+"status": "ok",
+"shift": [
+0.79,
+0.77
+],
+"bgDiff": 7.2,
+"flicker": 1.981,
+"bucket": "locked",
+"mp4KB": 249,
+"gifKB": 3428
+},
+"Band_Assisted_Pull-Up": {
+"status": "ok",
+"shift": [
+-0.93,
+21.12
+],
+"bgDiff": 10.2,
+"flicker": 2.335,
+"bucket": "usable",
+"mp4KB": 201,
+"gifKB": 2533
+},
+"Band_Good_Morning": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 22.1,
+"flicker": 1.424,
+"bucket": "angle_mismatch",
+"mp4KB": 177,
+"gifKB": 2394
+},
+"Band_Good_Morning_Pull_Through": {
+"status": "ok",
+"shift": [
+0.03,
+0.15
+],
+"bgDiff": 55.7,
+"flicker": 4.082,
+"bucket": "angle_mismatch",
+"mp4KB": 193,
+"gifKB": 2210
+},
+"Band_Hip_Adductions": {
+"status": "ok",
+"shift": [
+-3.87,
+0.71
+],
+"bgDiff": 2.5,
+"flicker": 0.015,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 2498
+},
+"Band_Pull_Apart": {
+"status": "ok",
+"shift": [
+-3.35,
+-1.86
+],
+"bgDiff": 3.2,
+"flicker": 0.091,
+"bucket": "locked",
+"mp4KB": 119,
+"gifKB": 2409
+},
+"Barbell_Ab_Rollout_-_On_Knees": {
+"status": "ok",
+"shift": [
+12.0,
+-12.0
+],
+"bgDiff": 26.5,
+"flicker": 7.612,
+"bucket": "angle_mismatch",
+"mp4KB": 280,
+"gifKB": 2413
+},
+"Barbell_Bench_Press_-_Medium_Grip": {
+"status": "ok",
+"shift": [
+1.15,
+-1.46
+],
+"bgDiff": 3.6,
+"bucket": "locked",
+"backfilled": true
+},
+"Band_Skull_Crusher": {
+"status": "ok",
+"shift": [
+0.21,
+-2.81
+],
+"bgDiff": 18.2,
+"flicker": 0.364,
+"bucket": "usable",
+"mp4KB": 215,
+"gifKB": 2472
+},
+"Barbell_Ab_Rollout": {
+"status": "ok",
+"shift": [
+40.0,
+35.67
+],
+"bgDiff": 3.4,
+"flicker": 0.157,
+"bucket": "locked",
+"mp4KB": 197,
+"gifKB": 2460
+},
+"Barbell_Deadlift": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 15.2,
+"bucket": "usable",
+"backfilled": true
+},
+"Barbell_Full_Squat": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 34.8,
+"bucket": "angle_mismatch",
+"backfilled": true
+},
+"Barbell_Curl": {
+"status": "ok",
+"shift": [
+8.37,
+5.05
+],
+"bgDiff": 4.1,
+"bucket": "locked",
+"backfilled": true
+},
+"Barbell_Curls_Lying_Against_An_Incline": {
+"status": "ok",
+"shift": [
+-3.0,
+2.94
+],
+"bgDiff": 3.0,
+"flicker": 0.297,
+"bucket": "locked",
+"mp4KB": 134,
+"gifKB": 2454
+},
+"Barbell_Glute_Bridge": {
+"status": "ok",
+"shift": [
+-5.24,
+-0.13
+],
+"bgDiff": 13.0,
+"flicker": 1.487,
+"bucket": "usable",
+"mp4KB": 187,
+"gifKB": 2451
+},
+"Barbell_Guillotine_Bench_Press": {
+"status": "ok",
+"shift": [
+-3.65,
+12.0
+],
+"bgDiff": 8.9,
+"flicker": 0.332,
+"bucket": "locked",
+"mp4KB": 215,
+"gifKB": 3210
+},
+"Barbell_Hack_Squat": {
+"status": "ok",
+"shift": [
+-2.69,
+2.34
+],
+"bgDiff": 4.6,
+"flicker": 0.335,
+"bucket": "locked",
+"mp4KB": 183,
+"gifKB": 2458
+},
+"Barbell_Hip_Thrust": {
+"status": "ok",
+"shift": [
+-6.81,
+10.35
+],
+"bgDiff": 6.5,
+"flicker": 1.142,
+"bucket": "locked",
+"mp4KB": 187,
+"gifKB": 2614
+},
+"Barbell_Lunge": {
+"status": "ok",
+"shift": [
+12.0,
+-12.0
+],
+"bgDiff": 31.3,
+"bucket": "angle_mismatch",
+"backfilled": true
+},
+"Barbell_Rear_Delt_Row": {
+"status": "ok",
+"shift": [
+-2.69,
+1.74
+],
+"bgDiff": 4.8,
+"flicker": 0.307,
+"bucket": "locked",
+"mp4KB": 182,
+"gifKB": 2496
+},
+"Barbell_Incline_Bench_Press_-_Medium_Grip": {
+"status": "ok",
+"shift": [
+0.62,
+0.24
+],
+"bgDiff": 4.1,
+"flicker": 0.174,
+"bucket": "locked",
+"mp4KB": 169,
+"gifKB": 2618
+},
+"Barbell_Incline_Shoulder_Raise": {
+"status": "ok",
+"shift": [
+0.7,
+-3.93
+],
+"bgDiff": 3.5,
+"flicker": 0.104,
+"bucket": "locked",
+"mp4KB": 153,
+"gifKB": 3119
+},
+"Barbell_Shoulder_Press": {
+"status": "ok",
+"shift": [
+-3.05,
+-1.72
+],
+"bgDiff": 3.3,
+"bucket": "locked",
+"backfilled": true
+},
+"Barbell_Shrug": {
+"status": "ok",
+"shift": [
+0.38,
+7.18
+],
+"bgDiff": 3.5,
+"flicker": 0.046,
+"bucket": "locked",
+"mp4KB": 130,
+"gifKB": 2299
+},
+"Barbell_Rollout_from_Bench": {
+"status": "ok",
+"shift": [
+0.71,
+-0.43
+],
+"bgDiff": 4.7,
+"flicker": 2.077,
+"bucket": "locked",
+"mp4KB": 149,
+"gifKB": 3361
+},
+"Barbell_Seated_Calf_Raise": {
+"status": "ok",
+"shift": [
+-0.53,
+-3.27
+],
+"bgDiff": 2.8,
+"flicker": 0.036,
+"bucket": "locked",
+"mp4KB": 173,
+"gifKB": 2222
+},
+"Barbell_Side_Split_Squat": {
+"status": "ok",
+"shift": [
+16.34,
+-4.4
+],
+"bgDiff": 4.5,
+"flicker": 0.125,
+"bucket": "locked",
+"mp4KB": 162,
+"gifKB": 2212
+},
+"Barbell_Squat": {
+"status": "ok",
+"shift": [
+3.71,
+-11.09
+],
+"bgDiff": 6.9,
+"flicker": 0.427,
+"bucket": "locked",
+"mp4KB": 187,
+"gifKB": 2308
+},
+"Barbell_Shrug_Behind_The_Back": {
+"status": "ok",
+"shift": [
+-4.49,
+-0.23
+],
+"bgDiff": 4.3,
+"flicker": 0.064,
+"bucket": "locked",
+"mp4KB": 139,
+"gifKB": 2199
+},
+"Barbell_Side_Bend": {
+"status": "ok",
+"shift": [
+40.0,
+-0.25
+],
+"bgDiff": 9.8,
+"flicker": 0.466,
+"bucket": "locked",
+"mp4KB": 200,
+"gifKB": 2161
+},
+"Barbell_Walking_Lunge": {
+"status": "ok",
+"shift": [
+-34.19,
+-18.27
+],
+"bgDiff": 13.6,
+"flicker": 1.268,
+"bucket": "usable",
+"mp4KB": 191,
+"gifKB": 3049
+},
+"Battling_Ropes": {
+"status": "ok",
+"shift": [
+1.8,
+-2.65
+],
+"bgDiff": 5.0,
+"flicker": 0.101,
+"bucket": "locked",
+"mp4KB": 135,
+"gifKB": 2653
+},
+"Barbell_Squat_To_A_Bench": {
+"status": "ok",
+"shift": [
+11.15,
+-12.0
+],
+"bgDiff": 26.1,
+"flicker": 2.204,
+"bucket": "angle_mismatch",
+"mp4KB": 283,
+"gifKB": 2556
+},
+"Barbell_Step_Ups": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 45.8,
+"flicker": 22.382,
+"bucket": "angle_mismatch",
+"mp4KB": 267,
+"gifKB": 2342
+},
+"Bear_Crawl_Sled_Drags": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 38.3,
+"flicker": 9.044,
+"bucket": "angle_mismatch",
+"mp4KB": 173,
+"gifKB": 1762
+},
+"Behind_Head_Chest_Stretch": {
+"status": "ok",
+"shift": [
+6.14,
+21.67
+],
+"bgDiff": 13.7,
+"flicker": 0.376,
+"bucket": "usable",
+"mp4KB": 122,
+"gifKB": 1566
+},
+"Bench_Dips": {
+"status": "ok",
+"shift": [
+2.04,
+2.44
+],
+"bgDiff": 3.4,
+"flicker": 0.03,
+"bucket": "locked",
+"mp4KB": 143,
+"gifKB": 2134
+},
+"Bench_Jump": {
+"status": "ok",
+"shift": [
+0.29,
+-0.51
+],
+"bgDiff": 6.2,
+"flicker": 0.248,
+"bucket": "locked",
+"mp4KB": 138,
+"gifKB": 2614
+},
+"Bench_Press_-_Powerlifting": {
+"status": "ok",
+"shift": [
+0.5,
+-0.31
+],
+"bgDiff": 5.6,
+"flicker": 1.177,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2467
+},
+"Bench_Press_-_With_Bands": {
+"status": "ok",
+"shift": [
+0.29,
+-2.78
+],
+"bgDiff": 6.0,
+"flicker": 0.249,
+"bucket": "locked",
+"mp4KB": 155,
+"gifKB": 2555
+},
+"Bench_Press_with_Chains": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 35.3,
+"flicker": 6.314,
+"bucket": "angle_mismatch",
+"mp4KB": 227,
+"gifKB": 2796
+},
+"Bench_Sprint": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 4.0,
+"flicker": 0.255,
+"bucket": "locked",
+"mp4KB": 145,
+"gifKB": 2686
+},
+"Bent-Knee_Hip_Raise": {
+"status": "ok",
+"shift": [
+-0.94,
+0.41
+],
+"bgDiff": 4.4,
+"flicker": 0.558,
+"bucket": "locked",
+"mp4KB": 177,
+"gifKB": 2291
+},
+"Bent_Over_Barbell_Row": {
+"status": "ok",
+"shift": [
+1.26,
+1.04
+],
+"bgDiff": 4.3,
+"bucket": "locked",
+"backfilled": true
+},
+"Bent-Arm_Barbell_Pullover": {
+"status": "ok",
+"shift": [
+-1.58,
+4.89
+],
+"bgDiff": 2.9,
+"flicker": 0.076,
+"bucket": "locked",
+"mp4KB": 142,
+"gifKB": 2143
+},
+"Bent-Arm_Dumbbell_Pullover": {
+"status": "ok",
+"shift": [
+0.17,
+0.68
+],
+"bgDiff": 2.0,
+"flicker": 0.222,
+"bucket": "locked",
+"mp4KB": 123,
+"gifKB": 2280
+},
+"Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench": {
+"status": "ok",
+"shift": [
+-7.71,
+9.86
+],
+"bgDiff": 7.6,
+"flicker": 2.091,
+"bucket": "locked",
+"mp4KB": 134,
+"gifKB": 2402
+},
+"Bent_Over_Low-Pulley_Side_Lateral": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 16.4,
+"flicker": 1.128,
+"bucket": "usable",
+"mp4KB": 170,
+"gifKB": 2910
+},
+"Bent_Over_One-Arm_Long_Bar_Row": {
+"status": "ok",
+"shift": [
+5.37,
+-16.82
+],
+"bgDiff": 12.1,
+"flicker": 0.181,
+"bucket": "usable",
+"mp4KB": 140,
+"gifKB": 1960
+},
+"Bent_Over_Two-Arm_Long_Bar_Row": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 48.3,
+"flicker": 3.895,
+"bucket": "angle_mismatch",
+"mp4KB": 225,
+"gifKB": 2026
+},
+"Bent_Over_Two-Dumbbell_Row": {
+"status": "ok",
+"shift": [
+-1.3,
+0.64
+],
+"bgDiff": 5.2,
+"flicker": 0.555,
+"bucket": "locked",
+"mp4KB": 160,
+"gifKB": 2332
+},
+"Bent_Over_Two-Dumbbell_Row_With_Palms_In": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 2.8,
+"flicker": 0.13,
+"bucket": "locked",
+"mp4KB": 142,
+"gifKB": 1862
+},
+"Bent_Press": {
+"status": "ok",
+"shift": [
+-40.0,
+-16.65
+],
+"bgDiff": 10.3,
+"flicker": 1.029,
+"bucket": "usable",
+"mp4KB": 186,
+"gifKB": 2029
+},
+"Bicycling": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 60.3,
+"flicker": 17.309,
+"bucket": "angle_mismatch",
+"mp4KB": 281,
+"gifKB": 2716
+},
+"Body-Up": {
+"status": "ok",
+"shift": [
+-1.43,
+5.06
+],
+"bgDiff": 18.8,
+"flicker": 5.174,
+"bucket": "usable",
+"mp4KB": 162,
+"gifKB": 2132
+},
+"Body_Tricep_Press": {
+"status": "ok",
+"shift": [
+-14.07,
+-1.4
+],
+"bgDiff": 6.1,
+"flicker": 1.038,
+"bucket": "locked",
+"mp4KB": 246,
+"gifKB": 3029
+},
+"Bicycling_Stationary": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 55.5,
+"flicker": 16.451,
+"bucket": "angle_mismatch",
+"mp4KB": 267,
+"gifKB": 2396
+},
+"Board_Press": {
+"status": "ok",
+"shift": [
+0.03,
+-4.21
+],
+"bgDiff": 4.2,
+"flicker": 0.858,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 2419
+},
+"Bodyweight_Flyes": {
+"status": "ok",
+"shift": [
+0.22,
+-0.02
+],
+"bgDiff": 4.7,
+"flicker": 0.963,
+"bucket": "locked",
+"mp4KB": 170,
+"gifKB": 2753
+},
+"Bodyweight_Mid_Row": {
+"status": "ok",
+"shift": [
+-1.44,
+-0.57
+],
+"bgDiff": 1.8,
+"flicker": 0.088,
+"bucket": "locked",
+"mp4KB": 126,
+"gifKB": 2783
+},
+"Bodyweight_Squat": {
+"status": "ok",
+"shift": [
+3.93,
+-9.36
+],
+"bgDiff": 3.6,
+"flicker": 0.144,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 2174
+},
+"Bodyweight_Walking_Lunge": {
+"status": "ok",
+"shift": [
+-16.94,
+-40.0
+],
+"bgDiff": 11.9,
+"flicker": 1.421,
+"bucket": "usable",
+"mp4KB": 282,
+"gifKB": 3072
+},
+"Bottoms_Up": {
+"status": "ok",
+"shift": [
+0.96,
+-9.23
+],
+"bgDiff": 3.1,
+"flicker": 0.387,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 2991
+},
+"Box_Jump_Multiple_Response": {
+"status": "ok",
+"shift": [
+33.6,
+40.0
+],
+"bgDiff": 5.7,
+"flicker": 0.752,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 1915
+},
+"Bosu_Ball_Cable_Crunch_With_Side_Bends": {
+"status": "ok",
+"shift": [
+-0.83,
+-4.81
+],
+"bgDiff": 19.1,
+"flicker": 2.102,
+"bucket": "usable",
+"mp4KB": 201,
+"gifKB": 2858
+},
+"Bottoms-Up_Clean_From_The_Hang_Position": {
+"status": "ok",
+"shift": [
+-3.57,
+-2.48
+],
+"bgDiff": 3.5,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 90,
+"gifKB": 1943
+},
+"Box_Squat_with_Bands": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 52.4,
+"flicker": 12.487,
+"bucket": "angle_mismatch",
+"mp4KB": 204,
+"gifKB": 2769
+},
+"Box_Squat_with_Chains": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 49.4,
+"flicker": 17.987,
+"bucket": "angle_mismatch",
+"mp4KB": 225,
+"gifKB": 2912
+},
+"Box_Skip": {
+"status": "ok",
+"shift": [
+-12.0,
+-6.25
+],
+"bgDiff": 22.8,
+"flicker": 4.417,
+"bucket": "angle_mismatch",
+"mp4KB": 235,
+"gifKB": 2443
+},
+"Box_Squat": {
+"status": "ok",
+"shift": [
+-0.75,
+-12.0
+],
+"bgDiff": 48.4,
+"flicker": 9.727,
+"bucket": "angle_mismatch",
+"mp4KB": 200,
+"gifKB": 2644
+},
+"Brachialis-SMR": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 0.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 43,
+"gifKB": 116
+},
+"Bradford_Rocky_Presses": {
+"status": "ok",
+"shift": [
+-2.6,
+1.75
+],
+"bgDiff": 7.3,
+"flicker": 0.153,
+"bucket": "locked",
+"mp4KB": 110,
+"gifKB": 2388
+},
+"Butt-Ups": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 1.9,
+"flicker": 0.019,
+"bucket": "locked",
+"mp4KB": 139,
+"gifKB": 2440
+},
+"Butt_Lift_Bridge": {
+"status": "ok",
+"shift": [
+-28.61,
+8.79
+],
+"bgDiff": 6.2,
+"flicker": 0.289,
+"bucket": "locked",
+"mp4KB": 168,
+"gifKB": 2260
+},
+"Butterfly": {
+"status": "ok",
+"shift": [
+-6.62,
+-11.51
+],
+"bgDiff": 11.2,
+"flicker": 0.443,
+"bucket": "usable",
+"mp4KB": 176,
+"gifKB": 3194
+},
+"Cable_Chest_Press": {
+"status": "ok",
+"shift": [
+-4.68,
+-1.4
+],
+"bgDiff": 8.0,
+"flicker": 0.273,
+"bucket": "locked",
+"mp4KB": 159,
+"gifKB": 3082
+},
+"Cable_Crossover": {
+"status": "ok",
+"shift": [
+19.76,
+0.26
+],
+"bgDiff": 19.8,
+"flicker": 0.206,
+"bucket": "usable",
+"mp4KB": 170,
+"gifKB": 2383
+},
+"Cable_Crunch": {
+"status": "ok",
+"shift": [
+18.3,
+0.74
+],
+"bgDiff": 9.3,
+"flicker": 0.791,
+"bucket": "locked",
+"mp4KB": 176,
+"gifKB": 2771
+},
+"Cable_Deadlifts": {
+"status": "ok",
+"shift": [
+-3.94,
+1.45
+],
+"bgDiff": 5.9,
+"flicker": 0.254,
+"bucket": "locked",
+"mp4KB": 145,
+"gifKB": 2708
+},
+"Cable_Hammer_Curls_-_Rope_Attachment": {
+"status": "ok",
+"shift": [
+-0.22,
+-1.63
+],
+"bgDiff": 14.7,
+"flicker": 0.172,
+"bucket": "usable",
+"mp4KB": 141,
+"gifKB": 2864
+},
+"Cable_Hip_Adduction": {
+"status": "ok",
+"shift": [
+-3.05,
+-4.2
+],
+"bgDiff": 4.5,
+"flicker": 0.78,
+"bucket": "locked",
+"mp4KB": 186,
+"gifKB": 3186
+},
+"Cable_Incline_Pushdown": {
+"status": "ok",
+"shift": [
+2.19,
+-6.14
+],
+"bgDiff": 10.2,
+"flicker": 0.291,
+"bucket": "usable",
+"mp4KB": 170,
+"gifKB": 2920
+},
+"Cable_Incline_Triceps_Extension": {
+"status": "ok",
+"shift": [
+1.48,
+-0.73
+],
+"bgDiff": 6.7,
+"flicker": 0.06,
+"bucket": "locked",
+"mp4KB": 123,
+"gifKB": 2643
+},
+"Cable_Internal_Rotation": {
+"status": "ok",
+"shift": [
+-3.94,
+-4.43
+],
+"bgDiff": 8.4,
+"flicker": 0.221,
+"bucket": "locked",
+"mp4KB": 150,
+"gifKB": 3019
+},
+"Cable_Iron_Cross": {
+"status": "ok",
+"shift": [
+0.03,
+0.25
+],
+"bgDiff": 5.2,
+"flicker": 0.019,
+"bucket": "locked",
+"mp4KB": 110,
+"gifKB": 2876
+},
+"Cable_Judo_Flip": {
+"status": "ok",
+"shift": [
+0.04,
+-0.05
+],
+"bgDiff": 6.2,
+"flicker": 1.699,
+"bucket": "locked",
+"mp4KB": 200,
+"gifKB": 2444
+},
+"Cable_Lying_Triceps_Extension": {
+"status": "ok",
+"shift": [
+31.73,
+-1.33
+],
+"bgDiff": 23.1,
+"flicker": 1.795,
+"bucket": "angle_mismatch",
+"mp4KB": 230,
+"gifKB": 2755
+},
+"Cable_One_Arm_Tricep_Extension": {
+"status": "ok",
+"shift": [
+4.45,
+0.71
+],
+"bgDiff": 4.0,
+"flicker": 0.228,
+"bucket": "locked",
+"mp4KB": 159,
+"gifKB": 2775
+},
+"Cable_Preacher_Curl": {
+"status": "ok",
+"shift": [
+2.23,
+8.55
+],
+"bgDiff": 17.2,
+"flicker": 0.962,
+"bucket": "usable",
+"mp4KB": 193,
+"gifKB": 3387
+},
+"Cable_Rear_Delt_Fly": {
+"status": "ok",
+"shift": [
+3.11,
+3.19
+],
+"bgDiff": 5.6,
+"flicker": 0.462,
+"bucket": "locked",
+"mp4KB": 163,
+"gifKB": 2527
+},
+"Cable_Reverse_Crunch": {
+"status": "ok",
+"shift": [
+8.24,
+-0.81
+],
+"bgDiff": 9.0,
+"flicker": 0.302,
+"bucket": "locked",
+"mp4KB": 234,
+"gifKB": 3088
+},
+"Cable_Rope_Overhead_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-3.86,
+2.64
+],
+"bgDiff": 15.1,
+"flicker": 0.81,
+"bucket": "usable",
+"mp4KB": 179,
+"gifKB": 2949
+},
+"Cable_Rope_Rear-Delt_Rows": {
+"status": "ok",
+"shift": [
+2.95,
+7.35
+],
+"bgDiff": 12.8,
+"flicker": 0.19,
+"bucket": "usable",
+"mp4KB": 197,
+"gifKB": 2978
+},
+"Cable_Russian_Twists": {
+"status": "ok",
+"shift": [
+-40.0,
+1.27
+],
+"bgDiff": 18.2,
+"flicker": 3.772,
+"bucket": "usable",
+"mp4KB": 281,
+"gifKB": 2742
+},
+"Cable_Seated_Crunch": {
+"status": "ok",
+"shift": [
+4.43,
+-2.42
+],
+"bgDiff": 7.6,
+"flicker": 0.096,
+"bucket": "locked",
+"mp4KB": 159,
+"gifKB": 2810
+},
+"Cable_Seated_Lateral_Raise": {
+"status": "ok",
+"shift": [
+3.31,
+0.07
+],
+"bgDiff": 15.2,
+"flicker": 0.051,
+"bucket": "usable",
+"mp4KB": 118,
+"gifKB": 2712
+},
+"Cable_Wrist_Curl": {
+"status": "ok",
+"shift": [
+2.34,
+9.04
+],
+"bgDiff": 7.0,
+"flicker": 0.346,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2755
+},
+"Calf-Machine_Shoulder_Shrug": {
+"status": "ok",
+"shift": [
+5.3,
+-5.27
+],
+"bgDiff": 4.9,
+"flicker": 0.183,
+"bucket": "locked",
+"mp4KB": 150,
+"gifKB": 2106
+},
+"Cable_Shoulder_Press": {
+"status": "ok",
+"shift": [
+-1.15,
+-1.65
+],
+"bgDiff": 6.2,
+"flicker": 0.2,
+"bucket": "locked",
+"mp4KB": 155,
+"gifKB": 2788
+},
+"Cable_Shrugs": {
+"status": "ok",
+"shift": [
+-2.02,
+1.66
+],
+"bgDiff": 6.6,
+"flicker": 0.218,
+"bucket": "locked",
+"mp4KB": 163,
+"gifKB": 3408
+},
+"Calf_Press": {
+"status": "ok",
+"shift": [
+-13.2,
+-1.79
+],
+"bgDiff": 3.8,
+"flicker": 0.656,
+"bucket": "locked",
+"mp4KB": 210,
+"gifKB": 2779
+},
+"Calf_Press_On_The_Leg_Press_Machine": {
+"status": "ok",
+"shift": [
+-7.55,
+-3.51
+],
+"bgDiff": 14.0,
+"flicker": 0.822,
+"bucket": "usable",
+"mp4KB": 203,
+"gifKB": 3159
+},
+"Calf_Raise_On_A_Dumbbell": {
+"status": "ok",
+"shift": [
+-0.63,
+-7.63
+],
+"bgDiff": 1.8,
+"flicker": 0.009,
+"bucket": "locked",
+"mp4KB": 106,
+"gifKB": 1971
+},
+"Calf_Raises_-_With_Bands": {
+"status": "ok",
+"shift": [
+9.08,
+-10.05
+],
+"bgDiff": 7.9,
+"flicker": 2.017,
+"bucket": "locked",
+"mp4KB": 151,
+"gifKB": 1995
+},
+"Calf_Stretch_Elbows_Against_Wall": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 83.2,
+"flicker": 11.736,
+"bucket": "angle_mismatch",
+"mp4KB": 176,
+"gifKB": 1714
+},
+"Calf_Stretch_Hands_Against_Wall": {
+"status": "ok",
+"shift": [
+0.1,
+-0.93
+],
+"bgDiff": 61.4,
+"flicker": 9.447,
+"bucket": "angle_mismatch",
+"mp4KB": 173,
+"gifKB": 1857
+},
+"Calves-SMR": {
+"status": "ok",
+"shift": [
+-0.44,
+-0.41
+],
+"bgDiff": 4.3,
+"flicker": 2.557,
+"bucket": "locked",
+"mp4KB": 169,
+"gifKB": 1537
+},
+"Car_Deadlift": {
+"status": "ok",
+"shift": [
+0.1,
+-14.21
+],
+"bgDiff": 8.1,
+"flicker": 1.108,
+"bucket": "locked",
+"mp4KB": 156,
+"gifKB": 2042
+},
+"Car_Drivers": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 2.5,
+"flicker": 0.002,
+"bucket": "locked",
+"mp4KB": 130,
+"gifKB": 2552
+},
+"Carioca_Quick_Step": {
+"status": "ok",
+"shift": [
+-37.57,
+2.9
+],
+"bgDiff": 4.8,
+"flicker": 0.057,
+"bucket": "locked",
+"mp4KB": 114,
+"gifKB": 2898
+},
+"Cat_Stretch": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 1.7,
+"flicker": 0.037,
+"bucket": "locked",
+"mp4KB": 120,
+"gifKB": 1625
+},
+"Catch_and_Overhead_Throw": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 9.9,
+"flicker": 2.49,
+"bucket": "locked",
+"mp4KB": 212,
+"gifKB": 2278
+},
+"Chain_Handle_Extension": {
+"status": "ok",
+"shift": [
+0.88,
+4.91
+],
+"bgDiff": 5.1,
+"flicker": 3.691,
+"bucket": "locked",
+"mp4KB": 123,
+"gifKB": 2068
+},
+"Chain_Press": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 28.7,
+"flicker": 7.384,
+"bucket": "angle_mismatch",
+"mp4KB": 211,
+"gifKB": 2607
+},
+"Chair_Leg_Extended_Stretch": {
+"status": "ok",
+"shift": [
+0.37,
+-1.83
+],
+"bgDiff": 3.5,
+"flicker": 0.194,
+"bucket": "locked",
+"mp4KB": 97,
+"gifKB": 1584
+},
+"Chair_Lower_Back_Stretch": {
+"status": "ok",
+"shift": [
+12.0,
+-12.0
+],
+"bgDiff": 74.9,
+"flicker": 8.406,
+"bucket": "angle_mismatch",
+"mp4KB": 157,
+"gifKB": 1430
+},
+"Chair_Squat": {
+"status": "ok",
+"shift": [
+38.91,
+-0.54
+],
+"bgDiff": 17.0,
+"flicker": 4.2,
+"bucket": "usable",
+"mp4KB": 199,
+"gifKB": 2747
+},
+"Chair_Upper_Body_Stretch": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 37.3,
+"flicker": 11.438,
+"bucket": "angle_mismatch",
+"mp4KB": 186,
+"gifKB": 1746
+},
+"Chest_And_Front_Of_Shoulder_Stretch": {
+"status": "ok",
+"shift": [
+0.63,
+12.0
+],
+"bgDiff": 37.5,
+"flicker": 5.4,
+"bucket": "angle_mismatch",
+"mp4KB": 134,
+"gifKB": 1618
+},
+"Chest_Push_from_3_point_stance": {
+"status": "ok",
+"shift": [
+39.43,
+23.89
+],
+"bgDiff": 5.5,
+"flicker": 1.35,
+"bucket": "locked",
+"mp4KB": 161,
+"gifKB": 1771
+},
+"Chest_Push_multiple_response": {
+"status": "ok",
+"shift": [
+4.82,
+3.73
+],
+"bgDiff": 10.4,
+"flicker": 0.084,
+"bucket": "usable",
+"mp4KB": 151,
+"gifKB": 2067
+},
+"Chest_Push_single_response": {
+"status": "ok",
+"shift": [
+-9.05,
+4.31
+],
+"bgDiff": 4.8,
+"flicker": 0.589,
+"bucket": "locked",
+"mp4KB": 148,
+"gifKB": 1824
+},
+"Chest_Push_with_Run_Release": {
+"status": "ok",
+"shift": [
+1.32,
+39.75
+],
+"bgDiff": 3.1,
+"flicker": 0.262,
+"bucket": "locked",
+"mp4KB": 163,
+"gifKB": 1855
+},
+"Chest_Stretch_on_Stability_Ball": {
+"status": "ok",
+"shift": [
+0.23,
+0.06
+],
+"bgDiff": 23.1,
+"flicker": 15.295,
+"bucket": "angle_mismatch",
+"mp4KB": 181,
+"gifKB": 1619
+},
+"Childs_Pose": {
+"status": "ok",
+"shift": [
+-1.91,
+3.56
+],
+"bgDiff": 6.1,
+"flicker": 0.259,
+"bucket": "locked",
+"mp4KB": 107,
+"gifKB": 1603
+},
+"Chin-Up": {
+"status": "ok",
+"shift": [
+-9.62,
+-14.32
+],
+"bgDiff": 3.7,
+"flicker": 0.055,
+"bucket": "locked",
+"mp4KB": 114,
+"gifKB": 1984
+},
+"Chin_To_Chest_Stretch": {
+"status": "ok",
+"shift": [
+-0.57,
+-0.13
+],
+"bgDiff": 41.1,
+"flicker": 1.93,
+"bucket": "angle_mismatch",
+"mp4KB": 138,
+"gifKB": 1377
+},
+"Circus_Bell": {
+"status": "ok",
+"shift": [
+-0.16,
+-12.31
+],
+"bgDiff": 72.9,
+"flicker": 17.009,
+"bucket": "angle_mismatch",
+"mp4KB": 282,
+"gifKB": 2943
+},
+"Clean": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 16.5,
+"flicker": 2.138,
+"bucket": "usable",
+"mp4KB": 203,
+"gifKB": 2114
+},
+"Clean_Deadlift": {
+"status": "ok",
+"shift": [
+-5.09,
+1.67
+],
+"bgDiff": 5.3,
+"flicker": 1.219,
+"bucket": "locked",
+"mp4KB": 139,
+"gifKB": 2021
+},
+"Clean_Pull": {
+"status": "ok",
+"shift": [
+0.34,
+1.37
+],
+"bgDiff": 2.9,
+"flicker": 0.03,
+"bucket": "locked",
+"mp4KB": 120,
+"gifKB": 2038
+},
+"Clean_Shrug": {
+"status": "ok",
+"shift": [
+0.98,
+0.19
+],
+"bgDiff": 1.4,
+"flicker": 0.001,
+"bucket": "locked",
+"mp4KB": 130,
+"gifKB": 2233
+},
+"Clean_and_Jerk": {
+"status": "ok",
+"shift": [
+6.07,
+2.24
+],
+"bgDiff": 4.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 132,
+"gifKB": 1917
+},
+"Clean_and_Press": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 39.2,
+"flicker": 6.251,
+"bucket": "angle_mismatch",
+"mp4KB": 264,
+"gifKB": 2860
+},
+"Clean_from_Blocks": {
+"status": "ok",
+"shift": [
+-5.64,
+-1.03
+],
+"bgDiff": 4.8,
+"flicker": 0.271,
+"bucket": "locked",
+"mp4KB": 154,
+"gifKB": 2096
+},
+"Clock_Push-Up": {
+"status": "ok",
+"shift": [
+0.1,
+-0.35
+],
+"bgDiff": 8.4,
+"flicker": 2.485,
+"bucket": "locked",
+"mp4KB": 131,
+"gifKB": 2772
+},
+"Close-Grip_Barbell_Bench_Press": {
+"status": "ok",
+"shift": [
+-0.29,
+-5.48
+],
+"bgDiff": 4.3,
+"flicker": 0.318,
+"bucket": "locked",
+"mp4KB": 168,
+"gifKB": 3159
+},
+"Close-Grip_Dumbbell_Press": {
+"status": "ok",
+"shift": [
+-0.07,
+-0.27
+],
+"bgDiff": 2.3,
+"flicker": 0.027,
+"bucket": "locked",
+"mp4KB": 109,
+"gifKB": 3029
+},
+"Close-Grip_EZ-Bar_Curl_with_Band": {
+"status": "ok",
+"shift": [
+-3.09,
+0.19
+],
+"bgDiff": 5.2,
+"flicker": 0.094,
+"bucket": "locked",
+"mp4KB": 156,
+"gifKB": 2590
+},
+"Close-Grip_EZ-Bar_Press": {
+"status": "ok",
+"bucket": "angle_mismatch",
+"note": "photo pair has mismatched orientation (portrait vs landscape); crossfade only"
+},
+"Close-Grip_EZ_Bar_Curl": {
+"status": "ok",
+"shift": [
+-3.06,
+-0.91
+],
+"bgDiff": 3.8,
+"flicker": 0.056,
+"bucket": "locked",
+"mp4KB": 130,
+"gifKB": 2272
+},
+"Close-Grip_Front_Lat_Pulldown": {
+"status": "ok",
+"shift": [
+-13.19,
+-4.7
+],
+"bgDiff": 8.7,
+"flicker": 0.29,
+"bucket": "locked",
+"mp4KB": 148,
+"gifKB": 2726
+},
+"Close-Grip_Push-Up_off_of_a_Dumbbell": {
+"status": "ok",
+"shift": [
+-0.24,
+0.2
+],
+"bgDiff": 6.6,
+"flicker": 0.819,
+"bucket": "locked",
+"mp4KB": 156,
+"gifKB": 2566
+},
+"Close-Grip_Standing_Barbell_Curl": {
+"status": "ok",
+"shift": [
+-4.64,
+8.04
+],
+"bgDiff": 2.0,
+"flicker": 0.294,
+"bucket": "locked",
+"mp4KB": 110,
+"gifKB": 1927
+},
+"Cocoons": {
+"status": "ok",
+"shift": [
+-0.78,
+1.83
+],
+"bgDiff": 2.0,
+"flicker": 0.001,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 2902
+},
+"Conans_Wheel": {
+"status": "ok",
+"shift": [
+-0.19,
+0.08
+],
+"bgDiff": 61.3,
+"flicker": 7.457,
+"bucket": "angle_mismatch",
+"mp4KB": 191,
+"gifKB": 1880
+},
+"Concentration_Curls": {
+"status": "ok",
+"shift": [
+-7.14,
+-2.21
+],
+"bgDiff": 3.9,
+"flicker": 0.019,
+"bucket": "locked",
+"mp4KB": 132,
+"gifKB": 2168
+},
+"Cross-Body_Crunch": {
+"status": "ok",
+"shift": [
+-12.82,
+4.24
+],
+"bgDiff": 2.9,
+"flicker": 0.269,
+"bucket": "locked",
+"mp4KB": 198,
+"gifKB": 2451
+},
+"Crossover_Reverse_Lunge": {
+"status": "ok",
+"shift": [
+12.0,
+-7.8
+],
+"bgDiff": 23.9,
+"flicker": 3.879,
+"bucket": "angle_mismatch",
+"mp4KB": 155,
+"gifKB": 1513
+},
+"Crucifix": {
+"status": "ok",
+"shift": [
+-0.13,
+12.0
+],
+"bgDiff": 39.3,
+"flicker": 7.034,
+"bucket": "angle_mismatch",
+"mp4KB": 279,
+"gifKB": 2826
+},
+"Cross_Body_Hammer_Curl": {
+"status": "ok",
+"shift": [
+-2.37,
+-5.18
+],
+"bgDiff": 3.5,
+"flicker": 0.076,
+"bucket": "locked",
+"mp4KB": 122,
+"gifKB": 1859
+},
+"Cross_Over_-_With_Bands": {
+"status": "ok",
+"shift": [
+-4.09,
+8.06
+],
+"bgDiff": 6.7,
+"flicker": 0.256,
+"bucket": "locked",
+"mp4KB": 122,
+"gifKB": 1976
+},
+"Crunch_-_Hands_Overhead": {
+"status": "ok",
+"shift": [
+-1.05,
+16.24
+],
+"bgDiff": 6.8,
+"flicker": 0.263,
+"bucket": "locked",
+"mp4KB": 245,
+"gifKB": 2739
+},
+"Crunch_-_Legs_On_Exercise_Ball": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 4.2,
+"flicker": 0.148,
+"bucket": "locked",
+"mp4KB": 219,
+"gifKB": 2164
+},
+"Crunches": {
+"status": "ok",
+"shift": [
+3.45,
+1.85
+],
+"bgDiff": 4.7,
+"flicker": 0.084,
+"bucket": "locked",
+"mp4KB": 185,
+"gifKB": 2757
+},
+"Cuban_Press": {
+"status": "ok",
+"shift": [
+4.24,
+12.0
+],
+"bgDiff": 27.1,
+"flicker": 6.754,
+"bucket": "angle_mismatch",
+"mp4KB": 232,
+"gifKB": 2293
+},
+"Dancers_Stretch": {
+"status": "ok",
+"shift": [
+-3.86,
+-12.0
+],
+"bgDiff": 3.7,
+"flicker": 2.879,
+"bucket": "locked",
+"mp4KB": 139,
+"gifKB": 1604
+},
+"Dead_Bug": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 2.3,
+"flicker": 1.51,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 2411
+},
+"Deadlift_with_Bands": {
+"status": "ok",
+"shift": [
+-32.64,
+-8.38
+],
+"bgDiff": 21.0,
+"flicker": 0.775,
+"bucket": "angle_mismatch",
+"mp4KB": 140,
+"gifKB": 1993
+},
+"Deadlift_with_Chains": {
+"status": "ok",
+"shift": [
+0.01,
+12.0
+],
+"bgDiff": 53.7,
+"flicker": 9.431,
+"bucket": "angle_mismatch",
+"mp4KB": 254,
+"gifKB": 2377
+},
+"Decline_Barbell_Bench_Press": {
+"status": "ok",
+"shift": [
+-8.29,
+12.85
+],
+"bgDiff": 19.6,
+"flicker": 0.969,
+"bucket": "usable",
+"mp4KB": 196,
+"gifKB": 3424
+},
+"Decline_Close-Grip_Bench_To_Skull_Crusher": {
+"status": "ok",
+"shift": [
+-9.09,
+-12.0
+],
+"bgDiff": 5.8,
+"flicker": 2.413,
+"bucket": "locked",
+"mp4KB": 220,
+"gifKB": 2521
+},
+"Decline_Crunch": {
+"status": "ok",
+"shift": [
+-1.09,
+-0.56
+],
+"bgDiff": 7.1,
+"flicker": 6.304,
+"bucket": "locked",
+"mp4KB": 141,
+"gifKB": 3248
+},
+"Decline_Dumbbell_Bench_Press": {
+"status": "ok",
+"shift": [
+-4.11,
+3.47
+],
+"bgDiff": 4.1,
+"flicker": 0.03,
+"bucket": "locked",
+"mp4KB": 134,
+"gifKB": 2419
+},
+"Decline_Dumbbell_Flyes": {
+"status": "ok",
+"shift": [
+-9.58,
+-1.68
+],
+"bgDiff": 5.0,
+"flicker": 0.028,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 2374
+},
+"Decline_Dumbbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-6.06,
+-6.44
+],
+"bgDiff": 3.4,
+"flicker": 0.572,
+"bucket": "locked",
+"mp4KB": 137,
+"gifKB": 1966
+},
+"Decline_EZ_Bar_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-7.37,
+-9.96
+],
+"bgDiff": 4.1,
+"flicker": 0.314,
+"bucket": "locked",
+"mp4KB": 127,
+"gifKB": 2193
+},
+"Decline_Oblique_Crunch": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 11.3,
+"flicker": 4.138,
+"bucket": "usable",
+"mp4KB": 193,
+"gifKB": 2230
+},
+"Decline_Push-Up": {
+"status": "ok",
+"shift": [
+-5.59,
+-3.07
+],
+"bgDiff": 4.9,
+"flicker": 0.297,
+"bucket": "locked",
+"mp4KB": 164,
+"gifKB": 2583
+},
+"Decline_Reverse_Crunch": {
+"status": "ok",
+"shift": [
+40.0,
+-0.02
+],
+"bgDiff": 19.5,
+"flicker": 1.52,
+"bucket": "usable",
+"mp4KB": 221,
+"gifKB": 3293
+},
+"Decline_Smith_Press": {
+"status": "ok",
+"shift": [
+-0.21,
+0.91
+],
+"bgDiff": 5.1,
+"flicker": 0.718,
+"bucket": "locked",
+"mp4KB": 161,
+"gifKB": 2857
+},
+"Deficit_Deadlift": {
+"status": "ok",
+"shift": [
+-2.42,
+12.0
+],
+"bgDiff": 56.3,
+"flicker": 6.454,
+"bucket": "angle_mismatch",
+"mp4KB": 199,
+"gifKB": 2343
+},
+"Depth_Jump_Leap": {
+"status": "ok",
+"shift": [
+-5.12,
+4.41
+],
+"bgDiff": 14.3,
+"flicker": 2.909,
+"bucket": "usable",
+"mp4KB": 183,
+"gifKB": 1748
+},
+"Dip_Machine": {
+"status": "ok",
+"shift": [
+-8.5,
+0.26
+],
+"bgDiff": 15.5,
+"flicker": 0.099,
+"bucket": "usable",
+"mp4KB": 215,
+"gifKB": 3408
+},
+"Dips_-_Chest_Version": {
+"status": "ok",
+"shift": [
+0.15,
+-0.25
+],
+"bgDiff": 2.8,
+"flicker": 0.336,
+"bucket": "locked",
+"mp4KB": 162,
+"gifKB": 3039
+},
+"Dips_-_Triceps_Version": {
+"status": "ok",
+"shift": [
+-7.3,
+12.0
+],
+"bgDiff": 23.1,
+"flicker": 6.195,
+"bucket": "angle_mismatch",
+"mp4KB": 244,
+"gifKB": 3137
+},
+"Donkey_Calf_Raises": {
+"status": "ok",
+"shift": [
+4.23,
+0.72
+],
+"bgDiff": 6.5,
+"flicker": 0.109,
+"bucket": "locked",
+"mp4KB": 162,
+"gifKB": 2827
+},
+"Double_Kettlebell_Alternating_Hang_Clean": {
+"status": "ok",
+"shift": [
+9.51,
+-10.26
+],
+"bgDiff": 3.8,
+"flicker": 0.002,
+"bucket": "locked",
+"mp4KB": 111,
+"gifKB": 1994
+},
+"Double_Kettlebell_Jerk": {
+"status": "ok",
+"shift": [
+-17.98,
+27.12
+],
+"bgDiff": 8.8,
+"flicker": 0.768,
+"bucket": "locked",
+"mp4KB": 159,
+"gifKB": 1933
+},
+"Double_Kettlebell_Push_Press": {
+"status": "ok",
+"shift": [
+-12.0,
+-11.17
+],
+"bgDiff": 3.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 112,
+"gifKB": 1912
+},
+"Double_Kettlebell_Snatch": {
+"status": "ok",
+"shift": [
+-7.26,
+12.0
+],
+"bgDiff": 8.9,
+"flicker": 0.143,
+"bucket": "locked",
+"mp4KB": 172,
+"gifKB": 2031
+},
+"Double_Kettlebell_Windmill": {
+"status": "ok",
+"shift": [
+7.29,
+-19.54
+],
+"bgDiff": 3.8,
+"flicker": 0.015,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 1937
+},
+"Double_Leg_Butt_Kick": {
+"status": "ok",
+"shift": [
+0.05,
+0.31
+],
+"bgDiff": 2.3,
+"flicker": 0.032,
+"bucket": "locked",
+"mp4KB": 81,
+"gifKB": 1764
+},
+"Downward_Facing_Balance": {
+"status": "ok",
+"shift": [
+-0.02,
+0.19
+],
+"bgDiff": 46.7,
+"flicker": 2.922,
+"bucket": "angle_mismatch",
+"mp4KB": 172,
+"gifKB": 1505
+},
+"Drag_Curl": {
+"status": "ok",
+"shift": [
+1.09,
+4.29
+],
+"bgDiff": 4.9,
+"flicker": 0.145,
+"bucket": "locked",
+"mp4KB": 128,
+"gifKB": 2295
+},
+"Drop_Push": {
+"status": "ok",
+"shift": [
+-6.26,
+-12.0
+],
+"bgDiff": 7.8,
+"flicker": 1.29,
+"bucket": "locked",
+"mp4KB": 235,
+"gifKB": 2197
+},
+"Dumbbell_Alternate_Bicep_Curl": {
+"status": "ok",
+"shift": [
+1.27,
+-2.83
+],
+"bgDiff": 2.4,
+"flicker": 0.047,
+"bucket": "locked",
+"mp4KB": 101,
+"gifKB": 1880
+},
+"Dumbbell_Bench_Press": {
+"status": "ok",
+"shift": [
+-0.66,
+-1.11
+],
+"bgDiff": 4.7,
+"flicker": 0.157,
+"bucket": "locked",
+"mp4KB": 148,
+"gifKB": 2181
+},
+"Dumbbell_Bench_Press_with_Neutral_Grip": {
+"status": "ok",
+"shift": [
+-5.2,
+-1.07
+],
+"bgDiff": 11.3,
+"flicker": 0.764,
+"bucket": "usable",
+"mp4KB": 248,
+"gifKB": 3204
+},
+"Dumbbell_Bicep_Curl": {
+"status": "ok",
+"shift": [
+-2.36,
+-6.01
+],
+"bgDiff": 3.3,
+"flicker": 0.022,
+"bucket": "locked",
+"mp4KB": 112,
+"gifKB": 1913
+},
+"Dumbbell_Clean": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 15.5,
+"flicker": 8.616,
+"bucket": "usable",
+"mp4KB": 191,
+"gifKB": 3290
+},
+"Dumbbell_Floor_Press": {
+"status": "ok",
+"shift": [
+-8.38,
+-7.4
+],
+"bgDiff": 6.3,
+"flicker": 0.426,
+"bucket": "locked",
+"mp4KB": 155,
+"gifKB": 2356
+},
+"Dumbbell_Flyes": {
+"status": "ok",
+"shift": [
+-3.95,
+-2.65
+],
+"bgDiff": 2.9,
+"flicker": 0.01,
+"bucket": "locked",
+"mp4KB": 131,
+"gifKB": 2247
+},
+"Dumbbell_Incline_Row": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 18.0,
+"flicker": 0.73,
+"bucket": "usable",
+"mp4KB": 284,
+"gifKB": 2864
+},
+"Dumbbell_Incline_Shoulder_Raise": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 5.9,
+"flicker": 0.713,
+"bucket": "locked",
+"mp4KB": 147,
+"gifKB": 2244
+},
+"Dumbbell_Lunges": {
+"status": "ok",
+"shift": [
+9.21,
+-12.0
+],
+"bgDiff": 40.8,
+"flicker": 9.316,
+"bucket": "angle_mismatch",
+"mp4KB": 226,
+"gifKB": 2226
+},
+"Dumbbell_Lying_One-Arm_Rear_Lateral_Raise": {
+"status": "ok",
+"shift": [
+-2.77,
+-0.44
+],
+"bgDiff": 3.8,
+"flicker": 0.069,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2096
+},
+"Dumbbell_Lying_Pronation": {
+"status": "ok",
+"shift": [
+12.0,
+5.87
+],
+"bgDiff": 9.9,
+"flicker": 3.97,
+"bucket": "locked",
+"mp4KB": 150,
+"gifKB": 2125
+},
+"Dumbbell_Lying_Rear_Lateral_Raise": {
+"status": "ok",
+"shift": [
+-0.25,
+0.71
+],
+"bgDiff": 3.5,
+"flicker": 0.082,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 2124
+},
+"Dumbbell_Lying_Supination": {
+"status": "ok",
+"shift": [
+-9.53,
+0.55
+],
+"bgDiff": 4.3,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2726
+},
+"Dumbbell_One-Arm_Shoulder_Press": {
+"status": "ok",
+"shift": [
+-1.1,
+2.37
+],
+"bgDiff": 2.3,
+"flicker": 0.103,
+"bucket": "locked",
+"mp4KB": 98,
+"gifKB": 1801
+},
+"Dumbbell_One-Arm_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-11.8,
+12.0
+],
+"bgDiff": 31.2,
+"flicker": 9.968,
+"bucket": "angle_mismatch",
+"mp4KB": 198,
+"gifKB": 2167
+},
+"Dumbbell_One-Arm_Upright_Row": {
+"status": "ok",
+"shift": [
+0.59,
+0.3
+],
+"bgDiff": 2.0,
+"flicker": 0.113,
+"bucket": "locked",
+"mp4KB": 98,
+"gifKB": 1770
+},
+"Dumbbell_Prone_Incline_Curl": {
+"status": "ok",
+"shift": [
+-7.12,
+-15.87
+],
+"bgDiff": 3.0,
+"flicker": 0.779,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 2605
+},
+"Dumbbell_Raise": {
+"status": "ok",
+"shift": [
+1.7,
+1.72
+],
+"bgDiff": 3.1,
+"flicker": 0.038,
+"bucket": "locked",
+"mp4KB": 130,
+"gifKB": 2299
+},
+"Dumbbell_Rear_Lunge": {
+"status": "ok",
+"shift": [
+-2.77,
+-2.59
+],
+"bgDiff": 3.4,
+"flicker": 0.074,
+"bucket": "locked",
+"mp4KB": 129,
+"gifKB": 1834
+},
+"Dumbbell_Scaption": {
+"status": "ok",
+"shift": [
+-2.05,
+10.82
+],
+"bgDiff": 4.9,
+"flicker": 0.092,
+"bucket": "locked",
+"mp4KB": 130,
+"gifKB": 2305
+},
+"Dumbbell_Seated_Box_Jump": {
+"status": "ok",
+"shift": [
+6.0,
+11.18
+],
+"bgDiff": 10.1,
+"flicker": 3.977,
+"bucket": "usable",
+"mp4KB": 225,
+"gifKB": 2984
+},
+"Dumbbell_Seated_One-Leg_Calf_Raise": {
+"status": "ok",
+"shift": [
+13.91,
+0.24
+],
+"bgDiff": 3.9,
+"flicker": 0.008,
+"bucket": "locked",
+"mp4KB": 146,
+"gifKB": 2373
+},
+"Dumbbell_Shoulder_Press": {
+"status": "ok",
+"shift": [
+-4.43,
+3.49
+],
+"bgDiff": 6.1,
+"flicker": 0.947,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2544
+},
+"Dumbbell_Shrug": {
+"status": "ok",
+"shift": [
+-1.45,
+-7.91
+],
+"bgDiff": 3.3,
+"flicker": 0.143,
+"bucket": "locked",
+"mp4KB": 118,
+"gifKB": 1848
+},
+"Dumbbell_Side_Bend": {
+"status": "ok",
+"shift": [
+-3.01,
+-2.26
+],
+"bgDiff": 3.2,
+"flicker": 0.185,
+"bucket": "locked",
+"mp4KB": 138,
+"gifKB": 1886
+},
+"Dumbbell_Squat": {
+"status": "ok",
+"shift": [
+1.35,
+3.16
+],
+"bgDiff": 3.9,
+"flicker": 0.254,
+"bucket": "locked",
+"mp4KB": 141,
+"gifKB": 1864
+},
+"Dumbbell_Squat_To_A_Bench": {
+"status": "ok",
+"shift": [
+1.86,
+-12.0
+],
+"bgDiff": 12.3,
+"flicker": 4.01,
+"bucket": "usable",
+"mp4KB": 203,
+"gifKB": 2072
+},
+"Dumbbell_Step_Ups": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 38.1,
+"flicker": 5.068,
+"bucket": "angle_mismatch",
+"mp4KB": 281,
+"gifKB": 2159
+},
+"Dumbbell_Tricep_Extension_-Pronated_Grip": {
+"status": "ok",
+"shift": [
+-0.98,
+4.22
+],
+"bgDiff": 12.1,
+"flicker": 0.847,
+"bucket": "usable",
+"mp4KB": 204,
+"gifKB": 3424
+},
+"Dynamic_Back_Stretch": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 75.3,
+"flicker": 16.202,
+"bucket": "angle_mismatch",
+"mp4KB": 132,
+"gifKB": 1319
+},
+"Dynamic_Chest_Stretch": {
+"status": "ok",
+"shift": [
+-0.1,
+10.64
+],
+"bgDiff": 3.0,
+"flicker": 1.439,
+"bucket": "locked",
+"mp4KB": 92,
+"gifKB": 1315
+},
+"EZ-Bar_Curl": {
+"status": "ok",
+"shift": [
+0.5,
+1.47
+],
+"bgDiff": 3.3,
+"flicker": 0.054,
+"bucket": "locked",
+"mp4KB": 131,
+"gifKB": 2296
+},
+"EZ-Bar_Skullcrusher": {
+"status": "ok",
+"shift": [
+-15.6,
+-29.5
+],
+"bgDiff": 10.2,
+"flicker": 0.592,
+"bucket": "usable",
+"mp4KB": 110,
+"gifKB": 1734
+},
+"Elbow_Circles": {
+"status": "ok",
+"shift": [
+1.72,
+-12.0
+],
+"bgDiff": 7.3,
+"flicker": 0.518,
+"bucket": "locked",
+"mp4KB": 84,
+"gifKB": 1345
+},
+"Elbow_to_Knee": {
+"status": "ok",
+"shift": [
+-3.53,
+-0.58
+],
+"bgDiff": 2.5,
+"flicker": 1.289,
+"bucket": "locked",
+"mp4KB": 138,
+"gifKB": 2859
+},
+"Elbows_Back": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 67.6,
+"flicker": 11.653,
+"bucket": "angle_mismatch",
+"mp4KB": 143,
+"gifKB": 1520
+},
+"Elevated_Back_Lunge": {
+"status": "ok",
+"shift": [
+22.86,
+-6.77
+],
+"bgDiff": 8.5,
+"flicker": 4.169,
+"bucket": "locked",
+"mp4KB": 249,
+"gifKB": 2859
+},
+"Elevated_Cable_Rows": {
+"status": "ok",
+"shift": [
+4.54,
+2.51
+],
+"bgDiff": 5.9,
+"flicker": 0.849,
+"bucket": "locked",
+"mp4KB": 123,
+"gifKB": 2427
+},
+"Elliptical_Trainer": {
+"status": "ok",
+"shift": [
+-40.0,
+-0.0
+],
+"bgDiff": 58.8,
+"flicker": 23.008,
+"bucket": "angle_mismatch",
+"mp4KB": 282,
+"gifKB": 2760
+},
+"Exercise_Ball_Crunch": {
+"status": "ok",
+"shift": [
+-1.78,
+-1.54
+],
+"bgDiff": 4.0,
+"flicker": 0.043,
+"bucket": "locked",
+"mp4KB": 153,
+"gifKB": 2225
+},
+"Exercise_Ball_Pull-In": {
+"status": "ok",
+"shift": [
+21.27,
+-8.15
+],
+"bgDiff": 4.6,
+"flicker": 0.136,
+"bucket": "locked",
+"mp4KB": 176,
+"gifKB": 2300
+},
+"Extended_Range_One-Arm_Kettlebell_Floor_Press": {
+"status": "ok",
+"shift": [
+5.57,
+4.68
+],
+"bgDiff": 1.7,
+"flicker": 0.025,
+"bucket": "locked",
+"mp4KB": 108,
+"gifKB": 2084
+},
+"External_Rotation": {
+"status": "ok",
+"shift": [
+-4.24,
+4.41
+],
+"bgDiff": 4.2,
+"flicker": 0.314,
+"bucket": "locked",
+"mp4KB": 157,
+"gifKB": 2166
+},
+"External_Rotation_with_Band": {
+"status": "ok",
+"shift": [
+-5.43,
+-3.2
+],
+"bgDiff": 13.6,
+"flicker": 0.48,
+"bucket": "usable",
+"mp4KB": 183,
+"gifKB": 2988
+},
+"External_Rotation_with_Cable": {
+"status": "ok",
+"shift": [
+-1.24,
+1.85
+],
+"bgDiff": 4.5,
+"flicker": 1.771,
+"bucket": "locked",
+"mp4KB": 170,
+"gifKB": 3217
+},
+"Face_Pull": {
+"status": "ok",
+"shift": [
+40.0,
+-0.5
+],
+"bgDiff": 19.7,
+"flicker": 3.225,
+"bucket": "usable",
+"mp4KB": 204,
+"gifKB": 2633
+},
+"Farmers_Walk": {
+"status": "ok",
+"shift": [
+0.02,
+-0.03
+],
+"bgDiff": 31.8,
+"flicker": 10.791,
+"bucket": "angle_mismatch",
+"mp4KB": 263,
+"gifKB": 2415
+},
+"Fast_Skipping": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 1.8,
+"flicker": 0.044,
+"bucket": "locked",
+"mp4KB": 82,
+"gifKB": 2063
+},
+"Finger_Curls": {
+"status": "ok",
+"shift": [
+-1.39,
+-0.21
+],
+"bgDiff": 3.0,
+"flicker": 1.671,
+"bucket": "locked",
+"mp4KB": 109,
+"gifKB": 2704
+},
+"Flat_Bench_Cable_Flyes": {
+"status": "ok",
+"shift": [
+-14.68,
+2.6
+],
+"bgDiff": 26.3,
+"flicker": 0.012,
+"bucket": "angle_mismatch",
+"mp4KB": 136,
+"gifKB": 2867
+},
+"Flat_Bench_Leg_Pull-In": {
+"status": "ok",
+"shift": [
+-3.67,
+0.17
+],
+"bgDiff": 3.2,
+"flicker": 0.008,
+"bucket": "locked",
+"mp4KB": 114,
+"gifKB": 2312
+},
+"Flat_Bench_Lying_Leg_Raise": {
+"status": "ok",
+"shift": [
+3.01,
+4.73
+],
+"bgDiff": 2.9,
+"flicker": 0.18,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 2056
+},
+"Flexor_Incline_Dumbbell_Curls": {
+"status": "ok",
+"shift": [
+-1.68,
+2.1
+],
+"bgDiff": 3.8,
+"flicker": 0.083,
+"bucket": "locked",
+"mp4KB": 110,
+"gifKB": 2109
+},
+"Floor_Glute-Ham_Raise": {
+"status": "ok",
+"shift": [
+-40.0,
+-13.37
+],
+"bgDiff": 29.5,
+"flicker": 6.779,
+"bucket": "angle_mismatch",
+"mp4KB": 272,
+"gifKB": 3077
+},
+"Floor_Press": {
+"status": "ok",
+"shift": [
+-0.09,
+-20.53
+],
+"bgDiff": 6.2,
+"flicker": 0.592,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 2291
+},
+"Floor_Press_with_Chains": {
+"status": "ok",
+"shift": [
+-12.05,
+2.17
+],
+"bgDiff": 5.8,
+"flicker": 0.181,
+"bucket": "locked",
+"mp4KB": 157,
+"gifKB": 2512
+},
+"Flutter_Kicks": {
+"status": "ok",
+"shift": [
+0.92,
+0.47
+],
+"bgDiff": 4.4,
+"flicker": 0.127,
+"bucket": "locked",
+"mp4KB": 132,
+"gifKB": 2215
+},
+"Foot-SMR": {
+"status": "ok",
+"shift": [
+-0.02,
+0.16
+],
+"bgDiff": 57.2,
+"flicker": 22.655,
+"bucket": "angle_mismatch",
+"mp4KB": 183,
+"gifKB": 1632
+},
+"Forward_Drag_with_Press": {
+"status": "ok",
+"shift": [
+-12.0,
+1.52
+],
+"bgDiff": 35.8,
+"flicker": 8.736,
+"bucket": "angle_mismatch",
+"mp4KB": 171,
+"gifKB": 1842
+},
+"Frankenstein_Squat": {
+"status": "ok",
+"shift": [
+13.61,
+-36.72
+],
+"bgDiff": 4.2,
+"flicker": 0.008,
+"bucket": "locked",
+"mp4KB": 185,
+"gifKB": 2115
+},
+"Freehand_Jump_Squat": {
+"status": "ok",
+"shift": [
+-3.32,
+12.0
+],
+"bgDiff": 28.4,
+"flicker": 20.498,
+"bucket": "angle_mismatch",
+"mp4KB": 276,
+"gifKB": 2405
+},
+"Frog_Hops": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 56.5,
+"flicker": 17.484,
+"bucket": "angle_mismatch",
+"mp4KB": 156,
+"gifKB": 1529
+},
+"Frog_Sit-Ups": {
+"status": "ok",
+"shift": [
+-1.3,
+0.27
+],
+"bgDiff": 2.9,
+"flicker": 0.015,
+"bucket": "locked",
+"mp4KB": 120,
+"gifKB": 2459
+},
+"Front_Box_Jump": {
+"status": "ok",
+"shift": [
+-21.89,
+-0.44
+],
+"bgDiff": 12.6,
+"flicker": 0.887,
+"bucket": "usable",
+"mp4KB": 197,
+"gifKB": 2301
+},
+"Front_Cable_Raise": {
+"status": "ok",
+"shift": [
+-10.1,
+-2.31
+],
+"bgDiff": 8.5,
+"flicker": 1.45,
+"bucket": "locked",
+"mp4KB": 165,
+"gifKB": 2764
+},
+"Front_Barbell_Squat": {
+"status": "ok",
+"shift": [
+0.14,
+40.0
+],
+"bgDiff": 32.5,
+"flicker": 4.283,
+"bucket": "angle_mismatch",
+"mp4KB": 277,
+"gifKB": 2441
+},
+"Front_Barbell_Squat_To_A_Bench": {
+"status": "ok",
+"shift": [
+17.85,
+40.0
+],
+"bgDiff": 27.8,
+"flicker": 3.049,
+"bucket": "angle_mismatch",
+"mp4KB": 284,
+"gifKB": 2612
+},
+"Front_Cone_Hops_or_hurdle_hops": {
+"status": "ok",
+"shift": [
+-12.0,
+3.57
+],
+"bgDiff": 1.3,
+"flicker": 0.252,
+"bucket": "locked",
+"mp4KB": 96,
+"gifKB": 1919
+},
+"Front_Dumbbell_Raise": {
+"status": "ok",
+"shift": [
+-3.04,
+9.31
+],
+"bgDiff": 2.8,
+"flicker": 0.198,
+"bucket": "locked",
+"mp4KB": 112,
+"gifKB": 1863
+},
+"Front_Incline_Dumbbell_Raise": {
+"status": "ok",
+"shift": [
+-1.95,
+40.0
+],
+"bgDiff": 10.3,
+"flicker": 1.143,
+"bucket": "usable",
+"mp4KB": 154,
+"gifKB": 2839
+},
+"Front_Leg_Raises": {
+"status": "ok",
+"shift": [
+40.0,
+0.49
+],
+"bgDiff": 18.8,
+"flicker": 2.488,
+"bucket": "usable",
+"mp4KB": 147,
+"gifKB": 1547
+},
+"Front_Squat_Clean_Grip": {
+"status": "ok",
+"shift": [
+0.91,
+-4.74
+],
+"bgDiff": 5.7,
+"flicker": 0.576,
+"bucket": "locked",
+"mp4KB": 169,
+"gifKB": 2167
+},
+"Front_Squats_With_Two_Kettlebells": {
+"status": "ok",
+"shift": [
+-8.94,
+-5.97
+],
+"bgDiff": 5.4,
+"flicker": 0.062,
+"bucket": "locked",
+"mp4KB": 124,
+"gifKB": 1946
+},
+"Front_Plate_Raise": {
+"status": "ok",
+"shift": [
+-2.57,
+-0.51
+],
+"bgDiff": 2.3,
+"flicker": 0.01,
+"bucket": "locked",
+"mp4KB": 108,
+"gifKB": 2040
+},
+"Front_Raise_And_Pullover": {
+"status": "ok",
+"shift": [
+-7.73,
+-12.6
+],
+"bgDiff": 3.3,
+"flicker": 0.136,
+"bucket": "locked",
+"mp4KB": 143,
+"gifKB": 2110
+},
+"Gironda_Sternum_Chins": {
+"status": "ok",
+"shift": [
+-3.07,
+40.0
+],
+"bgDiff": 8.2,
+"flicker": 0.01,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 2130
+},
+"Glute_Ham_Raise": {
+"status": "ok",
+"shift": [
+0.62,
+1.64
+],
+"bgDiff": 72.4,
+"flicker": 30.133,
+"bucket": "angle_mismatch",
+"mp4KB": 191,
+"gifKB": 2218
+},
+"Front_Two-Dumbbell_Raise": {
+"status": "ok",
+"shift": [
+8.48,
+12.0
+],
+"bgDiff": 4.0,
+"flicker": 0.731,
+"bucket": "locked",
+"mp4KB": 138,
+"gifKB": 1910
+},
+"Full_Range-Of-Motion_Lat_Pulldown": {
+"status": "ok",
+"shift": [
+-7.4,
+3.63
+],
+"bgDiff": 13.3,
+"flicker": 0.941,
+"bucket": "usable",
+"mp4KB": 238,
+"gifKB": 3049
+},
+"Glute_Kickback": {
+"status": "ok",
+"shift": [
+-0.34,
+-1.23
+],
+"bgDiff": 4.7,
+"flicker": 0.634,
+"bucket": "locked",
+"mp4KB": 171,
+"gifKB": 2319
+},
+"Goblet_Squat": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 8.0,
+"flicker": 0.031,
+"bucket": "locked",
+"mp4KB": 174,
+"gifKB": 1947
+},
+"Good_Morning": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 36.4,
+"flicker": 8.63,
+"bucket": "angle_mismatch",
+"mp4KB": 206,
+"gifKB": 2747
+},
+"Good_Morning_off_Pins": {
+"status": "ok",
+"shift": [
+7.44,
+-33.84
+],
+"bgDiff": 51.1,
+"flicker": 23.765,
+"bucket": "angle_mismatch",
+"mp4KB": 191,
+"gifKB": 2489
+},
+"Gorilla_Chin_Crunch": {
+"status": "ok",
+"shift": [
+7.03,
+12.0
+],
+"bgDiff": 6.6,
+"flicker": 0.007,
+"bucket": "locked",
+"mp4KB": 163,
+"gifKB": 2090
+},
+"Groin_and_Back_Stretch": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 18.4,
+"flicker": 0.394,
+"bucket": "usable",
+"mp4KB": 150,
+"gifKB": 1447
+},
+"Groiners": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 25.3,
+"flicker": 7.243,
+"bucket": "angle_mismatch",
+"mp4KB": 187,
+"gifKB": 1871
+},
+"Hack_Squat": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 33.8,
+"flicker": 4.071,
+"bucket": "angle_mismatch",
+"mp4KB": 298,
+"gifKB": 3302
+},
+"Hammer_Curls": {
+"status": "ok",
+"shift": [
+2.0,
+5.04
+],
+"bgDiff": 2.8,
+"flicker": 0.094,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 1848
+},
+"Hammer_Grip_Incline_DB_Bench_Press": {
+"status": "ok",
+"shift": [
+13.61,
+4.58
+],
+"bgDiff": 6.4,
+"flicker": 0.474,
+"bucket": "locked",
+"mp4KB": 106,
+"gifKB": 2555
+},
+"Hamstring-SMR": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 36.8,
+"flicker": 20.724,
+"bucket": "angle_mismatch",
+"mp4KB": 184,
+"gifKB": 1697
+},
+"Hamstring_Stretch": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 8.8,
+"flicker": 8.156,
+"bucket": "locked",
+"mp4KB": 176,
+"gifKB": 1611
+},
+"Handstand_Push-Ups": {
+"status": "ok",
+"shift": [
+9.01,
+0.37
+],
+"bgDiff": 6.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 1831
+},
+"Hang_Clean": {
+"status": "ok",
+"shift": [
+-1.75,
+-0.68
+],
+"bgDiff": 3.3,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 134,
+"gifKB": 2045
+},
+"Hang_Clean_-_Below_the_Knees": {
+"status": "ok",
+"shift": [
+-10.88,
+-40.0
+],
+"bgDiff": 10.3,
+"flicker": 0.011,
+"bucket": "usable",
+"mp4KB": 184,
+"gifKB": 2057
+},
+"Hang_Snatch": {
+"status": "ok",
+"shift": [
+-1.77,
+8.15
+],
+"bgDiff": 5.4,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 164,
+"gifKB": 2009
+},
+"Hang_Snatch_-_Below_Knees": {
+"status": "ok",
+"shift": [
+1.06,
+4.53
+],
+"bgDiff": 5.3,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 157,
+"gifKB": 2013
+},
+"Hanging_Bar_Good_Morning": {
+"status": "ok",
+"shift": [
+32.39,
+-32.64
+],
+"bgDiff": 51.8,
+"flicker": 13.847,
+"bucket": "angle_mismatch",
+"mp4KB": 209,
+"gifKB": 2645
+},
+"Hanging_Leg_Raise": {
+"status": "ok",
+"shift": [
+-33.61,
+3.92
+],
+"bgDiff": 8.0,
+"flicker": 0.854,
+"bucket": "locked",
+"mp4KB": 195,
+"gifKB": 2353
+},
+"Hanging_Pike": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 11.2,
+"flicker": 2.971,
+"bucket": "usable",
+"mp4KB": 167,
+"gifKB": 2167
+},
+"Heaving_Snatch_Balance": {
+"status": "ok",
+"shift": [
+3.35,
+-1.38
+],
+"bgDiff": 1.7,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 106,
+"gifKB": 1992
+},
+"Heavy_Bag_Thrust": {
+"status": "ok",
+"shift": [
+12.0,
+8.47
+],
+"bgDiff": 47.1,
+"flicker": 9.062,
+"bucket": "angle_mismatch",
+"mp4KB": 233,
+"gifKB": 2538
+},
+"High_Cable_Curls": {
+"status": "ok",
+"shift": [
+0.89,
+0.59
+],
+"bgDiff": 13.9,
+"flicker": 0.635,
+"bucket": "usable",
+"mp4KB": 164,
+"gifKB": 3176
+},
+"Hip_Circles_prone": {
+"status": "ok",
+"shift": [
+-1.62,
+-0.74
+],
+"bgDiff": 3.8,
+"flicker": 0.06,
+"bucket": "locked",
+"mp4KB": 119,
+"gifKB": 2335
+},
+"Hip_Extension_with_Bands": {
+"status": "ok",
+"shift": [
+1.81,
+-1.09
+],
+"bgDiff": 2.0,
+"flicker": 0.021,
+"bucket": "locked",
+"mp4KB": 92,
+"gifKB": 2165
+},
+"Hip_Flexion_with_Band": {
+"status": "ok",
+"shift": [
+-2.83,
+-0.63
+],
+"bgDiff": 4.2,
+"flicker": 0.258,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 2351
+},
+"Hip_Lift_with_Band": {
+"status": "ok",
+"shift": [
+-11.15,
+7.68
+],
+"bgDiff": 7.1,
+"flicker": 0.137,
+"bucket": "locked",
+"mp4KB": 142,
+"gifKB": 2339
+},
+"Hug_A_Ball": {
+"status": "ok",
+"shift": [
+0.25,
+-0.14
+],
+"bgDiff": 14.5,
+"flicker": 0.973,
+"bucket": "usable",
+"mp4KB": 173,
+"gifKB": 1580
+},
+"Hug_Knees_To_Chest": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 37.2,
+"flicker": 21.473,
+"bucket": "angle_mismatch",
+"mp4KB": 162,
+"gifKB": 1443
+},
+"Hurdle_Hops": {
+"status": "ok",
+"shift": [
+-25.56,
+-1.13
+],
+"bgDiff": 1.3,
+"flicker": 0.537,
+"bucket": "locked",
+"mp4KB": 119,
+"gifKB": 1985
+},
+"Hyperextensions_Back_Extensions": {
+"status": "ok",
+"shift": [
+-12.45,
+2.13
+],
+"bgDiff": 7.0,
+"flicker": 0.945,
+"bucket": "locked",
+"mp4KB": 172,
+"gifKB": 3227
+},
+"Hyperextensions_With_No_Hyperextension_Bench": {
+"status": "ok",
+"shift": [
+-11.64,
+12.0
+],
+"bgDiff": 7.3,
+"flicker": 1.287,
+"bucket": "locked",
+"mp4KB": 197,
+"gifKB": 2621
+},
+"IT_Band_and_Glute_Stretch": {
+"status": "ok",
+"shift": [
+-0.43,
+-0.44
+],
+"bgDiff": 48.9,
+"flicker": 36.242,
+"bucket": "angle_mismatch",
+"mp4KB": 176,
+"gifKB": 1485
+},
+"Iliotibial_Tract-SMR": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 49.8,
+"flicker": 3.647,
+"bucket": "angle_mismatch",
+"mp4KB": 171,
+"gifKB": 1522
+},
+"Inchworm": {
+"status": "ok",
+"shift": [
+0.6,
+1.06
+],
+"bgDiff": 2.7,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 122,
+"gifKB": 2727
+},
+"Incline_Barbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-23.27,
+29.58
+],
+"bgDiff": 11.7,
+"flicker": 0.224,
+"bucket": "usable",
+"mp4KB": 143,
+"gifKB": 2475
+},
+"Incline_Bench_Pull": {
+"status": "ok",
+"shift": [
+-0.29,
+0.56
+],
+"bgDiff": 5.1,
+"flicker": 0.059,
+"bucket": "locked",
+"mp4KB": 147,
+"gifKB": 2350
+},
+"Incline_Cable_Chest_Press": {
+"status": "ok",
+"shift": [
+-2.5,
+-0.37
+],
+"bgDiff": 2.4,
+"flicker": 0.078,
+"bucket": "locked",
+"mp4KB": 147,
+"gifKB": 2819
+},
+"Incline_Cable_Flye": {
+"status": "ok",
+"shift": [
+-1.72,
+2.51
+],
+"bgDiff": 6.0,
+"flicker": 0.147,
+"bucket": "locked",
+"mp4KB": 114,
+"gifKB": 2794
+},
+"Incline_Dumbbell_Bench_With_Palms_Facing_In": {
+"status": "ok",
+"shift": [
+-11.11,
+-8.52
+],
+"bgDiff": 4.2,
+"flicker": 1.404,
+"bucket": "locked",
+"mp4KB": 119,
+"gifKB": 2601
+},
+"Incline_Dumbbell_Curl": {
+"status": "ok",
+"shift": [
+1.12,
+1.32
+],
+"bgDiff": 3.4,
+"flicker": 0.12,
+"bucket": "locked",
+"mp4KB": 119,
+"gifKB": 2519
+},
+"Incline_Dumbbell_Flyes": {
+"status": "ok",
+"shift": [
+-3.54,
+-14.37
+],
+"bgDiff": 6.3,
+"flicker": 2.613,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 2570
+},
+"Incline_Dumbbell_Flyes_-_With_A_Twist": {
+"status": "ok",
+"shift": [
+-12.0,
+-0.66
+],
+"bgDiff": 7.6,
+"flicker": 1.387,
+"bucket": "locked",
+"mp4KB": 145,
+"gifKB": 2599
+},
+"Incline_Dumbbell_Press": {
+"status": "ok",
+"shift": [
+-10.27,
+2.05
+],
+"bgDiff": 7.6,
+"flicker": 0.703,
+"bucket": "locked",
+"mp4KB": 126,
+"gifKB": 2651
+},
+"Incline_Hammer_Curls": {
+"status": "ok",
+"shift": [
+3.65,
+0.73
+],
+"bgDiff": 13.9,
+"flicker": 0.164,
+"bucket": "usable",
+"mp4KB": 182,
+"gifKB": 3418
+},
+"Incline_Inner_Biceps_Curl": {
+"status": "ok",
+"shift": [
+-1.03,
+1.07
+],
+"bgDiff": 4.2,
+"flicker": 0.075,
+"bucket": "locked",
+"mp4KB": 119,
+"gifKB": 2095
+},
+"Incline_Push-Up": {
+"status": "ok",
+"shift": [
+17.6,
+-0.49
+],
+"bgDiff": 6.2,
+"flicker": 0.07,
+"bucket": "locked",
+"mp4KB": 192,
+"gifKB": 2554
+},
+"Incline_Push-Up_Close-Grip": {
+"status": "ok",
+"shift": [
+2.01,
+1.4
+],
+"bgDiff": 2.3,
+"flicker": 0.013,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 2992
+},
+"Incline_Push-Up_Depth_Jump": {
+"status": "ok",
+"shift": [
+-11.15,
+12.0
+],
+"bgDiff": 25.1,
+"flicker": 4.757,
+"bucket": "angle_mismatch",
+"mp4KB": 231,
+"gifKB": 2043
+},
+"Incline_Push-Up_Medium": {
+"status": "ok",
+"shift": [
+-0.64,
+0.13
+],
+"bgDiff": 2.7,
+"flicker": 0.01,
+"bucket": "locked",
+"mp4KB": 113,
+"gifKB": 2768
+},
+"Incline_Push-Up_Reverse_Grip": {
+"status": "ok",
+"shift": [
+1.12,
+0.37
+],
+"bgDiff": 3.4,
+"flicker": 0.031,
+"bucket": "locked",
+"mp4KB": 103,
+"gifKB": 2728
+},
+"Incline_Push-Up_Wide": {
+"status": "ok",
+"shift": [
+-0.32,
+-0.1
+],
+"bgDiff": 2.6,
+"flicker": 0.011,
+"bucket": "locked",
+"mp4KB": 113,
+"gifKB": 2781
+},
+"Intermediate_Groin_Stretch": {
+"status": "ok",
+"shift": [
+-0.05,
+-0.01
+],
+"bgDiff": 52.1,
+"flicker": 12.037,
+"bucket": "angle_mismatch",
+"mp4KB": 200,
+"gifKB": 1787
+},
+"Intermediate_Hip_Flexor_and_Quad_Stretch": {
+"status": "ok",
+"shift": [
+0.05,
+-0.06
+],
+"bgDiff": 30.2,
+"flicker": 18.763,
+"bucket": "angle_mismatch",
+"mp4KB": 158,
+"gifKB": 1437
+},
+"Internal_Rotation_with_Band": {
+"status": "ok",
+"shift": [
+-7.94,
+-0.8
+],
+"bgDiff": 13.3,
+"flicker": 0.814,
+"bucket": "usable",
+"mp4KB": 158,
+"gifKB": 2660
+},
+"Inverted_Row": {
+"status": "ok",
+"shift": [
+7.41,
+11.48
+],
+"bgDiff": 16.6,
+"flicker": 0.328,
+"bucket": "usable",
+"mp4KB": 179,
+"gifKB": 2883
+},
+"Inverted_Row_with_Straps": {
+"status": "ok",
+"shift": [
+-4.8,
+23.8
+],
+"bgDiff": 11.7,
+"flicker": 0.811,
+"bucket": "usable",
+"mp4KB": 193,
+"gifKB": 2728
+},
+"Iron_Cross": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 35.5,
+"flicker": 21.205,
+"bucket": "angle_mismatch",
+"mp4KB": 247,
+"gifKB": 2368
+},
+"Iron_Crosses_stretch": {
+"status": "ok",
+"shift": [
+0.23,
+-0.15
+],
+"bgDiff": 21.6,
+"flicker": 1.705,
+"bucket": "angle_mismatch",
+"mp4KB": 183,
+"gifKB": 1786
+},
+"Isometric_Chest_Squeezes": {
+"status": "ok",
+"shift": [
+12.0,
+8.92
+],
+"bgDiff": 20.1,
+"flicker": 2.954,
+"bucket": "angle_mismatch",
+"mp4KB": 154,
+"gifKB": 1707
+},
+"Isometric_Neck_Exercise_-_Front_And_Back": {
+"status": "ok",
+"shift": [
+-18.37,
+-2.21
+],
+"bgDiff": 5.9,
+"flicker": 0.394,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 2080
+},
+"Isometric_Neck_Exercise_-_Sides": {
+"status": "ok",
+"shift": [
+-0.77,
+-5.68
+],
+"bgDiff": 2.1,
+"flicker": 0.159,
+"bucket": "locked",
+"mp4KB": 110,
+"gifKB": 2072
+},
+"Isometric_Wipers": {
+"status": "ok",
+"shift": [
+3.47,
+-3.46
+],
+"bgDiff": 3.9,
+"flicker": 0.001,
+"bucket": "locked",
+"mp4KB": 119,
+"gifKB": 2068
+},
+"JM_Press": {
+"status": "ok",
+"shift": [
+0.52,
+0.01
+],
+"bgDiff": 3.5,
+"flicker": 0.199,
+"bucket": "locked",
+"mp4KB": 163,
+"gifKB": 2556
+},
+"Jackknife_Sit-Up": {
+"status": "ok",
+"shift": [
+1.7,
+-0.06
+],
+"bgDiff": 3.9,
+"flicker": 0.053,
+"bucket": "locked",
+"mp4KB": 172,
+"gifKB": 2494
+},
+"Janda_Sit-Up": {
+"status": "ok",
+"shift": [
+-1.68,
+0.76
+],
+"bgDiff": 2.3,
+"flicker": 0.006,
+"bucket": "locked",
+"mp4KB": 117,
+"gifKB": 2207
+},
+"Jefferson_Squats": {
+"status": "ok",
+"shift": [
+0.36,
+-0.89
+],
+"bgDiff": 3.0,
+"flicker": 0.085,
+"bucket": "locked",
+"mp4KB": 145,
+"gifKB": 2053
+},
+"Jerk_Balance": {
+"status": "ok",
+"shift": [
+-11.15,
+12.0
+],
+"bgDiff": 5.2,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 146,
+"gifKB": 1975
+},
+"Jerk_Dip_Squat": {
+"status": "ok",
+"shift": [
+-2.07,
+1.07
+],
+"bgDiff": 3.9,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 150,
+"gifKB": 2117
+},
+"Jogging_Treadmill": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 53.0,
+"flicker": 8.747,
+"bucket": "angle_mismatch",
+"mp4KB": 216,
+"gifKB": 2478
+},
+"Keg_Load": {
+"status": "ok",
+"shift": [
+0.11,
+-0.25
+],
+"bgDiff": 34.1,
+"flicker": 5.003,
+"bucket": "angle_mismatch",
+"mp4KB": 235,
+"gifKB": 2251
+},
+"Kettlebell_Arnold_Press": {
+"status": "ok",
+"shift": [
+-39.93,
+-7.4
+],
+"bgDiff": 9.8,
+"flicker": 0.021,
+"bucket": "locked",
+"mp4KB": 167,
+"gifKB": 1960
+},
+"Kettlebell_Dead_Clean": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 7.4,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 177,
+"gifKB": 2025
+},
+"Kettlebell_Figure_8": {
+"status": "ok",
+"shift": [
+11.76,
+-5.7
+],
+"bgDiff": 5.3,
+"flicker": 0.002,
+"bucket": "locked",
+"mp4KB": 102,
+"gifKB": 2007
+},
+"Kettlebell_Hang_Clean": {
+"status": "ok",
+"shift": [
+-1.2,
+-7.34
+],
+"bgDiff": 3.7,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 126,
+"gifKB": 1949
+},
+"Kettlebell_One-Legged_Deadlift": {
+"status": "ok",
+"shift": [
+-11.32,
+-40.0
+],
+"bgDiff": 6.9,
+"flicker": 2.595,
+"bucket": "locked",
+"mp4KB": 187,
+"gifKB": 2309
+},
+"Kettlebell_Pass_Between_The_Legs": {
+"status": "ok",
+"shift": [
+-0.34,
+-6.33
+],
+"bgDiff": 6.3,
+"flicker": 0.068,
+"bucket": "locked",
+"mp4KB": 146,
+"gifKB": 1943
+},
+"Kettlebell_Pirate_Ships": {
+"status": "ok",
+"shift": [
+1.46,
+-0.61
+],
+"bgDiff": 4.7,
+"flicker": 0.19,
+"bucket": "locked",
+"mp4KB": 151,
+"gifKB": 2992
+},
+"Kettlebell_Pistol_Squat": {
+"status": "ok",
+"shift": [
+1.54,
+-12.0
+],
+"bgDiff": 7.9,
+"flicker": 0.017,
+"bucket": "locked",
+"mp4KB": 175,
+"gifKB": 1967
+},
+"Kettlebell_Seated_Press": {
+"status": "ok",
+"shift": [
+0.56,
+40.0
+],
+"bgDiff": 4.1,
+"flicker": 0.637,
+"bucket": "locked",
+"mp4KB": 135,
+"gifKB": 1988
+},
+"Kettlebell_Seesaw_Press": {
+"status": "ok",
+"shift": [
+-6.45,
+9.68
+],
+"bgDiff": 2.4,
+"flicker": 0.002,
+"bucket": "locked",
+"mp4KB": 98,
+"gifKB": 1939
+},
+"Kettlebell_Sumo_High_Pull": {
+"status": "ok",
+"shift": [
+10.56,
+6.93
+],
+"bgDiff": 5.8,
+"flicker": 0.016,
+"bucket": "locked",
+"mp4KB": 152,
+"gifKB": 2028
+},
+"Kettlebell_Thruster": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 11.3,
+"flicker": 0.137,
+"bucket": "usable",
+"mp4KB": 176,
+"gifKB": 1995
+},
+"Kettlebell_Turkish_Get-Up_Lunge_style": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 7.2,
+"flicker": 2.768,
+"bucket": "locked",
+"mp4KB": 199,
+"gifKB": 2160
+},
+"Kettlebell_Turkish_Get-Up_Squat_style": {
+"status": "ok",
+"shift": [
+40.0,
+31.56
+],
+"bgDiff": 10.2,
+"flicker": 1.888,
+"bucket": "usable",
+"mp4KB": 197,
+"gifKB": 2043
+},
+"Kettlebell_Windmill": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 8.5,
+"flicker": 0.012,
+"bucket": "locked",
+"mp4KB": 169,
+"gifKB": 1951
+},
+"Kipping_Muscle_Up": {
+"status": "ok",
+"shift": [
+4.7,
+35.53
+],
+"bgDiff": 12.6,
+"flicker": 1.828,
+"bucket": "usable",
+"mp4KB": 153,
+"gifKB": 2434
+},
+"Knee_Across_The_Body": {
+"status": "ok",
+"shift": [
+-0.16,
+0.16
+],
+"bgDiff": 21.9,
+"flicker": 18.76,
+"bucket": "angle_mismatch",
+"mp4KB": 180,
+"gifKB": 1527
+},
+"Knee_Circles": {
+"status": "ok",
+"shift": [
+-7.85,
+-0.97
+],
+"bgDiff": 2.1,
+"flicker": 0.38,
+"bucket": "locked",
+"mp4KB": 131,
+"gifKB": 1984
+},
+"Knee_Hip_Raise_On_Parallel_Bars": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 4.1,
+"flicker": 1.11,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 2926
+},
+"Knee_Tuck_Jump": {
+"status": "ok",
+"shift": [
+1.0,
+3.21
+],
+"bgDiff": 3.3,
+"flicker": 0.159,
+"bucket": "locked",
+"mp4KB": 89,
+"gifKB": 1775
+},
+"Kneeling_Arm_Drill": {
+"status": "ok",
+"shift": [
+3.7,
+16.66
+],
+"bgDiff": 5.7,
+"flicker": 0.333,
+"bucket": "locked",
+"mp4KB": 150,
+"gifKB": 2559
+},
+"Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists": {
+"status": "ok",
+"shift": [
+4.67,
+-12.0
+],
+"bgDiff": 57.8,
+"flicker": 2.494,
+"bucket": "angle_mismatch",
+"mp4KB": 236,
+"gifKB": 2256
+},
+"Kneeling_Cable_Triceps_Extension": {
+"status": "ok",
+"shift": [
+0.17,
+2.34
+],
+"bgDiff": 3.1,
+"flicker": 0.483,
+"bucket": "locked",
+"mp4KB": 121,
+"gifKB": 2749
+},
+"Kneeling_Forearm_Stretch": {
+"status": "ok",
+"shift": [
+1.47,
+-12.0
+],
+"bgDiff": 3.1,
+"flicker": 0.079,
+"bucket": "locked",
+"mp4KB": 118,
+"gifKB": 1526
+},
+"Kneeling_High_Pulley_Row": {
+"status": "ok",
+"shift": [
+0.66,
+-0.21
+],
+"bgDiff": 2.1,
+"flicker": 0.005,
+"bucket": "locked",
+"mp4KB": 138,
+"gifKB": 2942
+},
+"Kneeling_Hip_Flexor": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 1.3,
+"flicker": 0.02,
+"bucket": "locked",
+"mp4KB": 85,
+"gifKB": 1416
+},
+"Kneeling_Jump_Squat": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 28.1,
+"flicker": 6.858,
+"bucket": "angle_mismatch",
+"mp4KB": 191,
+"gifKB": 2380
+},
+"Kneeling_Single-Arm_High_Pulley_Row": {
+"status": "ok",
+"shift": [
+-1.84,
+0.02
+],
+"bgDiff": 3.1,
+"flicker": 0.453,
+"bucket": "locked",
+"mp4KB": 127,
+"gifKB": 2676
+},
+"Kneeling_Squat": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 36.4,
+"flicker": 13.676,
+"bucket": "angle_mismatch",
+"mp4KB": 193,
+"gifKB": 2587
+},
+"Landmine_180s": {
+"status": "ok",
+"shift": [
+-1.14,
+0.42
+],
+"bgDiff": 7.4,
+"flicker": 0.003,
+"bucket": "locked",
+"mp4KB": 163,
+"gifKB": 3085
+},
+"Landmine_Linear_Jammer": {
+"status": "ok",
+"shift": [
+6.81,
+16.31
+],
+"bgDiff": 9.7,
+"flicker": 4.257,
+"bucket": "locked",
+"mp4KB": 306,
+"gifKB": 3081
+},
+"Lateral_Bound": {
+"status": "ok",
+"shift": [
+12.0,
+1.53
+],
+"bgDiff": 3.0,
+"flicker": 0.341,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 2026
+},
+"Lateral_Box_Jump": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 6.4,
+"flicker": 1.274,
+"bucket": "locked",
+"mp4KB": 167,
+"gifKB": 2060
+},
+"Lateral_Cone_Hops": {
+"status": "ok",
+"shift": [
+-5.12,
+8.52
+],
+"bgDiff": 6.6,
+"flicker": 0.187,
+"bucket": "locked",
+"mp4KB": 95,
+"gifKB": 1582
+},
+"Lateral_Raise_-_With_Bands": {
+"status": "ok",
+"shift": [
+-7.79,
+11.83
+],
+"bgDiff": 4.1,
+"flicker": 1.196,
+"bucket": "locked",
+"mp4KB": 185,
+"gifKB": 2226
+},
+"Latissimus_Dorsi-SMR": {
+"status": "ok",
+"shift": [
+0.07,
+0.02
+],
+"bgDiff": 26.5,
+"flicker": 8.529,
+"bucket": "angle_mismatch",
+"mp4KB": 191,
+"gifKB": 1589
+},
+"Leg-Over_Floor_Press": {
+"status": "ok",
+"shift": [
+-3.66,
+4.72
+],
+"bgDiff": 3.0,
+"flicker": 0.323,
+"bucket": "locked",
+"mp4KB": 103,
+"gifKB": 2090
+},
+"Leg-Up_Hamstring_Stretch": {
+"status": "ok",
+"shift": [
+2.03,
+12.0
+],
+"bgDiff": 17.7,
+"flicker": 20.904,
+"bucket": "usable",
+"mp4KB": 162,
+"gifKB": 1464
+},
+"Leg_Extensions": {
+"status": "ok",
+"shift": [
+2.75,
+4.62
+],
+"bgDiff": 30.9,
+"flicker": 0.862,
+"bucket": "angle_mismatch",
+"mp4KB": 198,
+"gifKB": 3328
+},
+"Leg_Lift": {
+"status": "ok",
+"shift": [
+-14.88,
+4.34
+],
+"bgDiff": 8.0,
+"flicker": 0.389,
+"bucket": "locked",
+"mp4KB": 117,
+"gifKB": 2317
+},
+"Leg_Press": {
+"status": "ok",
+"shift": [
+-6.19,
+-5.99
+],
+"bgDiff": 19.0,
+"flicker": 0.655,
+"bucket": "usable",
+"mp4KB": 246,
+"gifKB": 3289
+},
+"Leg_Pull-In": {
+"status": "ok",
+"shift": [
+-2.16,
+1.18
+],
+"bgDiff": 5.0,
+"flicker": 0.399,
+"bucket": "locked",
+"mp4KB": 189,
+"gifKB": 2343
+},
+"Leverage_Chest_Press": {
+"status": "ok",
+"shift": [
+-3.42,
+12.71
+],
+"bgDiff": 4.2,
+"flicker": 0.654,
+"bucket": "locked",
+"mp4KB": 127,
+"gifKB": 2476
+},
+"Leverage_Deadlift": {
+"status": "ok",
+"shift": [
+40.0,
+-40.0
+],
+"bgDiff": 15.6,
+"flicker": 1.08,
+"bucket": "usable",
+"mp4KB": 142,
+"gifKB": 2717
+},
+"Leverage_Decline_Chest_Press": {
+"status": "ok",
+"shift": [
+-26.38,
+21.39
+],
+"bgDiff": 7.2,
+"flicker": 1.333,
+"bucket": "locked",
+"mp4KB": 175,
+"gifKB": 3148
+},
+"Leverage_High_Row": {
+"status": "ok",
+"shift": [
+1.45,
+8.46
+],
+"bgDiff": 22.1,
+"flicker": 5.429,
+"bucket": "angle_mismatch",
+"mp4KB": 213,
+"gifKB": 3127
+},
+"Leverage_Incline_Chest_Press": {
+"status": "ok",
+"shift": [
+-1.53,
+12.0
+],
+"bgDiff": 11.3,
+"flicker": 2.382,
+"bucket": "usable",
+"mp4KB": 209,
+"gifKB": 3227
+},
+"Leverage_Iso_Row": {
+"status": "ok",
+"shift": [
+12.0,
+1.36
+],
+"bgDiff": 2.9,
+"flicker": 0.39,
+"bucket": "locked",
+"mp4KB": 200,
+"gifKB": 2969
+},
+"Leverage_Shoulder_Press": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 3.5,
+"flicker": 3.862,
+"bucket": "locked",
+"mp4KB": 194,
+"gifKB": 2991
+},
+"Leverage_Shrug": {
+"status": "ok",
+"shift": [
+13.53,
+-0.06
+],
+"bgDiff": 1.9,
+"flicker": 4.52,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 2687
+},
+"Linear_3-Part_Start_Technique": {
+"status": "ok",
+"shift": [
+-12.0,
+0.41
+],
+"bgDiff": 38.7,
+"flicker": 3.713,
+"bucket": "angle_mismatch",
+"mp4KB": 220,
+"gifKB": 2472
+},
+"Linear_Acceleration_Wall_Drill": {
+"status": "ok",
+"shift": [
+-0.14,
+0.0
+],
+"bgDiff": 14.4,
+"flicker": 5.112,
+"bucket": "usable",
+"mp4KB": 213,
+"gifKB": 2790
+},
+"Linear_Depth_Jump": {
+"status": "ok",
+"shift": [
+3.85,
+10.78
+],
+"bgDiff": 8.2,
+"flicker": 0.15,
+"bucket": "locked",
+"mp4KB": 257,
+"gifKB": 3143
+},
+"Log_Lift": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 17.4,
+"flicker": 0.694,
+"bucket": "usable",
+"mp4KB": 217,
+"gifKB": 2108
+},
+"London_Bridges": {
+"status": "ok",
+"shift": [
+0.49,
+-0.52
+],
+"bgDiff": 3.2,
+"bucket": "locked",
+"backfilled": true
+},
+"Looking_At_Ceiling": {
+"status": "ok",
+"shift": [
+0.02,
+0.19
+],
+"bgDiff": 18.6,
+"bucket": "usable",
+"backfilled": true
+},
+"Low_Cable_Crossover": {
+"status": "ok",
+"shift": [
+0.08,
+0.69
+],
+"bgDiff": 3.0,
+"bucket": "locked",
+"backfilled": true
+},
+"Low_Cable_Triceps_Extension": {
+"status": "ok",
+"shift": [
+3.36,
+0.35
+],
+"bgDiff": 8.8,
+"bucket": "locked",
+"backfilled": true
+},
+"Low_Pulley_Row_To_Neck": {
+"status": "ok",
+"shift": [
+3.43,
+2.45
+],
+"bgDiff": 21.9,
+"bucket": "angle_mismatch",
+"backfilled": true
+},
+"Lower_Back-SMR": {
+"status": "ok",
+"shift": [
+0.23,
+-0.57
+],
+"bgDiff": 8.7,
+"bucket": "locked",
+"backfilled": true
+},
+"Lower_Back_Curl": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 47.4,
+"bucket": "angle_mismatch",
+"backfilled": true
+},
+"Lunge_Pass_Through": {
+"status": "ok",
+"shift": [
+1.03,
+-0.11
+],
+"bgDiff": 2.4,
+"bucket": "locked",
+"backfilled": true
+},
+"Lunge_Sprint": {
+"status": "ok",
+"shift": [
+-0.97,
+-0.24
+],
+"bgDiff": 5.4,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_Bent_Leg_Groin": {
+"status": "ok",
+"shift": [
+1.29,
+6.94
+],
+"bgDiff": 2.4,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_Cable_Curl": {
+"status": "ok",
+"shift": [
+20.46,
+-19.56
+],
+"bgDiff": 16.3,
+"bucket": "usable",
+"backfilled": true
+},
+"Lying_Cambered_Barbell_Row": {
+"status": "ok",
+"shift": [
+3.3,
+4.19
+],
+"bgDiff": 3.1,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_Close-Grip_Bar_Curl_On_High_Pulley": {
+"status": "ok",
+"shift": [
+-1.92,
+0.41
+],
+"bgDiff": 10.2,
+"bucket": "usable",
+"backfilled": true
+},
+"Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head": {
+"status": "ok",
+"shift": [
+0.24,
+-2.09
+],
+"bgDiff": 7.2,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_Close-Grip_Barbell_Triceps_Press_To_Chin": {
+"status": "ok",
+"shift": [
+1.75,
+-2.63
+],
+"bgDiff": 3.8,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_Crossover": {
+"status": "ok",
+"shift": [
+12.0,
+-12.0
+],
+"bgDiff": 14.5,
+"bucket": "usable",
+"backfilled": true
+},
+"Lying_Dumbbell_Tricep_Extension": {
+"status": "ok",
+"shift": [
+-9.58,
+12.0
+],
+"bgDiff": 29.8,
+"bucket": "angle_mismatch",
+"backfilled": true
+},
+"Lying_Face_Down_Plate_Neck_Resistance": {
+"status": "ok",
+"shift": [
+-0.95,
+2.3
+],
+"bgDiff": 3.1,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_Face_Up_Plate_Neck_Resistance": {
+"status": "ok",
+"shift": [
+1.22,
+4.72
+],
+"bgDiff": 3.5,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_Glute": {
+"status": "ok",
+"shift": [
+5.72,
+-7.26
+],
+"bgDiff": 2.7,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_Hamstring": {
+"status": "ok",
+"shift": [
+12.0,
+3.19
+],
+"bgDiff": 6.2,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_High_Bench_Barbell_Curl": {
+"status": "ok",
+"shift": [
+5.08,
+17.08
+],
+"bgDiff": 4.9,
+"bucket": "locked",
+"backfilled": true
+},
+"Lying_Leg_Curls": {
+"status": "ok",
+"shift": [
+-5.01,
+37.51
+],
+"bgDiff": 25.3,
+"bucket": "angle_mismatch",
+"backfilled": true
+},
+"Lying_Prone_Quadriceps": {
+"status": "ok",
+"shift": [
+-0.02,
+-0.18
+],
+"bgDiff": 6.3,
+"flicker": 2.724,
+"bucket": "locked",
+"mp4KB": 171,
+"gifKB": 1648
+},
+"Lying_Rear_Delt_Raise": {
+"status": "ok",
+"shift": [
+7.69,
+6.88
+],
+"bgDiff": 3.3,
+"flicker": 0.326,
+"bucket": "locked",
+"mp4KB": 148,
+"gifKB": 2132
+},
+"Lying_Machine_Squat": {
+"status": "ok",
+"shift": [
+-12.0,
+-4.34
+],
+"bgDiff": 36.9,
+"flicker": 5.515,
+"bucket": "angle_mismatch",
+"mp4KB": 282,
+"gifKB": 2973
+},
+"Lying_One-Arm_Lateral_Raise": {
+"status": "ok",
+"shift": [
+0.54,
+0.24
+],
+"bgDiff": 3.4,
+"flicker": 0.142,
+"bucket": "locked",
+"mp4KB": 153,
+"gifKB": 2357
+},
+"Lying_Triceps_Press": {
+"status": "ok",
+"shift": [
+-11.04,
+-14.65
+],
+"bgDiff": 3.0,
+"bucket": "locked",
+"backfilled": true
+},
+"Machine_Bench_Press": {
+"status": "ok",
+"shift": [
+-3.1,
+-0.15
+],
+"bgDiff": 5.4,
+"flicker": 0.309,
+"bucket": "locked",
+"mp4KB": 188,
+"gifKB": 3348
+},
+"Lying_Supine_Dumbbell_Curl": {
+"status": "ok",
+"shift": [
+-4.59,
+2.21
+],
+"bgDiff": 2.7,
+"flicker": 0.085,
+"bucket": "locked",
+"mp4KB": 141,
+"gifKB": 2107
+},
+"Lying_T-Bar_Row": {
+"status": "ok",
+"shift": [
+0.89,
+0.27
+],
+"bgDiff": 9.5,
+"flicker": 0.502,
+"bucket": "locked",
+"mp4KB": 218,
+"gifKB": 3420
+},
+"Machine_Bicep_Curl": {
+"status": "ok",
+"shift": [
+-3.66,
+0.53
+],
+"bgDiff": 20.6,
+"flicker": 0.22,
+"bucket": "angle_mismatch",
+"mp4KB": 177,
+"gifKB": 3381
+},
+"Machine_Preacher_Curls": {
+"status": "ok",
+"shift": [
+0.28,
+5.88
+],
+"bgDiff": 12.7,
+"flicker": 0.096,
+"bucket": "usable",
+"mp4KB": 229,
+"gifKB": 3318
+},
+"Machine_Shoulder_Military_Press": {
+"status": "ok",
+"shift": [
+-3.17,
+9.19
+],
+"bgDiff": 15.7,
+"flicker": 0.174,
+"bucket": "usable",
+"mp4KB": 179,
+"gifKB": 3342
+},
+"Machine_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-1.29,
+1.81
+],
+"bgDiff": 7.9,
+"flicker": 0.441,
+"bucket": "locked",
+"mp4KB": 178,
+"gifKB": 2982
+},
+"Medicine_Ball_Chest_Pass": {
+"status": "ok",
+"shift": [
+3.66,
+8.1
+],
+"bgDiff": 2.8,
+"flicker": 0.169,
+"bucket": "locked",
+"mp4KB": 89,
+"gifKB": 1670
+},
+"Medicine_Ball_Full_Twist": {
+"status": "ok",
+"shift": [
+-7.74,
+-5.85
+],
+"bgDiff": 5.4,
+"flicker": 8.189,
+"bucket": "locked",
+"mp4KB": 234,
+"gifKB": 2258
+},
+"Medicine_Ball_Scoop_Throw": {
+"status": "ok",
+"shift": [
+-6.86,
+12.0
+],
+"bgDiff": 6.4,
+"flicker": 0.489,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 2539
+},
+"Middle_Back_Shrug": {
+"status": "ok",
+"shift": [
+9.65,
+-1.94
+],
+"bgDiff": 3.1,
+"flicker": 0.043,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 2567
+},
+"Middle_Back_Stretch": {
+"status": "ok",
+"shift": [
+0.1,
+4.22
+],
+"bgDiff": 12.6,
+"flicker": 0.752,
+"bucket": "usable",
+"mp4KB": 117,
+"gifKB": 1556
+},
+"Mixed_Grip_Chin": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 11.5,
+"flicker": 1.116,
+"bucket": "usable",
+"mp4KB": 150,
+"gifKB": 1905
+},
+"Monster_Walk": {
+"status": "ok",
+"shift": [
+-12.0,
+-7.58
+],
+"bgDiff": 5.7,
+"flicker": 0.493,
+"bucket": "locked",
+"mp4KB": 173,
+"gifKB": 2172
+},
+"Mountain_Climbers": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 2.1,
+"flicker": 2.855,
+"bucket": "locked",
+"mp4KB": 150,
+"gifKB": 1767
+},
+"Moving_Claw_Series": {
+"status": "ok",
+"shift": [
+40.0,
+0.09
+],
+"bgDiff": 22.1,
+"flicker": 2.615,
+"bucket": "angle_mismatch",
+"mp4KB": 183,
+"gifKB": 2478
+},
+"Muscle_Snatch": {
+"status": "ok",
+"shift": [
+11.99,
+21.05
+],
+"bgDiff": 8.8,
+"flicker": 0.207,
+"bucket": "locked",
+"mp4KB": 174,
+"gifKB": 2064
+},
+"Muscle_Up": {
+"status": "ok",
+"shift": [
+-6.85,
+15.28
+],
+"bgDiff": 5.9,
+"flicker": 0.216,
+"bucket": "locked",
+"mp4KB": 128,
+"gifKB": 2337
+},
+"Narrow_Stance_Hack_Squats": {
+"status": "ok",
+"shift": [
+16.25,
+-1.61
+],
+"bgDiff": 18.5,
+"flicker": 0.31,
+"bucket": "usable",
+"mp4KB": 229,
+"gifKB": 3488
+},
+"Narrow_Stance_Leg_Press": {
+"status": "ok",
+"shift": [
+-2.76,
+-1.47
+],
+"bgDiff": 7.9,
+"flicker": 0.195,
+"bucket": "locked",
+"mp4KB": 214,
+"gifKB": 3246
+},
+"Narrow_Stance_Squats": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 29.0,
+"flicker": 8.228,
+"bucket": "angle_mismatch",
+"mp4KB": 270,
+"gifKB": 2403
+},
+"Natural_Glute_Ham_Raise": {
+"status": "ok",
+"shift": [
+15.41,
+-15.41
+],
+"bgDiff": 14.0,
+"flicker": 2.605,
+"bucket": "usable",
+"mp4KB": 165,
+"gifKB": 3295
+},
+"Neck-SMR": {
+"status": "ok",
+"shift": [
+12.0,
+-12.0
+],
+"bgDiff": 13.6,
+"flicker": 10.8,
+"bucket": "usable",
+"mp4KB": 160,
+"gifKB": 1559
+},
+"Neck_Press": {
+"status": "ok",
+"shift": [
+-6.95,
+-5.91
+],
+"bgDiff": 9.6,
+"flicker": 0.251,
+"bucket": "locked",
+"mp4KB": 171,
+"gifKB": 3215
+},
+"Oblique_Crunches": {
+"status": "ok",
+"shift": [
+4.3,
+-6.38
+],
+"bgDiff": 3.5,
+"flicker": 0.42,
+"bucket": "locked",
+"mp4KB": 176,
+"gifKB": 2404
+},
+"Oblique_Crunches_-_On_The_Floor": {
+"status": "ok",
+"shift": [
+24.1,
+4.9
+],
+"bgDiff": 9.1,
+"flicker": 0.542,
+"bucket": "locked",
+"mp4KB": 222,
+"gifKB": 2315
+},
+"Olympic_Squat": {
+"status": "ok",
+"shift": [
+-7.85,
+11.91
+],
+"bgDiff": 5.7,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 153,
+"gifKB": 2000
+},
+"On-Your-Back_Quad_Stretch": {
+"status": "ok",
+"shift": [
+-18.33,
+0.87
+],
+"bgDiff": 20.9,
+"flicker": 4.09,
+"bucket": "angle_mismatch",
+"mp4KB": 278,
+"gifKB": 2876
+},
+"On_Your_Side_Quad_Stretch": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 34.3,
+"flicker": 11.765,
+"bucket": "angle_mismatch",
+"mp4KB": 184,
+"gifKB": 1562
+},
+"One-Arm_Dumbbell_Row": {
+"status": "ok",
+"shift": [
+-2.99,
+-0.69
+],
+"bgDiff": 3.3,
+"flicker": 0.14,
+"bucket": "locked",
+"mp4KB": 151,
+"gifKB": 2409
+},
+"One-Arm_Flat_Bench_Dumbbell_Flye": {
+"status": "ok",
+"shift": [
+-6.56,
+14.39
+],
+"bgDiff": 4.8,
+"flicker": 0.027,
+"bucket": "locked",
+"mp4KB": 151,
+"gifKB": 2497
+},
+"One-Arm_High-Pulley_Cable_Side_Bends": {
+"status": "ok",
+"shift": [
+-11.48,
+-7.6
+],
+"bgDiff": 6.9,
+"flicker": 0.564,
+"bucket": "locked",
+"mp4KB": 165,
+"gifKB": 2542
+},
+"One-Arm_Incline_Lateral_Raise": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 5.7,
+"flicker": 0.509,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 2330
+},
+"One-Arm_Kettlebell_Clean": {
+"status": "ok",
+"shift": [
+-38.2,
+-40.0
+],
+"bgDiff": 7.7,
+"flicker": 0.013,
+"bucket": "locked",
+"mp4KB": 167,
+"gifKB": 1989
+},
+"One-Arm_Kettlebell_Clean_and_Jerk": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 5.4,
+"flicker": 0.028,
+"bucket": "locked",
+"mp4KB": 172,
+"gifKB": 1984
+},
+"One-Arm_Kettlebell_Floor_Press": {
+"status": "ok",
+"shift": [
+26.14,
+6.6
+],
+"bgDiff": 9.7,
+"flicker": 0.522,
+"bucket": "locked",
+"mp4KB": 124,
+"gifKB": 2156
+},
+"One-Arm_Kettlebell_Jerk": {
+"status": "ok",
+"shift": [
+6.28,
+12.03
+],
+"bgDiff": 2.8,
+"flicker": 0.043,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 1906
+},
+"One-Arm_Kettlebell_Military_Press_To_The_Side": {
+"status": "ok",
+"shift": [
+-9.72,
+0.11
+],
+"bgDiff": 9.5,
+"flicker": 0.094,
+"bucket": "locked",
+"mp4KB": 166,
+"gifKB": 2037
+},
+"One-Arm_Kettlebell_Para_Press": {
+"status": "ok",
+"shift": [
+15.85,
+16.18
+],
+"bgDiff": 7.8,
+"flicker": 0.026,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 1882
+},
+"One-Arm_Kettlebell_Push_Press": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 11.0,
+"flicker": 0.008,
+"bucket": "usable",
+"mp4KB": 167,
+"gifKB": 1929
+},
+"One-Arm_Kettlebell_Row": {
+"status": "ok",
+"shift": [
+-0.19,
+-0.25
+],
+"bgDiff": 37.2,
+"flicker": 8.024,
+"bucket": "angle_mismatch",
+"mp4KB": 234,
+"gifKB": 2309
+},
+"One-Arm_Kettlebell_Snatch": {
+"status": "ok",
+"shift": [
+-6.98,
+40.0
+],
+"bgDiff": 9.5,
+"flicker": 0.009,
+"bucket": "locked",
+"mp4KB": 144,
+"gifKB": 1971
+},
+"One-Arm_Kettlebell_Split_Jerk": {
+"status": "ok",
+"shift": [
+2.79,
+7.57
+],
+"bgDiff": 10.1,
+"flicker": 0.163,
+"bucket": "usable",
+"mp4KB": 171,
+"gifKB": 1970
+},
+"One-Arm_Kettlebell_Split_Snatch": {
+"status": "ok",
+"shift": [
+-1.68,
+-1.84
+],
+"bgDiff": 4.1,
+"flicker": 0.005,
+"bucket": "locked",
+"mp4KB": 114,
+"gifKB": 1918
+},
+"One-Arm_Kettlebell_Swings": {
+"status": "ok",
+"shift": [
+-1.32,
+0.59
+],
+"bgDiff": 2.7,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 100,
+"gifKB": 1990
+},
+"One-Arm_Long_Bar_Row": {
+"status": "ok",
+"shift": [
+0.55,
+-0.23
+],
+"bgDiff": 3.2,
+"flicker": 0.059,
+"bucket": "locked",
+"mp4KB": 118,
+"gifKB": 2996
+},
+"One-Arm_Medicine_Ball_Slam": {
+"status": "ok",
+"shift": [
+11.58,
+-8.82
+],
+"bgDiff": 6.0,
+"flicker": 0.965,
+"bucket": "locked",
+"mp4KB": 197,
+"gifKB": 3009
+},
+"One-Arm_Open_Palm_Kettlebell_Clean": {
+"status": "ok",
+"shift": [
+22.45,
+-27.22
+],
+"bgDiff": 10.6,
+"flicker": 0.01,
+"bucket": "usable",
+"mp4KB": 156,
+"gifKB": 1987
+},
+"One-Arm_Overhead_Kettlebell_Squats": {
+"status": "ok",
+"shift": [
+0.14,
+-4.47
+],
+"bgDiff": 3.3,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 1876
+},
+"One-Arm_Side_Deadlift": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 18.0,
+"flicker": 0.635,
+"bucket": "usable",
+"mp4KB": 208,
+"gifKB": 2041
+},
+"One-Arm_Side_Laterals": {
+"status": "ok",
+"shift": [
+-10.08,
+10.74
+],
+"bgDiff": 5.5,
+"flicker": 0.056,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 2534
+},
+"One-Legged_Cable_Kickback": {
+"status": "ok",
+"shift": [
+11.78,
+0.77
+],
+"bgDiff": 12.2,
+"flicker": 0.217,
+"bucket": "usable",
+"mp4KB": 164,
+"gifKB": 2571
+},
+"One_Arm_Against_Wall": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 0.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 37,
+"gifKB": 115
+},
+"One_Arm_Chin-Up": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 2.0,
+"flicker": 0.139,
+"bucket": "locked",
+"mp4KB": 151,
+"gifKB": 2227
+},
+"One_Arm_Dumbbell_Bench_Press": {
+"status": "ok",
+"shift": [
+-1.54,
+-0.77
+],
+"bgDiff": 3.5,
+"flicker": 0.027,
+"bucket": "locked",
+"mp4KB": 132,
+"gifKB": 2096
+},
+"One_Arm_Dumbbell_Preacher_Curl": {
+"status": "ok",
+"shift": [
+-25.34,
+-6.45
+],
+"bgDiff": 7.4,
+"flicker": 0.31,
+"bucket": "locked",
+"mp4KB": 152,
+"gifKB": 2251
+},
+"One_Arm_Floor_Press": {
+"status": "ok",
+"shift": [
+-12.0,
+-7.54
+],
+"bgDiff": 28.7,
+"flicker": 5.567,
+"bucket": "angle_mismatch",
+"mp4KB": 196,
+"gifKB": 1929
+},
+"One_Arm_Lat_Pulldown": {
+"status": "ok",
+"shift": [
+-0.06,
+-9.44
+],
+"bgDiff": 4.0,
+"flicker": 6.326,
+"bucket": "locked",
+"mp4KB": 147,
+"gifKB": 2884
+},
+"One_Arm_Pronated_Dumbbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+1.9,
+0.33
+],
+"bgDiff": 2.6,
+"flicker": 0.13,
+"bucket": "locked",
+"mp4KB": 122,
+"gifKB": 2346
+},
+"One_Arm_Supinated_Dumbbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-0.58,
+0.89
+],
+"bgDiff": 4.1,
+"flicker": 0.188,
+"bucket": "locked",
+"mp4KB": 148,
+"gifKB": 2132
+},
+"One_Half_Locust": {
+"status": "ok",
+"shift": [
+0.08,
+-0.1
+],
+"bgDiff": 24.8,
+"flicker": 9.639,
+"bucket": "angle_mismatch",
+"mp4KB": 175,
+"gifKB": 1637
+},
+"One_Handed_Hang": {
+"status": "ok",
+"shift": [
+25.25,
+-24.95
+],
+"bgDiff": 40.5,
+"flicker": 8.334,
+"bucket": "angle_mismatch",
+"mp4KB": 305,
+"gifKB": 3260
+},
+"One_Knee_To_Chest": {
+"status": "ok",
+"shift": [
+0.19,
+-0.65
+],
+"bgDiff": 30.0,
+"flicker": 17.887,
+"bucket": "angle_mismatch",
+"mp4KB": 155,
+"gifKB": 1484
+},
+"One_Leg_Barbell_Squat": {
+"status": "ok",
+"shift": [
+1.31,
+-1.47
+],
+"bgDiff": 3.3,
+"flicker": 0.061,
+"bucket": "locked",
+"mp4KB": 173,
+"gifKB": 2306
+},
+"Open_Palm_Kettlebell_Clean": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 9.0,
+"flicker": 0.131,
+"bucket": "locked",
+"mp4KB": 169,
+"gifKB": 1994
+},
+"Otis-Up": {
+"status": "ok",
+"shift": [
+-0.72,
+-1.66
+],
+"bgDiff": 3.8,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 118,
+"gifKB": 2851
+},
+"Overhead_Cable_Curl": {
+"status": "ok",
+"shift": [
+2.89,
+0.07
+],
+"bgDiff": 9.8,
+"flicker": 0.042,
+"bucket": "locked",
+"mp4KB": 107,
+"gifKB": 2420
+},
+"Overhead_Lat": {
+"status": "ok",
+"shift": [
+0.58,
+-0.24
+],
+"bgDiff": 17.1,
+"flicker": 0.181,
+"bucket": "usable",
+"mp4KB": 158,
+"gifKB": 1603
+},
+"Overhead_Slam": {
+"status": "ok",
+"shift": [
+-6.63,
+-6.78
+],
+"bgDiff": 3.0,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 2186
+},
+"Overhead_Squat": {
+"status": "ok",
+"shift": [
+-1.29,
+-1.63
+],
+"bgDiff": 2.3,
+"flicker": 0.423,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 2104
+},
+"Overhead_Stretch": {
+"status": "ok",
+"shift": [
+0.09,
+0.03
+],
+"bgDiff": 79.3,
+"flicker": 37.503,
+"bucket": "angle_mismatch",
+"mp4KB": 139,
+"gifKB": 1414
+},
+"Overhead_Triceps": {
+"status": "ok",
+"shift": [
+-0.68,
+-4.14
+],
+"bgDiff": 6.5,
+"flicker": 0.242,
+"bucket": "locked",
+"mp4KB": 117,
+"gifKB": 1537
+},
+"Pallof_Press": {
+"status": "ok",
+"shift": [
+40.0,
+0.32
+],
+"bgDiff": 13.4,
+"flicker": 2.851,
+"bucket": "usable",
+"mp4KB": 158,
+"gifKB": 3009
+},
+"Pallof_Press_With_Rotation": {
+"status": "ok",
+"shift": [
+3.88,
+6.31
+],
+"bgDiff": 3.7,
+"flicker": 0.592,
+"bucket": "locked",
+"mp4KB": 114,
+"gifKB": 1950
+},
+"Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench": {
+"status": "ok",
+"shift": [
+-0.53,
+1.41
+],
+"bgDiff": 2.1,
+"flicker": 0.003,
+"bucket": "locked",
+"mp4KB": 110,
+"gifKB": 2572
+},
+"Palms-Down_Wrist_Curl_Over_A_Bench": {
+"status": "ok",
+"shift": [
+0.71,
+0.81
+],
+"bgDiff": 3.0,
+"flicker": 0.034,
+"bucket": "locked",
+"mp4KB": 135,
+"gifKB": 2173
+},
+"Palms-Up_Barbell_Wrist_Curl_Over_A_Bench": {
+"status": "ok",
+"shift": [
+-1.98,
+1.98
+],
+"bgDiff": 3.4,
+"flicker": 0.042,
+"bucket": "locked",
+"mp4KB": 125,
+"gifKB": 2141
+},
+"Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench": {
+"status": "ok",
+"shift": [
+-4.41,
+0.32
+],
+"bgDiff": 3.5,
+"flicker": 0.041,
+"bucket": "locked",
+"mp4KB": 126,
+"gifKB": 2536
+},
+"Parallel_Bar_Dip": {
+"status": "ok",
+"shift": [
+20.14,
+10.91
+],
+"bgDiff": 73.5,
+"flicker": 25.911,
+"bucket": "angle_mismatch",
+"mp4KB": 193,
+"gifKB": 2123
+},
+"Pelvic_Tilt_Into_Bridge": {
+"status": "ok",
+"shift": [
+-0.27,
+0.4
+],
+"bgDiff": 18.2,
+"flicker": 2.049,
+"bucket": "usable",
+"mp4KB": 122,
+"gifKB": 1356
+},
+"Peroneals-SMR": {
+"status": "ok",
+"shift": [
+0.19,
+-0.08
+],
+"bgDiff": 34.0,
+"flicker": 14.515,
+"bucket": "angle_mismatch",
+"mp4KB": 184,
+"gifKB": 1527
+},
+"Peroneals_Stretch": {
+"status": "ok",
+"shift": [
+-0.66,
+-0.19
+],
+"bgDiff": 91.7,
+"flicker": 26.185,
+"bucket": "angle_mismatch",
+"mp4KB": 194,
+"gifKB": 1703
+},
+"Physioball_Hip_Bridge": {
+"status": "ok",
+"shift": [
+-3.98,
+-0.46
+],
+"bgDiff": 8.1,
+"flicker": 0.385,
+"bucket": "locked",
+"mp4KB": 194,
+"gifKB": 2607
+},
+"Pin_Presses": {
+"status": "ok",
+"shift": [
+-18.34,
+29.6
+],
+"bgDiff": 11.3,
+"flicker": 4.922,
+"bucket": "usable",
+"mp4KB": 150,
+"gifKB": 2331
+},
+"Piriformis-SMR": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 4.6,
+"flicker": 3.44,
+"bucket": "locked",
+"mp4KB": 175,
+"gifKB": 1724
+},
+"Plank": {
+"status": "ok",
+"shift": [
+-9.23,
+-20.35
+],
+"bgDiff": 4.0,
+"flicker": 1.783,
+"bucket": "locked",
+"mp4KB": 131,
+"gifKB": 2446
+},
+"Plate_Pinch": {
+"status": "ok",
+"shift": [
+12.0,
+-12.0
+],
+"bgDiff": 11.9,
+"flicker": 3.401,
+"bucket": "usable",
+"mp4KB": 211,
+"gifKB": 1904
+},
+"Plate_Twist": {
+"status": "ok",
+"shift": [
+7.98,
+-12.0
+],
+"bgDiff": 4.5,
+"flicker": 0.332,
+"bucket": "locked",
+"mp4KB": 219,
+"gifKB": 2258
+},
+"Platform_Hamstring_Slides": {
+"status": "ok",
+"shift": [
+-1.35,
+-3.5
+],
+"bgDiff": 7.8,
+"flicker": 0.071,
+"bucket": "locked",
+"mp4KB": 184,
+"gifKB": 2838
+},
+"Plie_Dumbbell_Squat": {
+"status": "ok",
+"shift": [
+-2.36,
+-2.68
+],
+"bgDiff": 3.8,
+"flicker": 0.103,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 1947
+},
+"Plyo_Kettlebell_Pushups": {
+"status": "ok",
+"shift": [
+-21.8,
+-8.95
+],
+"bgDiff": 3.5,
+"flicker": 0.836,
+"bucket": "locked",
+"mp4KB": 149,
+"gifKB": 1909
+},
+"Plyo_Push-up": {
+"status": "ok",
+"shift": [
+-1.74,
+3.34
+],
+"bgDiff": 5.2,
+"flicker": 0.601,
+"bucket": "locked",
+"mp4KB": 168,
+"gifKB": 2588
+},
+"Posterior_Tibialis_Stretch": {
+"status": "ok",
+"shift": [
+-12.0,
+0.09
+],
+"bgDiff": 75.4,
+"flicker": 16.952,
+"bucket": "angle_mismatch",
+"mp4KB": 191,
+"gifKB": 1691
+},
+"Power_Clean": {
+"status": "ok",
+"shift": [
+-4.92,
+-2.43
+],
+"bgDiff": 5.2,
+"flicker": 0.244,
+"bucket": "locked",
+"mp4KB": 165,
+"gifKB": 2909
+},
+"Power_Clean_from_Blocks": {
+"status": "ok",
+"shift": [
+3.77,
+5.12
+],
+"bgDiff": 5.1,
+"flicker": 0.167,
+"bucket": "locked",
+"mp4KB": 141,
+"gifKB": 2057
+},
+"Power_Jerk": {
+"status": "ok",
+"shift": [
+-2.65,
+21.69
+],
+"bgDiff": 5.7,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 143,
+"gifKB": 2073
+},
+"Power_Partials": {
+"status": "ok",
+"shift": [
+-0.14,
+-6.32
+],
+"bgDiff": 1.9,
+"flicker": 0.052,
+"bucket": "locked",
+"mp4KB": 101,
+"gifKB": 1835
+},
+"Power_Snatch": {
+"status": "ok",
+"shift": [
+0.09,
+1.14
+],
+"bgDiff": 5.0,
+"flicker": 0.088,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 2018
+},
+"Power_Snatch_from_Blocks": {
+"status": "ok",
+"shift": [
+4.45,
+-2.13
+],
+"bgDiff": 4.2,
+"flicker": 0.059,
+"bucket": "locked",
+"mp4KB": 144,
+"gifKB": 2053
+},
+"Power_Stairs": {
+"status": "ok",
+"shift": [
+16.66,
+28.87
+],
+"bgDiff": 4.2,
+"flicker": 3.097,
+"bucket": "locked",
+"mp4KB": 155,
+"gifKB": 2175
+},
+"Preacher_Curl": {
+"status": "ok",
+"shift": [
+-1.77,
+1.36
+],
+"bgDiff": 2.9,
+"flicker": 0.018,
+"bucket": "locked",
+"mp4KB": 133,
+"gifKB": 2657
+},
+"Preacher_Hammer_Dumbbell_Curl": {
+"status": "ok",
+"shift": [
+-7.93,
+7.3
+],
+"bgDiff": 3.3,
+"flicker": 0.051,
+"bucket": "locked",
+"mp4KB": 128,
+"gifKB": 2693
+},
+"Press_Sit-Up": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 20.2,
+"flicker": 1.442,
+"bucket": "angle_mismatch",
+"mp4KB": 218,
+"gifKB": 2616
+},
+"Prone_Manual_Hamstring": {
+"status": "ok",
+"shift": [
+-19.34,
+10.33
+],
+"bgDiff": 9.1,
+"flicker": 0.629,
+"bucket": "locked",
+"mp4KB": 206,
+"gifKB": 3019
+},
+"Prowler_Sprint": {
+"status": "ok",
+"shift": [
+40.0,
+15.83
+],
+"bgDiff": 26.8,
+"flicker": 2.976,
+"bucket": "angle_mismatch",
+"mp4KB": 212,
+"gifKB": 2926
+},
+"Pull_Through": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 37.8,
+"flicker": 15.718,
+"bucket": "angle_mismatch",
+"mp4KB": 173,
+"gifKB": 2298
+},
+"Pullups": {
+"status": "ok",
+"shift": [
+-0.35,
+12.0
+],
+"bgDiff": 4.9,
+"flicker": 0.014,
+"bucket": "locked",
+"mp4KB": 168,
+"gifKB": 2213
+},
+"Push-Up_Wide": {
+"status": "ok",
+"shift": [
+0.72,
+0.24
+],
+"bgDiff": 7.3,
+"flicker": 1.08,
+"bucket": "locked",
+"mp4KB": 113,
+"gifKB": 2510
+},
+"Push-Ups_-_Close_Triceps_Position": {
+"status": "ok",
+"shift": [
+-2.1,
+0.97
+],
+"bgDiff": 7.3,
+"flicker": 0.269,
+"bucket": "locked",
+"mp4KB": 178,
+"gifKB": 2362
+},
+"Push-Ups_With_Feet_Elevated": {
+"status": "ok",
+"shift": [
+-14.77,
+-20.5
+],
+"bgDiff": 6.0,
+"flicker": 0.142,
+"bucket": "locked",
+"mp4KB": 178,
+"gifKB": 2137
+},
+"Push-Ups_With_Feet_On_An_Exercise_Ball": {
+"status": "ok",
+"shift": [
+0.12,
+0.4
+],
+"bgDiff": 3.1,
+"flicker": 0.023,
+"bucket": "locked",
+"mp4KB": 147,
+"gifKB": 2439
+},
+"Push_Press": {
+"status": "ok",
+"shift": [
+0.16,
+-7.77
+],
+"bgDiff": 4.6,
+"flicker": 0.001,
+"bucket": "locked",
+"mp4KB": 132,
+"gifKB": 2026
+},
+"Push_Press_-_Behind_the_Neck": {
+"status": "ok",
+"shift": [
+-1.3,
+-11.18
+],
+"bgDiff": 5.9,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 156,
+"gifKB": 2071
+},
+"Push_Up_to_Side_Plank": {
+"status": "ok",
+"shift": [
+-1.84,
+-0.05
+],
+"bgDiff": 1.9,
+"flicker": 0.279,
+"bucket": "locked",
+"mp4KB": 117,
+"gifKB": 2477
+},
+"Pushups": {
+"status": "ok",
+"shift": [
+14.48,
+-40.0
+],
+"bgDiff": 7.9,
+"flicker": 1.741,
+"bucket": "locked",
+"mp4KB": 238,
+"gifKB": 2626
+},
+"Pushups_Close_and_Wide_Hand_Positions": {
+"status": "ok",
+"shift": [
+-7.34,
+1.36
+],
+"bgDiff": 7.9,
+"flicker": 0.458,
+"bucket": "locked",
+"mp4KB": 177,
+"gifKB": 2292
+},
+"Pyramid": {
+"status": "ok",
+"shift": [
+-1.96,
+-4.1
+],
+"bgDiff": 3.0,
+"flicker": 0.323,
+"bucket": "locked",
+"mp4KB": 100,
+"gifKB": 1462
+},
+"Quad_Stretch": {
+"status": "ok",
+"shift": [
+-0.06,
+-0.81
+],
+"bgDiff": 94.0,
+"flicker": 26.111,
+"bucket": "angle_mismatch",
+"mp4KB": 176,
+"gifKB": 1553
+},
+"Quadriceps-SMR": {
+"status": "ok",
+"shift": [
+0.04,
+0.01
+],
+"bgDiff": 40.4,
+"flicker": 30.206,
+"bucket": "angle_mismatch",
+"mp4KB": 175,
+"gifKB": 1580
+},
+"Quick_Leap": {
+"status": "ok",
+"shift": [
+-5.65,
+5.41
+],
+"bgDiff": 3.7,
+"flicker": 0.247,
+"bucket": "locked",
+"mp4KB": 111,
+"gifKB": 2167
+},
+"Rack_Delivery": {
+"status": "ok",
+"shift": [
+1.43,
+-3.51
+],
+"bgDiff": 1.2,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 113,
+"gifKB": 2035
+},
+"Rack_Pull_with_Bands": {
+"status": "ok",
+"shift": [
+-16.46,
+37.51
+],
+"bgDiff": 14.5,
+"flicker": 5.951,
+"bucket": "usable",
+"mp4KB": 182,
+"gifKB": 2610
+},
+"Rack_Pulls": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 39.0,
+"flicker": 14.142,
+"bucket": "angle_mismatch",
+"mp4KB": 200,
+"gifKB": 2766
+},
+"Rear_Leg_Raises": {
+"status": "ok",
+"shift": [
+1.14,
+0.78
+],
+"bgDiff": 8.4,
+"flicker": 1.463,
+"bucket": "locked",
+"mp4KB": 178,
+"gifKB": 1715
+},
+"Recumbent_Bike": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 39.3,
+"flicker": 2.807,
+"bucket": "angle_mismatch",
+"mp4KB": 210,
+"gifKB": 2490
+},
+"Return_Push_from_Stance": {
+"status": "ok",
+"shift": [
+28.33,
+40.0
+],
+"bgDiff": 4.0,
+"flicker": 0.835,
+"bucket": "locked",
+"mp4KB": 210,
+"gifKB": 2000
+},
+"Reverse_Band_Bench_Press": {
+"status": "ok",
+"shift": [
+-27.22,
+0.19
+],
+"bgDiff": 4.2,
+"flicker": 2.243,
+"bucket": "locked",
+"mp4KB": 132,
+"gifKB": 2937
+},
+"Reverse_Band_Box_Squat": {
+"status": "ok",
+"shift": [
+-5.75,
+0.06
+],
+"bgDiff": 2.6,
+"flicker": 0.002,
+"bucket": "locked",
+"mp4KB": 158,
+"gifKB": 2970
+},
+"Reverse_Band_Deadlift": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 3.7,
+"flicker": 1.235,
+"bucket": "locked",
+"mp4KB": 210,
+"gifKB": 2990
+},
+"Reverse_Band_Power_Squat": {
+"status": "ok",
+"shift": [
+1.69,
+-0.5
+],
+"bgDiff": 3.8,
+"flicker": 0.341,
+"bucket": "locked",
+"mp4KB": 165,
+"gifKB": 2942
+},
+"Reverse_Band_Sumo_Deadlift": {
+"status": "ok",
+"shift": [
+2.51,
+0.23
+],
+"bgDiff": 2.6,
+"flicker": 0.954,
+"bucket": "locked",
+"mp4KB": 158,
+"gifKB": 3036
+},
+"Reverse_Barbell_Curl": {
+"status": "ok",
+"shift": [
+1.1,
+1.41
+],
+"bgDiff": 1.8,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 110,
+"gifKB": 1954
+},
+"Reverse_Barbell_Preacher_Curls": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 10.2,
+"flicker": 1.411,
+"bucket": "usable",
+"mp4KB": 243,
+"gifKB": 3211
+},
+"Reverse_Cable_Curl": {
+"status": "ok",
+"shift": [
+-3.28,
+0.25
+],
+"bgDiff": 12.0,
+"flicker": 0.496,
+"bucket": "usable",
+"mp4KB": 196,
+"gifKB": 3196
+},
+"Reverse_Crunch": {
+"status": "ok",
+"shift": [
+40.0,
+-40.0
+],
+"bgDiff": 10.7,
+"flicker": 4.078,
+"bucket": "usable",
+"mp4KB": 252,
+"gifKB": 2307
+},
+"Reverse_Flyes": {
+"status": "ok",
+"shift": [
+-2.06,
+0.91
+],
+"bgDiff": 6.2,
+"flicker": 0.288,
+"bucket": "locked",
+"mp4KB": 147,
+"gifKB": 2606
+},
+"Reverse_Flyes_With_External_Rotation": {
+"status": "ok",
+"shift": [
+11.47,
+-10.78
+],
+"bgDiff": 6.2,
+"flicker": 0.413,
+"bucket": "locked",
+"mp4KB": 139,
+"gifKB": 2669
+},
+"Reverse_Grip_Bent-Over_Rows": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 0.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 61,
+"gifKB": 150
+},
+"Reverse_Grip_Triceps_Pushdown": {
+"status": "ok",
+"shift": [
+-0.56,
+-3.27
+],
+"bgDiff": 10.1,
+"flicker": 0.472,
+"bucket": "usable",
+"mp4KB": 166,
+"gifKB": 2987
+},
+"Reverse_Hyperextension": {
+"status": "ok",
+"shift": [
+2.17,
+0.84
+],
+"bgDiff": 2.7,
+"flicker": 0.315,
+"bucket": "locked",
+"mp4KB": 162,
+"gifKB": 2700
+},
+"Reverse_Machine_Flyes": {
+"status": "ok",
+"shift": [
+-4.26,
+0.85
+],
+"bgDiff": 6.2,
+"flicker": 0.227,
+"bucket": "locked",
+"mp4KB": 183,
+"gifKB": 2846
+},
+"Reverse_Plate_Curls": {
+"status": "ok",
+"shift": [
+2.29,
+0.59
+],
+"bgDiff": 3.2,
+"flicker": 0.19,
+"bucket": "locked",
+"mp4KB": 111,
+"gifKB": 1863
+},
+"Reverse_Triceps_Bench_Press": {
+"status": "ok",
+"shift": [
+6.58,
+12.0
+],
+"bgDiff": 25.7,
+"flicker": 1.384,
+"bucket": "angle_mismatch",
+"mp4KB": 267,
+"gifKB": 3316
+},
+"Rhomboids-SMR": {
+"status": "ok",
+"shift": [
+-1.9,
+0.28
+],
+"bgDiff": 36.1,
+"flicker": 14.211,
+"bucket": "angle_mismatch",
+"mp4KB": 186,
+"gifKB": 1668
+},
+"Rickshaw_Carry": {
+"status": "ok",
+"shift": [
+0.03,
+-0.46
+],
+"bgDiff": 57.5,
+"flicker": 13.054,
+"bucket": "angle_mismatch",
+"mp4KB": 263,
+"gifKB": 2377
+},
+"Rickshaw_Deadlift": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 16.4,
+"flicker": 2.847,
+"bucket": "usable",
+"mp4KB": 242,
+"gifKB": 2219
+},
+"Ring_Dips": {
+"status": "ok",
+"shift": [
+-3.22,
+40.0
+],
+"bgDiff": 24.1,
+"flicker": 5.022,
+"bucket": "angle_mismatch",
+"mp4KB": 247,
+"gifKB": 2839
+},
+"Rocket_Jump": {
+"status": "ok",
+"shift": [
+0.16,
+0.74
+],
+"bgDiff": 2.9,
+"flicker": 0.347,
+"bucket": "locked",
+"mp4KB": 93,
+"gifKB": 1563
+},
+"Rocking_Standing_Calf_Raise": {
+"status": "ok",
+"shift": [
+-5.26,
+-0.67
+],
+"bgDiff": 3.0,
+"flicker": 0.359,
+"bucket": "locked",
+"mp4KB": 144,
+"gifKB": 2273
+},
+"Rocky_Pull-Ups_Pulldowns": {
+"status": "ok",
+"shift": [
+0.04,
+0.89
+],
+"bgDiff": 4.5,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 131,
+"gifKB": 2172
+},
+"Romanian_Deadlift": {
+"status": "ok",
+"shift": [
+-3.03,
+1.18
+],
+"bgDiff": 4.7,
+"flicker": 0.007,
+"bucket": "locked",
+"mp4KB": 146,
+"gifKB": 2097
+},
+"Romanian_Deadlift_from_Deficit": {
+"status": "ok",
+"shift": [
+5.73,
+-40.0
+],
+"bgDiff": 11.4,
+"flicker": 0.67,
+"bucket": "usable",
+"mp4KB": 167,
+"gifKB": 2068
+},
+"Rope_Climb": {
+"status": "ok",
+"shift": [
+4.52,
+12.0
+],
+"bgDiff": 61.4,
+"flicker": 12.926,
+"bucket": "angle_mismatch",
+"mp4KB": 252,
+"gifKB": 2505
+},
+"Rope_Straight-Arm_Pulldown": {
+"status": "ok",
+"shift": [
+-6.75,
+-0.01
+],
+"bgDiff": 3.4,
+"flicker": 0.342,
+"bucket": "locked",
+"mp4KB": 134,
+"gifKB": 2906
+},
+"Round_The_World_Shoulder_Stretch": {
+"status": "ok",
+"shift": [
+-0.06,
+0.07
+],
+"bgDiff": 25.3,
+"flicker": 9.181,
+"bucket": "angle_mismatch",
+"mp4KB": 140,
+"gifKB": 1626
+},
+"Rope_Crunch": {
+"status": "ok",
+"shift": [
+3.85,
+-9.62
+],
+"bgDiff": 9.8,
+"flicker": 2.937,
+"bucket": "locked",
+"mp4KB": 216,
+"gifKB": 3045
+},
+"Rope_Jumping": {
+"status": "ok",
+"shift": [
+-8.54,
+12.0
+],
+"bgDiff": 29.5,
+"flicker": 5.233,
+"bucket": "angle_mismatch",
+"mp4KB": 270,
+"gifKB": 2263
+},
+"Rowing_Stationary": {
+"status": "ok",
+"shift": [
+-19.74,
+14.85
+],
+"bgDiff": 24.5,
+"flicker": 4.224,
+"bucket": "angle_mismatch",
+"mp4KB": 223,
+"gifKB": 1954
+},
+"Runners_Stretch": {
+"status": "ok",
+"shift": [
+-1.01,
+0.07
+],
+"bgDiff": 24.5,
+"flicker": 3.613,
+"bucket": "angle_mismatch",
+"mp4KB": 158,
+"gifKB": 1468
+},
+"Running_Treadmill": {
+"status": "ok",
+"shift": [
+-0.55,
+-31.11
+],
+"bgDiff": 50.2,
+"flicker": 8.515,
+"bucket": "angle_mismatch",
+"mp4KB": 282,
+"gifKB": 3061
+},
+"Russian_Twist": {
+"status": "ok",
+"shift": [
+1.37,
+7.65
+],
+"bgDiff": 3.2,
+"flicker": 0.056,
+"bucket": "locked",
+"mp4KB": 173,
+"gifKB": 2502
+},
+"Scissor_Kick": {
+"status": "ok",
+"shift": [
+22.84,
+-0.78
+],
+"bgDiff": 10.2,
+"flicker": 0.179,
+"bucket": "usable",
+"mp4KB": 239,
+"gifKB": 3136
+},
+"Scissors_Jump": {
+"status": "ok",
+"shift": [
+-0.04,
+-0.03
+],
+"bgDiff": 2.4,
+"flicker": 0.122,
+"bucket": "locked",
+"mp4KB": 100,
+"gifKB": 1716
+},
+"Sandbag_Load": {
+"status": "ok",
+"shift": [
+0.04,
+0.52
+],
+"bgDiff": 61.6,
+"flicker": 14.752,
+"bucket": "angle_mismatch",
+"mp4KB": 213,
+"gifKB": 1900
+},
+"Scapular_Pull-Up": {
+"status": "ok",
+"shift": [
+-4.41,
+12.0
+],
+"bgDiff": 14.2,
+"flicker": 0.417,
+"bucket": "usable",
+"mp4KB": 151,
+"gifKB": 2614
+},
+"Seated_Barbell_Twist": {
+"status": "ok",
+"shift": [
+-0.92,
+-5.05
+],
+"bgDiff": 2.6,
+"flicker": 0.029,
+"bucket": "locked",
+"mp4KB": 138,
+"gifKB": 2164
+},
+"Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+9.52,
+5.49
+],
+"bgDiff": 3.6,
+"flicker": 0.032,
+"bucket": "locked",
+"mp4KB": 127,
+"gifKB": 2368
+},
+"Seated_Band_Hamstring_Curl": {
+"status": "ok",
+"shift": [
+-3.06,
+3.54
+],
+"bgDiff": 5.2,
+"flicker": 0.128,
+"bucket": "locked",
+"mp4KB": 201,
+"gifKB": 3154
+},
+"Seated_Barbell_Military_Press": {
+"status": "ok",
+"shift": [
+20.86,
+21.0
+],
+"bgDiff": 19.0,
+"flicker": 2.587,
+"bucket": "usable",
+"mp4KB": 276,
+"gifKB": 3054
+},
+"Seated_Biceps": {
+"status": "ok",
+"shift": [
+-12.0,
+-3.93
+],
+"bgDiff": 4.4,
+"flicker": 1.209,
+"bucket": "locked",
+"mp4KB": 135,
+"gifKB": 1644
+},
+"Seated_Cable_Rows": {
+"status": "ok",
+"shift": [
+3.97,
+0.49
+],
+"bgDiff": 9.6,
+"flicker": 0.211,
+"bucket": "locked",
+"mp4KB": 131,
+"gifKB": 2966
+},
+"Seated_Bent-Over_Rear_Delt_Raise": {
+"status": "ok",
+"shift": [
+-5.35,
+-0.66
+],
+"bgDiff": 4.7,
+"flicker": 0.737,
+"bucket": "locked",
+"mp4KB": 160,
+"gifKB": 2199
+},
+"Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-5.68,
+0.2
+],
+"bgDiff": 2.6,
+"flicker": 0.089,
+"bucket": "locked",
+"mp4KB": 157,
+"gifKB": 2427
+},
+"Seated_Cable_Shoulder_Press": {
+"status": "ok",
+"shift": [
+-3.57,
+1.76
+],
+"bgDiff": 4.1,
+"flicker": 0.525,
+"bucket": "locked",
+"mp4KB": 130,
+"gifKB": 2733
+},
+"Seated_Calf_Raise": {
+"status": "ok",
+"shift": [
+-0.34,
+-1.78
+],
+"bgDiff": 7.0,
+"flicker": 0.104,
+"bucket": "locked",
+"mp4KB": 148,
+"gifKB": 2311
+},
+"Seated_Calf_Stretch": {
+"status": "ok",
+"shift": [
+0.01,
+-0.05
+],
+"bgDiff": 29.5,
+"flicker": 12.609,
+"bucket": "angle_mismatch",
+"mp4KB": 182,
+"gifKB": 1586
+},
+"Seated_Close-Grip_Concentration_Barbell_Curl": {
+"status": "ok",
+"shift": [
+-2.42,
+-1.56
+],
+"bgDiff": 3.2,
+"flicker": 0.108,
+"bucket": "locked",
+"mp4KB": 154,
+"gifKB": 2171
+},
+"Seated_Dumbbell_Curl": {
+"status": "ok",
+"shift": [
+-3.25,
+-3.48
+],
+"bgDiff": 3.5,
+"flicker": 0.467,
+"bucket": "locked",
+"mp4KB": 128,
+"gifKB": 2463
+},
+"Seated_Dumbbell_Inner_Biceps_Curl": {
+"status": "ok",
+"shift": [
+-8.05,
+-1.51
+],
+"bgDiff": 5.0,
+"flicker": 0.029,
+"bucket": "locked",
+"mp4KB": 121,
+"gifKB": 2586
+},
+"Seated_Dumbbell_Palms-Down_Wrist_Curl": {
+"status": "ok",
+"shift": [
+-1.96,
+0.57
+],
+"bgDiff": 4.1,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2421
+},
+"Seated_Dumbbell_Palms-Up_Wrist_Curl": {
+"status": "ok",
+"shift": [
+-3.91,
+2.01
+],
+"bgDiff": 3.9,
+"flicker": 0.173,
+"bucket": "locked",
+"mp4KB": 131,
+"gifKB": 2447
+},
+"Seated_Dumbbell_Press": {
+"status": "ok",
+"shift": [
+3.53,
+-6.36
+],
+"bgDiff": 6.2,
+"flicker": 0.208,
+"bucket": "locked",
+"mp4KB": 118,
+"gifKB": 2539
+},
+"Seated_Flat_Bench_Leg_Pull-In": {
+"status": "ok",
+"shift": [
+-0.89,
+0.35
+],
+"bgDiff": 2.9,
+"flicker": 0.025,
+"bucket": "locked",
+"mp4KB": 141,
+"gifKB": 2164
+},
+"Seated_Floor_Hamstring_Stretch": {
+"status": "ok",
+"shift": [
+-0.0,
+-0.0
+],
+"bgDiff": 0.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 52,
+"gifKB": 141
+},
+"Seated_Front_Deltoid": {
+"status": "ok",
+"shift": [
+-8.46,
+-7.15
+],
+"bgDiff": 5.3,
+"flicker": 0.68,
+"bucket": "locked",
+"mp4KB": 112,
+"gifKB": 1661
+},
+"Seated_Glute": {
+"status": "ok",
+"shift": [
+-8.41,
+-12.0
+],
+"bgDiff": 14.2,
+"flicker": 6.304,
+"bucket": "usable",
+"mp4KB": 180,
+"gifKB": 1783
+},
+"Seated_Good_Mornings": {
+"status": "ok",
+"shift": [
+12.0,
+-12.0
+],
+"bgDiff": 51.0,
+"flicker": 9.845,
+"bucket": "angle_mismatch",
+"mp4KB": 201,
+"gifKB": 2470
+},
+"Seated_Hamstring": {
+"status": "ok",
+"shift": [
+0.24,
+0.11
+],
+"bgDiff": 18.2,
+"flicker": 5.523,
+"bucket": "usable",
+"mp4KB": 180,
+"gifKB": 1629
+},
+"Seated_Hamstring_and_Calf_Stretch": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 44.4,
+"flicker": 3.943,
+"bucket": "angle_mismatch",
+"mp4KB": 194,
+"gifKB": 1699
+},
+"Seated_Head_Harness_Neck_Resistance": {
+"status": "ok",
+"shift": [
+2.36,
+5.26
+],
+"bgDiff": 3.2,
+"flicker": 0.433,
+"bucket": "locked",
+"mp4KB": 147,
+"gifKB": 2710
+},
+"Seated_Leg_Curl": {
+"status": "ok",
+"shift": [
+6.46,
+-1.49
+],
+"bgDiff": 8.3,
+"flicker": 0.169,
+"bucket": "locked",
+"mp4KB": 232,
+"gifKB": 3470
+},
+"Seated_Leg_Tucks": {
+"status": "ok",
+"shift": [
+9.13,
+2.66
+],
+"bgDiff": 5.0,
+"flicker": 0.363,
+"bucket": "locked",
+"mp4KB": 168,
+"gifKB": 2242
+},
+"Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl": {
+"status": "ok",
+"shift": [
+3.45,
+0.83
+],
+"bgDiff": 3.4,
+"flicker": 0.116,
+"bucket": "locked",
+"mp4KB": 103,
+"gifKB": 2627
+},
+"Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl": {
+"status": "ok",
+"shift": [
+1.16,
+1.3
+],
+"bgDiff": 2.4,
+"flicker": 0.04,
+"bucket": "locked",
+"mp4KB": 99,
+"gifKB": 2529
+},
+"Seated_One-arm_Cable_Pulley_Rows": {
+"status": "ok",
+"shift": [
+-3.77,
+-1.41
+],
+"bgDiff": 13.2,
+"flicker": 1.181,
+"bucket": "usable",
+"mp4KB": 143,
+"gifKB": 2362
+},
+"Seated_Overhead_Stretch": {
+"status": "ok",
+"shift": [
+3.26,
+3.71
+],
+"bgDiff": 2.4,
+"flicker": 0.057,
+"bucket": "locked",
+"mp4KB": 86,
+"gifKB": 1881
+},
+"Seated_Palm-Up_Barbell_Wrist_Curl": {
+"status": "ok",
+"shift": [
+5.53,
+-0.3
+],
+"bgDiff": 3.0,
+"flicker": 0.008,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 2606
+},
+"Seated_Palms-Down_Barbell_Wrist_Curl": {
+"status": "ok",
+"shift": [
+-1.43,
+0.55
+],
+"bgDiff": 2.3,
+"flicker": 0.023,
+"bucket": "locked",
+"mp4KB": 112,
+"gifKB": 2575
+},
+"Seated_Side_Lateral_Raise": {
+"status": "ok",
+"shift": [
+3.3,
+1.58
+],
+"bgDiff": 3.6,
+"flicker": 1.287,
+"bucket": "locked",
+"mp4KB": 118,
+"gifKB": 2291
+},
+"Seated_Triceps_Press": {
+"status": "ok",
+"shift": [
+-5.1,
+7.78
+],
+"bgDiff": 19.5,
+"flicker": 0.015,
+"bucket": "usable",
+"mp4KB": 96,
+"gifKB": 2442
+},
+"Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl": {
+"status": "ok",
+"shift": [
+6.73,
+1.19
+],
+"bgDiff": 11.1,
+"flicker": 0.657,
+"bucket": "usable",
+"mp4KB": 136,
+"gifKB": 2994
+},
+"See-Saw_Press_Alternating_Side_Press": {
+"status": "ok",
+"shift": [
+3.17,
+4.6
+],
+"bgDiff": 2.6,
+"flicker": 0.007,
+"bucket": "locked",
+"mp4KB": 106,
+"gifKB": 1935
+},
+"Shotgun_Row": {
+"status": "ok",
+"shift": [
+0.93,
+3.68
+],
+"bgDiff": 5.1,
+"flicker": 1.779,
+"bucket": "locked",
+"mp4KB": 141,
+"gifKB": 2655
+},
+"Shoulder_Circles": {
+"status": "ok",
+"shift": [
+0.03,
+12.0
+],
+"bgDiff": 5.9,
+"flicker": 0.182,
+"bucket": "locked",
+"mp4KB": 108,
+"gifKB": 1446
+},
+"Shoulder_Press_-_With_Bands": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 4.6,
+"flicker": 0.248,
+"bucket": "locked",
+"mp4KB": 145,
+"gifKB": 2091
+},
+"Shoulder_Raise": {
+"status": "ok",
+"shift": [
+12.0,
+-8.2
+],
+"bgDiff": 4.5,
+"flicker": 0.478,
+"bucket": "locked",
+"mp4KB": 88,
+"gifKB": 1475
+},
+"Shoulder_Stretch": {
+"status": "ok",
+"shift": [
+8.66,
+-1.44
+],
+"bgDiff": 8.6,
+"flicker": 0.516,
+"bucket": "locked",
+"mp4KB": 100,
+"gifKB": 1568
+},
+"Side-Lying_Floor_Stretch": {
+"status": "ok",
+"shift": [
+-12.0,
+4.78
+],
+"bgDiff": 15.0,
+"flicker": 0.766,
+"bucket": "usable",
+"mp4KB": 145,
+"gifKB": 1455
+},
+"Side_Bridge": {
+"status": "ok",
+"shift": [
+-6.56,
+-4.4
+],
+"bgDiff": 5.2,
+"flicker": 0.156,
+"bucket": "locked",
+"mp4KB": 208,
+"gifKB": 2276
+},
+"Side_Hop-Sprint": {
+"status": "ok",
+"shift": [
+12.0,
+-12.0
+],
+"bgDiff": 10.8,
+"flicker": 1.548,
+"bucket": "usable",
+"mp4KB": 124,
+"gifKB": 2046
+},
+"Side_Jackknife": {
+"status": "ok",
+"shift": [
+-3.43,
+4.86
+],
+"bgDiff": 3.5,
+"flicker": 1.554,
+"bucket": "locked",
+"mp4KB": 185,
+"gifKB": 2448
+},
+"Side_Lateral_Raise": {
+"status": "ok",
+"shift": [
+-0.36,
+2.57
+],
+"bgDiff": 3.0,
+"flicker": 0.001,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 1971
+},
+"Side_Laterals_to_Front_Raise": {
+"status": "ok",
+"shift": [
+4.28,
+-5.99
+],
+"bgDiff": 3.0,
+"flicker": 0.24,
+"bucket": "locked",
+"mp4KB": 152,
+"gifKB": 2926
+},
+"Side_Leg_Raises": {
+"status": "ok",
+"shift": [
+5.25,
+2.71
+],
+"bgDiff": 2.0,
+"flicker": 0.047,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 1615
+},
+"Side_Lying_Groin_Stretch": {
+"status": "ok",
+"shift": [
+0.02,
+0.29
+],
+"bgDiff": 48.3,
+"flicker": 7.472,
+"bucket": "angle_mismatch",
+"mp4KB": 187,
+"gifKB": 1617
+},
+"Side_Neck_Stretch": {
+"status": "ok",
+"shift": [
+1.14,
+-0.39
+],
+"bgDiff": 50.0,
+"flicker": 11.556,
+"bucket": "angle_mismatch",
+"mp4KB": 135,
+"gifKB": 1454
+},
+"Side_Standing_Long_Jump": {
+"status": "ok",
+"shift": [
+23.58,
+13.49
+],
+"bgDiff": 6.7,
+"flicker": 0.55,
+"bucket": "locked",
+"mp4KB": 131,
+"gifKB": 2780
+},
+"Side_To_Side_Chins": {
+"status": "ok",
+"shift": [
+1.72,
+7.49
+],
+"bgDiff": 4.2,
+"flicker": 0.007,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 2164
+},
+"Side_Wrist_Pull": {
+"status": "ok",
+"shift": [
+6.58,
+3.81
+],
+"bgDiff": 2.4,
+"flicker": 0.115,
+"bucket": "locked",
+"mp4KB": 97,
+"gifKB": 1457
+},
+"Side_to_Side_Box_Shuffle": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 3.3,
+"flicker": 0.945,
+"bucket": "locked",
+"mp4KB": 146,
+"gifKB": 2033
+},
+"Single-Arm_Cable_Crossover": {
+"status": "ok",
+"shift": [
+-0.54,
+1.44
+],
+"bgDiff": 2.6,
+"flicker": 0.868,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2231
+},
+"Single-Arm_Linear_Jammer": {
+"status": "ok",
+"shift": [
+-0.1,
+0.6
+],
+"bgDiff": 3.4,
+"flicker": 0.139,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 3045
+},
+"Single-Arm_Push-Up": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 40.3,
+"flicker": 6.67,
+"bucket": "angle_mismatch",
+"mp4KB": 202,
+"gifKB": 2510
+},
+"Single-Cone_Sprint_Drill": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 7.8,
+"flicker": 0.565,
+"bucket": "locked",
+"mp4KB": 173,
+"gifKB": 2748
+},
+"Single-Leg_High_Box_Squat": {
+"status": "ok",
+"shift": [
+0.58,
+-8.45
+],
+"bgDiff": 2.6,
+"flicker": 0.098,
+"bucket": "locked",
+"mp4KB": 218,
+"gifKB": 3520
+},
+"Single-Leg_Hop_Progression": {
+"status": "ok",
+"shift": [
+-5.19,
+1.37
+],
+"bgDiff": 12.7,
+"flicker": 0.833,
+"bucket": "usable",
+"mp4KB": 188,
+"gifKB": 2435
+},
+"Single-Leg_Lateral_Hop": {
+"status": "ok",
+"shift": [
+-3.37,
+-0.1
+],
+"bgDiff": 7.6,
+"flicker": 0.189,
+"bucket": "locked",
+"mp4KB": 152,
+"gifKB": 2685
+},
+"Single-Leg_Leg_Extension": {
+"status": "ok",
+"shift": [
+2.52,
+10.12
+],
+"bgDiff": 11.5,
+"flicker": 0.501,
+"bucket": "usable",
+"mp4KB": 268,
+"gifKB": 3133
+},
+"Single-Leg_Stride_Jump": {
+"status": "ok",
+"shift": [
+-31.89,
+-0.45
+],
+"bgDiff": 7.2,
+"flicker": 0.338,
+"bucket": "locked",
+"mp4KB": 122,
+"gifKB": 1665
+},
+"Single_Dumbbell_Raise": {
+"status": "ok",
+"shift": [
+-0.08,
+0.09
+],
+"bgDiff": 3.1,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 2289
+},
+"Single_Leg_Butt_Kick": {
+"status": "ok",
+"shift": [
+-0.4,
+0.82
+],
+"bgDiff": 1.8,
+"flicker": 0.089,
+"bucket": "locked",
+"mp4KB": 78,
+"gifKB": 1546
+},
+"Single_Leg_Glute_Bridge": {
+"status": "ok",
+"shift": [
+-1.32,
+1.03
+],
+"bgDiff": 3.3,
+"flicker": 0.054,
+"bucket": "locked",
+"mp4KB": 146,
+"gifKB": 2268
+},
+"Single_Leg_Push-off": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 5.3,
+"flicker": 1.686,
+"bucket": "locked",
+"mp4KB": 149,
+"gifKB": 2040
+},
+"Skating": {
+"status": "ok",
+"shift": [
+0.07,
+-0.22
+],
+"bgDiff": 66.0,
+"flicker": 12.5,
+"bucket": "angle_mismatch",
+"mp4KB": 313,
+"gifKB": 2514
+},
+"Sled_Drag_-_Harness": {
+"status": "ok",
+"shift": [
+14.21,
+3.5
+],
+"bgDiff": 98.5,
+"flicker": 39.529,
+"bucket": "angle_mismatch",
+"mp4KB": 162,
+"gifKB": 1627
+},
+"Sit-Up": {
+"status": "ok",
+"shift": [
+9.14,
+7.47
+],
+"bgDiff": 5.5,
+"flicker": 0.99,
+"bucket": "locked",
+"mp4KB": 199,
+"gifKB": 2427
+},
+"Sit_Squats": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 36.1,
+"flicker": 10.579,
+"bucket": "angle_mismatch",
+"mp4KB": 132,
+"gifKB": 1406
+},
+"Sled_Overhead_Backward_Walk": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 34.7,
+"flicker": 0.759,
+"bucket": "angle_mismatch",
+"mp4KB": 249,
+"gifKB": 2753
+},
+"Sled_Overhead_Triceps_Extension": {
+"status": "ok",
+"shift": [
+40.0,
+-11.06
+],
+"bgDiff": 26.1,
+"flicker": 4.059,
+"bucket": "angle_mismatch",
+"mp4KB": 212,
+"gifKB": 2697
+},
+"Sled_Push": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 34.2,
+"flicker": 17.08,
+"bucket": "angle_mismatch",
+"mp4KB": 198,
+"gifKB": 1872
+},
+"Sled_Reverse_Flye": {
+"status": "ok",
+"shift": [
+27.77,
+7.55
+],
+"bgDiff": 14.4,
+"flicker": 0.866,
+"bucket": "usable",
+"mp4KB": 183,
+"gifKB": 2791
+},
+"Sled_Row": {
+"status": "ok",
+"shift": [
+26.57,
+6.99
+],
+"bgDiff": 8.2,
+"flicker": 0.269,
+"bucket": "locked",
+"mp4KB": 118,
+"gifKB": 2534
+},
+"Sledgehammer_Swings": {
+"status": "ok",
+"shift": [
+-12.0,
+9.52
+],
+"bgDiff": 9.1,
+"flicker": 3.626,
+"bucket": "locked",
+"mp4KB": 219,
+"gifKB": 2596
+},
+"Smith_Incline_Shoulder_Raise": {
+"status": "ok",
+"shift": [
+3.71,
+12.0
+],
+"bgDiff": 24.5,
+"flicker": 5.592,
+"bucket": "angle_mismatch",
+"mp4KB": 254,
+"gifKB": 3518
+},
+"Smith_Machine_Behind_the_Back_Shrug": {
+"status": "ok",
+"shift": [
+-2.81,
+1.32
+],
+"bgDiff": 5.7,
+"flicker": 0.309,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 2937
+},
+"Smith_Machine_Bench_Press": {
+"status": "ok",
+"shift": [
+2.53,
+-5.5
+],
+"bgDiff": 10.2,
+"flicker": 0.253,
+"bucket": "usable",
+"mp4KB": 214,
+"gifKB": 3368
+},
+"Smith_Machine_Bent_Over_Row": {
+"status": "ok",
+"shift": [
+-3.5,
+-13.71
+],
+"bgDiff": 20.4,
+"flicker": 0.466,
+"bucket": "angle_mismatch",
+"mp4KB": 176,
+"gifKB": 3203
+},
+"Smith_Machine_Calf_Raise": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 8.4,
+"flicker": 3.362,
+"bucket": "locked",
+"mp4KB": 141,
+"gifKB": 2901
+},
+"Smith_Machine_Close-Grip_Bench_Press": {
+"status": "ok",
+"shift": [
+-40.0,
+-38.91
+],
+"bgDiff": 53.8,
+"flicker": 9.166,
+"bucket": "angle_mismatch",
+"mp4KB": 280,
+"gifKB": 3111
+},
+"Smith_Machine_Decline_Press": {
+"status": "ok",
+"shift": [
+-27.95,
+1.19
+],
+"bgDiff": 8.9,
+"flicker": 3.167,
+"bucket": "locked",
+"mp4KB": 159,
+"gifKB": 2532
+},
+"Smith_Machine_Hang_Power_Clean": {
+"status": "ok",
+"shift": [
+18.96,
+-11.7
+],
+"bgDiff": 26.9,
+"flicker": 0.99,
+"bucket": "angle_mismatch",
+"mp4KB": 242,
+"gifKB": 3514
+},
+"Smith_Machine_Hip_Raise": {
+"status": "ok",
+"shift": [
+5.82,
+0.45
+],
+"bgDiff": 3.7,
+"flicker": 0.078,
+"bucket": "locked",
+"mp4KB": 177,
+"gifKB": 2918
+},
+"Smith_Machine_Incline_Bench_Press": {
+"status": "ok",
+"shift": [
+5.77,
+16.1
+],
+"bgDiff": 10.2,
+"flicker": 0.825,
+"bucket": "usable",
+"mp4KB": 197,
+"gifKB": 3469
+},
+"Smith_Machine_Leg_Press": {
+"status": "ok",
+"shift": [
+-1.24,
+0.03
+],
+"bgDiff": 7.8,
+"flicker": 7.858,
+"bucket": "locked",
+"mp4KB": 162,
+"gifKB": 3012
+},
+"Smith_Machine_One-Arm_Upright_Row": {
+"status": "ok",
+"shift": [
+-0.85,
+5.77
+],
+"bgDiff": 31.8,
+"flicker": 5.653,
+"bucket": "angle_mismatch",
+"mp4KB": 168,
+"gifKB": 2446
+},
+"Smith_Machine_Overhead_Shoulder_Press": {
+"status": "ok",
+"shift": [
+1.72,
+11.82
+],
+"bgDiff": 6.6,
+"flicker": 0.946,
+"bucket": "locked",
+"mp4KB": 212,
+"gifKB": 3466
+},
+"Smith_Machine_Pistol_Squat": {
+"status": "ok",
+"shift": [
+-1.01,
+-0.32
+],
+"bgDiff": 5.5,
+"flicker": 4.479,
+"bucket": "locked",
+"mp4KB": 174,
+"gifKB": 2928
+},
+"Smith_Machine_Reverse_Calf_Raises": {
+"status": "ok",
+"shift": [
+-3.99,
+-31.81
+],
+"bgDiff": 17.8,
+"flicker": 3.124,
+"bucket": "usable",
+"mp4KB": 263,
+"gifKB": 3145
+},
+"Smith_Machine_Squat": {
+"status": "ok",
+"shift": [
+-6.04,
+11.67
+],
+"bgDiff": 11.8,
+"flicker": 0.656,
+"bucket": "usable",
+"mp4KB": 243,
+"gifKB": 2966
+},
+"Smith_Machine_Stiff-Legged_Deadlift": {
+"status": "ok",
+"shift": [
+-22.11,
+20.73
+],
+"bgDiff": 23.6,
+"flicker": 1.315,
+"bucket": "angle_mismatch",
+"mp4KB": 274,
+"gifKB": 3378
+},
+"Smith_Machine_Upright_Row": {
+"status": "ok",
+"shift": [
+-4.16,
+16.43
+],
+"bgDiff": 14.7,
+"flicker": 1.203,
+"bucket": "usable",
+"mp4KB": 212,
+"gifKB": 3278
+},
+"Smith_Single-Leg_Split_Squat": {
+"status": "ok",
+"shift": [
+4.48,
+-6.08
+],
+"bgDiff": 17.9,
+"flicker": 0.842,
+"bucket": "usable",
+"mp4KB": 238,
+"gifKB": 3067
+},
+"Snatch": {
+"status": "ok",
+"shift": [
+4.99,
+8.29
+],
+"bgDiff": 6.6,
+"flicker": 0.084,
+"bucket": "locked",
+"mp4KB": 171,
+"gifKB": 2035
+},
+"Snatch_Balance": {
+"status": "ok",
+"shift": [
+1.22,
+-1.42
+],
+"bgDiff": 1.6,
+"flicker": 0.002,
+"bucket": "locked",
+"mp4KB": 102,
+"gifKB": 1993
+},
+"Snatch_Deadlift": {
+"status": "ok",
+"shift": [
+0.71,
+0.98
+],
+"bgDiff": 5.5,
+"flicker": 1.39,
+"bucket": "locked",
+"mp4KB": 141,
+"gifKB": 2065
+},
+"Snatch_Pull": {
+"status": "ok",
+"shift": [
+18.06,
+35.84
+],
+"bgDiff": 11.0,
+"flicker": 0.217,
+"bucket": "usable",
+"mp4KB": 182,
+"gifKB": 2099
+},
+"Snatch_Shrug": {
+"status": "ok",
+"shift": [
+0.25,
+3.84
+],
+"bgDiff": 1.7,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 132,
+"gifKB": 2233
+},
+"Snatch_from_Blocks": {
+"status": "ok",
+"shift": [
+3.25,
+-2.34
+],
+"bgDiff": 5.5,
+"flicker": 0.23,
+"bucket": "locked",
+"mp4KB": 164,
+"gifKB": 2120
+},
+"Speed_Band_Overhead_Triceps": {
+"status": "ok",
+"shift": [
+-5.19,
+-14.01
+],
+"bgDiff": 3.7,
+"flicker": 0.17,
+"bucket": "locked",
+"mp4KB": 208,
+"gifKB": 3111
+},
+"Speed_Box_Squat": {
+"status": "ok",
+"shift": [
+7.55,
+0.78
+],
+"bgDiff": 4.0,
+"flicker": 0.573,
+"bucket": "locked",
+"mp4KB": 293,
+"gifKB": 3209
+},
+"Speed_Squats": {
+"status": "ok",
+"shift": [
+14.41,
+15.01
+],
+"bgDiff": 7.5,
+"flicker": 1.686,
+"bucket": "locked",
+"mp4KB": 182,
+"gifKB": 2178
+},
+"Spell_Caster": {
+"status": "ok",
+"shift": [
+5.92,
+6.8
+],
+"bgDiff": 3.9,
+"flicker": 0.457,
+"bucket": "locked",
+"mp4KB": 146,
+"gifKB": 3143
+},
+"Spider_Crawl": {
+"status": "ok",
+"shift": [
+2.18,
+-2.01
+],
+"bgDiff": 1.8,
+"flicker": 0.173,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 2974
+},
+"Spider_Curl": {
+"status": "ok",
+"shift": [
+3.69,
+0.6
+],
+"bgDiff": 4.4,
+"flicker": 0.408,
+"bucket": "locked",
+"mp4KB": 156,
+"gifKB": 2121
+},
+"Spinal_Stretch": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 16.6,
+"flicker": 2.282,
+"bucket": "usable",
+"mp4KB": 154,
+"gifKB": 1482
+},
+"Split_Clean": {
+"status": "ok",
+"shift": [
+0.55,
+0.65
+],
+"bgDiff": 4.4,
+"flicker": 0.028,
+"bucket": "locked",
+"mp4KB": 130,
+"gifKB": 2024
+},
+"Split_Jerk": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 5.4,
+"flicker": 0.012,
+"bucket": "locked",
+"mp4KB": 178,
+"gifKB": 2025
+},
+"Split_Jump": {
+"status": "ok",
+"shift": [
+-1.01,
+-0.19
+],
+"bgDiff": 2.1,
+"flicker": 0.316,
+"bucket": "locked",
+"mp4KB": 113,
+"gifKB": 1839
+},
+"Split_Snatch": {
+"status": "ok",
+"shift": [
+-12.0,
+6.0
+],
+"bgDiff": 9.1,
+"flicker": 0.278,
+"bucket": "locked",
+"mp4KB": 167,
+"gifKB": 1994
+},
+"Split_Squat_with_Dumbbells": {
+"status": "ok",
+"shift": [
+-3.24,
+-3.16
+],
+"bgDiff": 4.7,
+"flicker": 1.0,
+"bucket": "locked",
+"mp4KB": 176,
+"gifKB": 2912
+},
+"Split_Squats": {
+"status": "ok",
+"shift": [
+0.85,
+-9.65
+],
+"bgDiff": 4.7,
+"flicker": 3.903,
+"bucket": "locked",
+"mp4KB": 111,
+"gifKB": 1392
+},
+"Squat_Jerk": {
+"status": "ok",
+"shift": [
+3.79,
+1.14
+],
+"bgDiff": 4.5,
+"flicker": 0.017,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 2029
+},
+"Squat_with_Bands": {
+"status": "ok",
+"shift": [
+12.0,
+-12.0
+],
+"bgDiff": 62.0,
+"flicker": 17.878,
+"bucket": "angle_mismatch",
+"mp4KB": 192,
+"gifKB": 2605
+},
+"Squat_with_Chains": {
+"status": "ok",
+"shift": [
+-40.0,
+-40.0
+],
+"bgDiff": 47.2,
+"flicker": 15.906,
+"bucket": "angle_mismatch",
+"mp4KB": 205,
+"gifKB": 2724
+},
+"Squat_with_Plate_Movers": {
+"status": "ok",
+"shift": [
+0.68,
+1.65
+],
+"bgDiff": 4.3,
+"flicker": 3.308,
+"bucket": "locked",
+"mp4KB": 160,
+"gifKB": 2547
+},
+"Squats_-_With_Bands": {
+"status": "ok",
+"shift": [
+-6.84,
+-12.0
+],
+"bgDiff": 3.9,
+"flicker": 0.19,
+"bucket": "locked",
+"mp4KB": 208,
+"gifKB": 2261
+},
+"Stairmaster": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 31.0,
+"flicker": 7.834,
+"bucket": "angle_mismatch",
+"mp4KB": 296,
+"gifKB": 2860
+},
+"Standing_Alternating_Dumbbell_Press": {
+"status": "ok",
+"shift": [
+-1.45,
+1.42
+],
+"bgDiff": 4.4,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2928
+},
+"Standing_Barbell_Calf_Raise": {
+"status": "ok",
+"shift": [
+2.32,
+2.77
+],
+"bgDiff": 2.2,
+"bucket": "locked",
+"backfilled": true
+},
+"Standing_Barbell_Press_Behind_Neck": {
+"status": "ok",
+"shift": [
+0.38,
+1.58
+],
+"bgDiff": 2.0,
+"flicker": 0.145,
+"bucket": "locked",
+"mp4KB": 97,
+"gifKB": 1944
+},
+"Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-0.1,
+1.07
+],
+"bgDiff": 1.8,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 101,
+"gifKB": 1951
+},
+"Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+1.5,
+-0.14
+],
+"bgDiff": 2.2,
+"flicker": 0.001,
+"bucket": "locked",
+"mp4KB": 95,
+"gifKB": 1966
+},
+"Standing_Biceps_Cable_Curl": {
+"status": "ok",
+"shift": [
+-0.13,
+-1.24
+],
+"bgDiff": 5.5,
+"flicker": 0.495,
+"bucket": "locked",
+"mp4KB": 127,
+"gifKB": 2767
+},
+"Standing_Cable_Chest_Press": {
+"status": "ok",
+"shift": [
+1.6,
+-5.83
+],
+"bgDiff": 5.2,
+"flicker": 1.25,
+"bucket": "locked",
+"mp4KB": 199,
+"gifKB": 2983
+},
+"Standing_Cable_Lift": {
+"status": "ok",
+"shift": [
+-0.79,
+5.26
+],
+"bgDiff": 5.2,
+"flicker": 0.094,
+"bucket": "locked",
+"mp4KB": 177,
+"gifKB": 2672
+},
+"Standing_Biceps_Stretch": {
+"status": "ok",
+"shift": [
+0.05,
+1.03
+],
+"bgDiff": 2.7,
+"flicker": 0.303,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 1353
+},
+"Standing_Bradford_Press": {
+"status": "ok",
+"shift": [
+-17.35,
+-9.85
+],
+"bgDiff": 4.6,
+"flicker": 0.184,
+"bucket": "locked",
+"mp4KB": 157,
+"gifKB": 2592
+},
+"Standing_Cable_Wood_Chop": {
+"status": "ok",
+"shift": [
+27.56,
+-40.0
+],
+"bgDiff": 15.8,
+"flicker": 2.129,
+"bucket": "usable",
+"mp4KB": 232,
+"gifKB": 2422
+},
+"Standing_Calf_Raises": {
+"status": "ok",
+"shift": [
+3.01,
+-2.3
+],
+"bgDiff": 3.0,
+"flicker": 0.023,
+"bucket": "locked",
+"mp4KB": 111,
+"gifKB": 2423
+},
+"Standing_Concentration_Curl": {
+"status": "ok",
+"shift": [
+-13.95,
+6.16
+],
+"bgDiff": 10.8,
+"flicker": 0.448,
+"bucket": "usable",
+"mp4KB": 200,
+"gifKB": 3002
+},
+"Standing_Dumbbell_Calf_Raise": {
+"status": "ok",
+"shift": [
+-3.14,
+1.52
+],
+"bgDiff": 2.0,
+"flicker": 0.02,
+"bucket": "locked",
+"mp4KB": 118,
+"gifKB": 1888
+},
+"Standing_Dumbbell_Press": {
+"status": "ok",
+"shift": [
+1.18,
+1.32
+],
+"bgDiff": 2.2,
+"flicker": 0.115,
+"bucket": "locked",
+"mp4KB": 117,
+"gifKB": 2385
+},
+"Standing_Dumbbell_Reverse_Curl": {
+"status": "ok",
+"shift": [
+-3.83,
+5.4
+],
+"bgDiff": 2.4,
+"flicker": 0.014,
+"bucket": "locked",
+"mp4KB": 110,
+"gifKB": 1996
+},
+"Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head": {
+"status": "ok",
+"shift": [
+4.21,
+0.31
+],
+"bgDiff": 2.9,
+"flicker": 0.006,
+"bucket": "locked",
+"mp4KB": 111,
+"gifKB": 1956
+},
+"Standing_Dumbbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-1.96,
+-7.6
+],
+"bgDiff": 2.4,
+"flicker": 0.007,
+"bucket": "locked",
+"mp4KB": 98,
+"gifKB": 1925
+},
+"Standing_Dumbbell_Upright_Row": {
+"status": "ok",
+"shift": [
+0.48,
+1.47
+],
+"bgDiff": 2.8,
+"flicker": 0.248,
+"bucket": "locked",
+"mp4KB": 117,
+"gifKB": 1875
+},
+"Standing_Elevated_Quad_Stretch": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 40.3,
+"flicker": 15.633,
+"bucket": "angle_mismatch",
+"mp4KB": 174,
+"gifKB": 1605
+},
+"Standing_Front_Barbell_Raise_Over_Head": {
+"status": "ok",
+"shift": [
+-1.02,
+7.72
+],
+"bgDiff": 2.7,
+"flicker": 0.001,
+"bucket": "locked",
+"mp4KB": 112,
+"gifKB": 2061
+},
+"Standing_Gastrocnemius_Calf_Stretch": {
+"status": "ok",
+"shift": [
+0.92,
+-12.0
+],
+"bgDiff": 21.6,
+"flicker": 8.178,
+"bucket": "angle_mismatch",
+"mp4KB": 189,
+"gifKB": 1679
+},
+"Standing_Hamstring_and_Calf_Stretch": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 0.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 38,
+"gifKB": 112
+},
+"Standing_Hip_Circles": {
+"status": "ok",
+"shift": [
+0.03,
+1.18
+],
+"bgDiff": 2.9,
+"flicker": 0.152,
+"bucket": "locked",
+"mp4KB": 93,
+"gifKB": 2084
+},
+"Standing_Hip_Flexors": {
+"status": "ok",
+"shift": [
+-0.0,
+-0.22
+],
+"bgDiff": 14.9,
+"flicker": 8.216,
+"bucket": "usable",
+"mp4KB": 167,
+"gifKB": 1572
+},
+"Standing_Inner-Biceps_Curl": {
+"status": "ok",
+"shift": [
+-3.2,
+0.5
+],
+"bgDiff": 2.2,
+"flicker": 0.02,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 1904
+},
+"Standing_Lateral_Stretch": {
+"status": "ok",
+"shift": [
+0.36,
+-0.03
+],
+"bgDiff": 24.5,
+"flicker": 10.085,
+"bucket": "angle_mismatch",
+"mp4KB": 131,
+"gifKB": 1600
+},
+"Standing_Leg_Curl": {
+"status": "ok",
+"shift": [
+-0.29,
+0.62
+],
+"bgDiff": 3.4,
+"flicker": 0.01,
+"bucket": "locked",
+"mp4KB": 183,
+"gifKB": 3476
+},
+"Standing_Long_Jump": {
+"status": "ok",
+"shift": [
+-1.27,
+-0.09
+],
+"bgDiff": 2.7,
+"flicker": 0.152,
+"bucket": "locked",
+"mp4KB": 76,
+"gifKB": 2123
+},
+"Standing_Low-Pulley_Deltoid_Raise": {
+"status": "ok",
+"shift": [
+-7.01,
+1.61
+],
+"bgDiff": 7.5,
+"flicker": 0.107,
+"bucket": "locked",
+"mp4KB": 125,
+"gifKB": 2526
+},
+"Standing_Low-Pulley_One-Arm_Triceps_Extension": {
+"status": "ok",
+"shift": [
+1.09,
+-3.34
+],
+"bgDiff": 4.0,
+"flicker": 0.388,
+"bucket": "locked",
+"mp4KB": 164,
+"gifKB": 2847
+},
+"Standing_Military_Press": {
+"status": "ok",
+"shift": [
+-1.35,
+-1.31
+],
+"bgDiff": 2.3,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 107,
+"gifKB": 2096
+},
+"Standing_Olympic_Plate_Hand_Squeeze": {
+"status": "ok",
+"shift": [
+-0.67,
+1.47
+],
+"bgDiff": 1.7,
+"flicker": 0.029,
+"bucket": "locked",
+"mp4KB": 112,
+"gifKB": 2227
+},
+"Standing_One-Arm_Cable_Curl": {
+"status": "ok",
+"shift": [
+1.03,
+-3.22
+],
+"bgDiff": 4.0,
+"flicker": 0.051,
+"bucket": "locked",
+"mp4KB": 138,
+"gifKB": 2735
+},
+"Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench": {
+"status": "ok",
+"shift": [
+16.44,
+-5.82
+],
+"bgDiff": 5.3,
+"flicker": 0.156,
+"bucket": "locked",
+"mp4KB": 116,
+"gifKB": 2432
+},
+"Standing_One-Arm_Dumbbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+-4.29,
+-4.14
+],
+"bgDiff": 2.4,
+"flicker": 0.007,
+"bucket": "locked",
+"mp4KB": 97,
+"gifKB": 1916
+},
+"Standing_Overhead_Barbell_Triceps_Extension": {
+"status": "ok",
+"shift": [
+0.39,
+-4.73
+],
+"bgDiff": 3.2,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 89,
+"gifKB": 1948
+},
+"Standing_Palm-In_One-Arm_Dumbbell_Press": {
+"status": "ok",
+"shift": [
+-2.12,
+24.33
+],
+"bgDiff": 2.6,
+"flicker": 0.947,
+"bucket": "locked",
+"mp4KB": 109,
+"gifKB": 1995
+},
+"Standing_Palms-In_Dumbbell_Press": {
+"status": "ok",
+"shift": [
+-0.81,
+-5.9
+],
+"bgDiff": 4.0,
+"flicker": 0.744,
+"bucket": "locked",
+"mp4KB": 98,
+"gifKB": 2036
+},
+"Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl": {
+"status": "ok",
+"shift": [
+0.5,
+-4.2
+],
+"bgDiff": 2.5,
+"flicker": 0.092,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 1914
+},
+"Standing_Pelvic_Tilt": {
+"status": "ok",
+"shift": [
+0.2,
+-1.0
+],
+"bgDiff": 15.2,
+"flicker": 5.002,
+"bucket": "usable",
+"mp4KB": 129,
+"gifKB": 1436
+},
+"Standing_Rope_Crunch": {
+"status": "ok",
+"shift": [
+-6.18,
+12.0
+],
+"bgDiff": 7.0,
+"flicker": 0.151,
+"bucket": "locked",
+"mp4KB": 152,
+"gifKB": 2916
+},
+"Standing_Soleus_And_Achilles_Stretch": {
+"status": "ok",
+"shift": [
+1.47,
+-0.33
+],
+"bgDiff": 9.3,
+"flicker": 2.376,
+"bucket": "locked",
+"mp4KB": 138,
+"gifKB": 1452
+},
+"Standing_Toe_Touches": {
+"status": "ok",
+"shift": [
+0.06,
+0.63
+],
+"bgDiff": 26.5,
+"flicker": 7.483,
+"bucket": "angle_mismatch",
+"mp4KB": 155,
+"gifKB": 1408
+},
+"Standing_Towel_Triceps_Extension": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 1.2,
+"flicker": 0.019,
+"bucket": "locked",
+"mp4KB": 132,
+"gifKB": 2179
+},
+"Standing_Two-Arm_Overhead_Throw": {
+"status": "ok",
+"shift": [
+-40.0,
+40.0
+],
+"bgDiff": 32.5,
+"flicker": 12.741,
+"bucket": "angle_mismatch",
+"mp4KB": 228,
+"gifKB": 2646
+},
+"Star_Jump": {
+"status": "ok",
+"shift": [
+3.05,
+-0.82
+],
+"bgDiff": 2.8,
+"flicker": 0.057,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 1803
+},
+"Step-up_with_Knee_Raise": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 42.4,
+"flicker": 9.652,
+"bucket": "angle_mismatch",
+"mp4KB": 205,
+"gifKB": 3231
+},
+"Step_Mill": {
+"status": "ok",
+"shift": [
+11.27,
+22.09
+],
+"bgDiff": 25.0,
+"flicker": 2.171,
+"bucket": "angle_mismatch",
+"mp4KB": 228,
+"gifKB": 2425
+},
+"Stiff-Legged_Barbell_Deadlift": {
+"status": "ok",
+"shift": [
+-0.02,
+9.78
+],
+"bgDiff": 8.2,
+"flicker": 0.868,
+"bucket": "locked",
+"mp4KB": 184,
+"gifKB": 2233
+},
+"Stiff-Legged_Dumbbell_Deadlift": {
+"status": "ok",
+"shift": [
+-39.44,
+-31.14
+],
+"bgDiff": 16.0,
+"flicker": 0.31,
+"bucket": "usable",
+"mp4KB": 172,
+"gifKB": 2152
+},
+"Stiff_Leg_Barbell_Good_Morning": {
+"status": "ok",
+"shift": [
+6.85,
+-12.0
+],
+"bgDiff": 38.7,
+"flicker": 4.682,
+"bucket": "angle_mismatch",
+"mp4KB": 278,
+"gifKB": 2489
+},
+"Stomach_Vacuum": {
+"status": "ok",
+"shift": [
+0.33,
+-1.29
+],
+"bgDiff": 5.7,
+"flicker": 0.049,
+"bucket": "locked",
+"mp4KB": 108,
+"gifKB": 2069
+},
+"Straight-Arm_Dumbbell_Pullover": {
+"status": "ok",
+"shift": [
+3.98,
+-2.18
+],
+"bgDiff": 3.2,
+"flicker": 0.092,
+"bucket": "locked",
+"mp4KB": 126,
+"gifKB": 2335
+},
+"Straight-Arm_Pulldown": {
+"status": "ok",
+"shift": [
+-10.12,
+-0.5
+],
+"bgDiff": 5.7,
+"flicker": 0.437,
+"bucket": "locked",
+"mp4KB": 129,
+"gifKB": 2643
+},
+"Straight_Bar_Bench_Mid_Rows": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 3.3,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 129,
+"gifKB": 3413
+},
+"Straight_Raises_on_Incline_Bench": {
+"status": "ok",
+"shift": [
+-0.36,
+1.44
+],
+"bgDiff": 3.9,
+"flicker": 0.704,
+"bucket": "locked",
+"mp4KB": 149,
+"gifKB": 2591
+},
+"Stride_Jump_Crossover": {
+"status": "ok",
+"shift": [
+-4.24,
+2.38
+],
+"bgDiff": 5.7,
+"flicker": 0.129,
+"bucket": "locked",
+"mp4KB": 158,
+"gifKB": 2952
+},
+"Sumo_Deadlift": {
+"status": "ok",
+"shift": [
+-18.0,
+2.0
+],
+"bgDiff": 49.9,
+"flicker": 17.212,
+"bucket": "angle_mismatch",
+"mp4KB": 209,
+"gifKB": 2329
+},
+"Sumo_Deadlift_with_Bands": {
+"status": "ok",
+"shift": [
+-12.0,
+12.0
+],
+"bgDiff": 46.3,
+"flicker": 8.709,
+"bucket": "angle_mismatch",
+"mp4KB": 248,
+"gifKB": 2320
+},
+"Sumo_Deadlift_with_Chains": {
+"status": "ok",
+"shift": [
+-3.91,
+12.0
+],
+"bgDiff": 36.6,
+"flicker": 8.136,
+"bucket": "angle_mismatch",
+"mp4KB": 237,
+"gifKB": 2318
+},
+"Superman": {
+"status": "ok",
+"shift": [
+-0.47,
+-9.52
+],
+"bgDiff": 7.5,
+"flicker": 0.863,
+"bucket": "locked",
+"mp4KB": 259,
+"gifKB": 2526
+},
+"Supine_Chest_Throw": {
+"status": "ok",
+"shift": [
+-12.07,
+9.41
+],
+"bgDiff": 5.6,
+"flicker": 0.311,
+"bucket": "locked",
+"mp4KB": 170,
+"gifKB": 1878
+},
+"Supine_One-Arm_Overhead_Throw": {
+"status": "ok",
+"shift": [
+-9.48,
+-2.01
+],
+"bgDiff": 4.0,
+"flicker": 1.611,
+"bucket": "locked",
+"mp4KB": 165,
+"gifKB": 1876
+},
+"Supine_Two-Arm_Overhead_Throw": {
+"status": "ok",
+"shift": [
+-12.0,
+11.44
+],
+"bgDiff": 4.8,
+"flicker": 0.646,
+"bucket": "locked",
+"mp4KB": 191,
+"gifKB": 1817
+},
+"Suspended_Fallout": {
+"status": "ok",
+"shift": [
+40.0,
+15.46
+],
+"bgDiff": 15.2,
+"flicker": 5.087,
+"bucket": "usable",
+"mp4KB": 172,
+"gifKB": 2937
+},
+"Suspended_Push-Up": {
+"status": "ok",
+"shift": [
+-33.74,
+40.0
+],
+"bgDiff": 28.3,
+"flicker": 1.854,
+"bucket": "angle_mismatch",
+"mp4KB": 216,
+"gifKB": 2568
+},
+"Suspended_Reverse_Crunch": {
+"status": "ok",
+"shift": [
+40.0,
+23.38
+],
+"bgDiff": 35.8,
+"flicker": 7.128,
+"bucket": "angle_mismatch",
+"mp4KB": 231,
+"gifKB": 2558
+},
+"Suspended_Row": {
+"status": "ok",
+"shift": [
+40.0,
+-40.0
+],
+"bgDiff": 42.8,
+"flicker": 25.381,
+"bucket": "angle_mismatch",
+"mp4KB": 244,
+"gifKB": 2663
+},
+"Suspended_Split_Squat": {
+"status": "ok",
+"shift": [
+-12.0,
+-12.0
+],
+"bgDiff": 48.0,
+"flicker": 9.633,
+"bucket": "angle_mismatch",
+"mp4KB": 239,
+"gifKB": 2683
+},
+"Svend_Press": {
+"status": "ok",
+"shift": [
+-40.0,
+-40.0
+],
+"bgDiff": 16.7,
+"flicker": 12.233,
+"bucket": "usable",
+"mp4KB": 258,
+"gifKB": 3107
+},
+"T-Bar_Row_with_Handle": {
+"status": "ok",
+"shift": [
+-1.15,
+-0.32
+],
+"bgDiff": 5.5,
+"flicker": 0.249,
+"bucket": "locked",
+"mp4KB": 157,
+"gifKB": 2737
+},
+"Tate_Press": {
+"status": "ok",
+"shift": [
+0.61,
+-2.75
+],
+"bgDiff": 2.3,
+"flicker": 0.104,
+"bucket": "locked",
+"mp4KB": 115,
+"gifKB": 2234
+},
+"The_Straddle": {
+"status": "ok",
+"shift": [
+-0.0,
+0.0
+],
+"bgDiff": 0.0,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 48,
+"gifKB": 142
+},
+"Thigh_Abductor": {
+"status": "ok",
+"shift": [
+-11.82,
+-30.61
+],
+"bgDiff": 17.8,
+"flicker": 2.62,
+"bucket": "usable",
+"mp4KB": 223,
+"gifKB": 3002
+},
+"Thigh_Adductor": {
+"status": "ok",
+"shift": [
+13.49,
+11.89
+],
+"bgDiff": 13.3,
+"flicker": 1.749,
+"bucket": "usable",
+"mp4KB": 219,
+"gifKB": 2990
+},
+"Tire_Flip": {
+"status": "ok",
+"shift": [
+0.09,
+-0.03
+],
+"bgDiff": 15.7,
+"flicker": 6.796,
+"bucket": "usable",
+"mp4KB": 156,
+"gifKB": 1739
+},
+"Toe_Touchers": {
+"status": "ok",
+"shift": [
+2.86,
+3.51
+],
+"bgDiff": 4.2,
+"flicker": 0.004,
+"bucket": "locked",
+"mp4KB": 162,
+"gifKB": 2326
+},
+"Torso_Rotation": {
+"status": "ok",
+"shift": [
+0.52,
+-8.37
+],
+"bgDiff": 11.5,
+"flicker": 1.996,
+"bucket": "usable",
+"mp4KB": 119,
+"gifKB": 1189
+},
+"Trail_Running_Walking": {
+"status": "ok",
+"shift": [
+-0.17,
+-1.44
+],
+"bgDiff": 41.1,
+"flicker": 18.613,
+"bucket": "angle_mismatch",
+"mp4KB": 425,
+"gifKB": 3209
+},
+"Trap_Bar_Deadlift": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 17.6,
+"flicker": 6.25,
+"bucket": "usable",
+"mp4KB": 243,
+"gifKB": 2659
+},
+"Tricep_Dumbbell_Kickback": {
+"status": "ok",
+"shift": [
+22.85,
+13.77
+],
+"bgDiff": 8.3,
+"flicker": 0.714,
+"bucket": "locked",
+"mp4KB": 178,
+"gifKB": 2408
+},
+"Tricep_Side_Stretch": {
+"status": "ok",
+"shift": [
+-0.1,
+-0.13
+],
+"bgDiff": 10.6,
+"flicker": 2.448,
+"bucket": "usable",
+"mp4KB": 120,
+"gifKB": 1565
+},
+"Triceps_Overhead_Extension_with_Rope": {
+"status": "ok",
+"shift": [
+-9.81,
+-4.26
+],
+"bgDiff": 5.7,
+"flicker": 0.451,
+"bucket": "locked",
+"mp4KB": 125,
+"gifKB": 2918
+},
+"Triceps_Pushdown": {
+"status": "ok",
+"shift": [
+3.27,
+1.7
+],
+"bgDiff": 6.1,
+"flicker": 0.305,
+"bucket": "locked",
+"mp4KB": 127,
+"gifKB": 3187
+},
+"Triceps_Pushdown_-_Rope_Attachment": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 8.6,
+"flicker": 1.101,
+"bucket": "locked",
+"mp4KB": 191,
+"gifKB": 3246
+},
+"Triceps_Pushdown_-_V-Bar_Attachment": {
+"status": "ok",
+"shift": [
+6.4,
+-40.0
+],
+"bgDiff": 20.1,
+"flicker": 1.516,
+"bucket": "angle_mismatch",
+"mp4KB": 216,
+"gifKB": 2949
+},
+"Triceps_Stretch": {
+"status": "ok",
+"shift": [
+-0.07,
+-0.51
+],
+"bgDiff": 11.6,
+"flicker": 3.424,
+"bucket": "usable",
+"mp4KB": 128,
+"gifKB": 1571
+},
+"Tuck_Crunch": {
+"status": "ok",
+"shift": [
+-11.68,
+9.7
+],
+"bgDiff": 4.9,
+"flicker": 0.179,
+"bucket": "locked",
+"mp4KB": 152,
+"gifKB": 2066
+},
+"Two-Arm_Dumbbell_Preacher_Curl": {
+"status": "ok",
+"shift": [
+-2.4,
+5.9
+],
+"bgDiff": 8.9,
+"flicker": 0.209,
+"bucket": "locked",
+"mp4KB": 118,
+"gifKB": 2694
+},
+"Two-Arm_Kettlebell_Clean": {
+"status": "ok",
+"shift": [
+-12.0,
+-3.78
+],
+"bgDiff": 9.7,
+"flicker": 0.097,
+"bucket": "locked",
+"mp4KB": 169,
+"gifKB": 2023
+},
+"Two-Arm_Kettlebell_Jerk": {
+"status": "ok",
+"shift": [
+-1.76,
+-0.15
+],
+"bgDiff": 2.5,
+"flicker": 0.0,
+"bucket": "locked",
+"mp4KB": 124,
+"gifKB": 1947
+},
+"Two-Arm_Kettlebell_Military_Press": {
+"status": "ok",
+"shift": [
+8.95,
+1.5
+],
+"bgDiff": 9.1,
+"flicker": 0.114,
+"bucket": "locked",
+"mp4KB": 171,
+"gifKB": 1983
+},
+"Two-Arm_Kettlebell_Row": {
+"status": "ok",
+"shift": [
+-4.71,
+0.62
+],
+"bgDiff": 2.3,
+"flicker": 0.016,
+"bucket": "locked",
+"mp4KB": 105,
+"gifKB": 2045
+},
+"Underhand_Cable_Pulldowns": {
+"status": "ok",
+"shift": [
+8.21,
+-1.3
+],
+"bgDiff": 4.4,
+"flicker": 0.278,
+"bucket": "locked",
+"mp4KB": 163,
+"gifKB": 2977
+},
+"Upper_Back-Leg_Grab": {
+"status": "ok",
+"shift": [
+0.19,
+-0.14
+],
+"bgDiff": 13.5,
+"flicker": 0.723,
+"bucket": "usable",
+"mp4KB": 175,
+"gifKB": 1513
+},
+"Upper_Back_Stretch": {
+"status": "ok",
+"shift": [
+-0.19,
+0.0
+],
+"bgDiff": 36.0,
+"flicker": 9.602,
+"bucket": "angle_mismatch",
+"mp4KB": 126,
+"gifKB": 1510
+},
+"Upright_Barbell_Row": {
+"status": "ok",
+"shift": [
+-0.53,
+-3.57
+],
+"bgDiff": 2.7,
+"flicker": 0.145,
+"bucket": "locked",
+"mp4KB": 140,
+"gifKB": 1934
+},
+"Upright_Cable_Row": {
+"status": "ok",
+"shift": [
+0.14,
+1.41
+],
+"bgDiff": 7.1,
+"flicker": 0.173,
+"bucket": "locked",
+"mp4KB": 169,
+"gifKB": 3305
+},
+"Upright_Row_-_With_Bands": {
+"status": "ok",
+"shift": [
+-7.78,
+-5.84
+],
+"bgDiff": 8.8,
+"flicker": 0.638,
+"bucket": "locked",
+"mp4KB": 164,
+"gifKB": 2076
+},
+"Upward_Stretch": {
+"status": "ok",
+"shift": [
+-0.62,
+0.22
+],
+"bgDiff": 90.3,
+"flicker": 32.542,
+"bucket": "angle_mismatch",
+"mp4KB": 142,
+"gifKB": 1445
+},
+"V-Bar_Pulldown": {
+"status": "ok",
+"shift": [
+-3.08,
+2.01
+],
+"bgDiff": 3.4,
+"flicker": 0.553,
+"bucket": "locked",
+"mp4KB": 197,
+"gifKB": 3003
+},
+"V-Bar_Pullup": {
+"status": "ok",
+"shift": [
+-4.04,
+-36.8
+],
+"bgDiff": 8.3,
+"flicker": 2.711,
+"bucket": "locked",
+"mp4KB": 267,
+"gifKB": 3052
+},
+"Vertical_Swing": {
+"status": "ok",
+"shift": [
+-7.72,
+28.78
+],
+"bgDiff": 7.4,
+"flicker": 1.388,
+"bucket": "locked",
+"mp4KB": 193,
+"gifKB": 2540
+},
+"Walking_Treadmill": {
+"status": "ok",
+"shift": [
+12.0,
+12.0
+],
+"bgDiff": 63.7,
+"flicker": 24.222,
+"bucket": "angle_mismatch",
+"mp4KB": 222,
+"gifKB": 2605
+},
+"Weighted_Ball_Hyperextension": {
+"status": "ok",
+"shift": [
+-0.23,
+0.41
+],
+"bgDiff": 22.0,
+"flicker": 3.006,
+"bucket": "angle_mismatch",
+"mp4KB": 227,
+"gifKB": 2112
+},
+"Weighted_Ball_Side_Bend": {
+"status": "ok",
+"shift": [
+0.65,
+-1.25
+],
+"bgDiff": 3.3,
+"flicker": 0.134,
+"bucket": "locked",
+"mp4KB": 152,
+"gifKB": 2183
+},
+"Weighted_Bench_Dip": {
+"status": "ok",
+"shift": [
+-23.82,
+-1.63
+],
+"bgDiff": 6.6,
+"flicker": 0.37,
+"bucket": "locked",
+"mp4KB": 156,
+"gifKB": 2202
+},
+"Weighted_Crunches": {
+"status": "ok",
+"shift": [
+-3.52,
+0.62
+],
+"bgDiff": 3.7,
+"flicker": 0.049,
+"bucket": "locked",
+"mp4KB": 136,
+"gifKB": 2455
+},
+"Weighted_Jump_Squat": {
+"status": "ok",
+"shift": [
+-8.08,
+3.75
+],
+"bgDiff": 4.3,
+"flicker": 0.196,
+"bucket": "locked",
+"mp4KB": 139,
+"gifKB": 2495
+},
+"Weighted_Pull_Ups": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 1.9,
+"flicker": 0.136,
+"bucket": "locked",
+"mp4KB": 183,
+"gifKB": 2399
+},
+"Weighted_Sissy_Squat": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 4.0,
+"flicker": 0.058,
+"bucket": "locked",
+"mp4KB": 196,
+"gifKB": 2231
+},
+"Weighted_Sit-Ups_-_With_Bands": {
+"status": "ok",
+"shift": [
+-26.33,
+40.0
+],
+"bgDiff": 13.1,
+"flicker": 1.277,
+"bucket": "usable",
+"mp4KB": 204,
+"gifKB": 2487
+},
+"Weighted_Squat": {
+"status": "ok",
+"shift": [
+5.91,
+-11.33
+],
+"bgDiff": 3.8,
+"flicker": 0.067,
+"bucket": "locked",
+"mp4KB": 188,
+"gifKB": 2969
+},
+"Wide-Grip_Decline_Barbell_Pullover": {
+"status": "ok",
+"shift": [
+35.55,
+-32.92
+],
+"bgDiff": 15.0,
+"flicker": 1.41,
+"bucket": "usable",
+"mp4KB": 170,
+"gifKB": 2247
+},
+"Wide-Grip_Lat_Pulldown": {
+"status": "ok",
+"shift": [
+-1.74,
+-0.89
+],
+"bgDiff": 6.0,
+"bucket": "locked",
+"backfilled": true
+},
+"Wide-Grip_Barbell_Bench_Press": {
+"status": "ok",
+"shift": [
+-3.64,
+-7.8
+],
+"bgDiff": 7.9,
+"flicker": 0.252,
+"bucket": "locked",
+"mp4KB": 182,
+"gifKB": 3133
+},
+"Wide-Grip_Decline_Barbell_Bench_Press": {
+"status": "ok",
+"shift": [
+7.38,
+1.91
+],
+"bgDiff": 8.6,
+"flicker": 0.323,
+"bucket": "locked",
+"mp4KB": 201,
+"gifKB": 3464
+},
+"Wide-Grip_Pulldown_Behind_The_Neck": {
+"status": "ok",
+"shift": [
+4.45,
+-1.0
+],
+"bgDiff": 8.1,
+"flicker": 0.163,
+"bucket": "locked",
+"mp4KB": 141,
+"gifKB": 2829
+},
+"Wide-Grip_Rear_Pull-Up": {
+"status": "ok",
+"shift": [
+10.45,
+38.86
+],
+"bgDiff": 4.6,
+"flicker": 0.008,
+"bucket": "locked",
+"mp4KB": 110,
+"gifKB": 2243
+},
+"Wide-Grip_Standing_Barbell_Curl": {
+"status": "ok",
+"shift": [
+-1.41,
+-2.14
+],
+"bgDiff": 2.2,
+"flicker": 0.033,
+"bucket": "locked",
+"mp4KB": 102,
+"gifKB": 1891
+},
+"Wide_Stance_Barbell_Squat": {
+"status": "ok",
+"shift": [
+-4.66,
+-0.84
+],
+"bgDiff": 7.1,
+"flicker": 0.139,
+"bucket": "locked",
+"mp4KB": 206,
+"gifKB": 2410
+},
+"Wide_Stance_Stiff_Legs": {
+"status": "ok",
+"shift": [
+11.94,
+12.0
+],
+"bgDiff": 43.9,
+"flicker": 5.982,
+"bucket": "angle_mismatch",
+"mp4KB": 232,
+"gifKB": 2279
+},
+"Wind_Sprints": {
+"status": "ok",
+"shift": [
+1.67,
+0.4
+],
+"bgDiff": 2.2,
+"flicker": 0.033,
+"bucket": "locked",
+"mp4KB": 119,
+"gifKB": 2889
+},
+"Windmills": {
+"status": "ok",
+"shift": [
+0.16,
+0.17
+],
+"bgDiff": 37.6,
+"flicker": 6.495,
+"bucket": "angle_mismatch",
+"mp4KB": 191,
+"gifKB": 1565
+},
+"Worlds_Greatest_Stretch": {
+"status": "ok",
+"shift": [
+-0.17,
+-0.44
+],
+"bgDiff": 13.1,
+"flicker": 7.693,
+"bucket": "usable",
+"mp4KB": 178,
+"gifKB": 1545
+},
+"Wrist_Circles": {
+"status": "ok",
+"shift": [
+9.3,
+-4.1
+],
+"bgDiff": 4.1,
+"flicker": 0.279,
+"bucket": "locked",
+"mp4KB": 95,
+"gifKB": 2044
+},
+"Wrist_Roller": {
+"status": "ok",
+"shift": [
+3.78,
+1.01
+],
+"bgDiff": 2.8,
+"flicker": 0.036,
+"bucket": "locked",
+"mp4KB": 113,
+"gifKB": 2201
+},
+"Wrist_Rotations_with_Straight_Bar": {
+"status": "ok",
+"shift": [
+28.63,
+14.63
+],
+"bgDiff": 23.0,
+"flicker": 1.075,
+"bucket": "angle_mismatch",
+"mp4KB": 217,
+"gifKB": 2935
+},
+"Yoke_Walk": {
+"status": "ok",
+"shift": [
+-0.58,
+2.13
+],
+"bgDiff": 58.6,
+"flicker": 16.376,
+"bucket": "angle_mismatch",
+"mp4KB": 222,
+"gifKB": 2105
+},
+"Zottman_Preacher_Curl": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 2.3,
+"flicker": 0.007,
+"bucket": "locked",
+"mp4KB": 153,
+"gifKB": 2353
+},
+"Zercher_Squats": {
+"status": "ok",
+"shift": [
+0.0,
+0.0
+],
+"bgDiff": 17.8,
+"flicker": 2.917,
+"bucket": "usable",
+"mp4KB": 276,
+"gifKB": 2374
+},
+"Zottman_Curl": {
+"status": "ok",
+"shift": [
+4.11,
+3.75
+],
+"bgDiff": 4.5,
+"flicker": 0.175,
+"bucket": "locked",
+"mp4KB": 126,
+"gifKB": 2319
+}
+}

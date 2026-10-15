@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.log
+media/gif-enhanced/
+media/gif-enhanced2/
+media/enhanced/*.gif
+media/enhanced/.tmp_*/
+media/gif360/

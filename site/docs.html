@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RepDB API docs</title>
+<style>
+  body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#0b0e13;color:#eef1f6}
+  .wrap{max-width:860px;margin:0 auto;padding:28px 20px 60px}
+  a{color:#ff8a5c} code,pre{font-family:ui-monospace,Menlo,monospace}
+  pre{background:#0e1220;border:1px solid #232b3d;border-radius:10px;padding:14px;overflow:auto;font-size:13px}
+  table{border-collapse:collapse;width:100%;font-size:14px} td,th{border:1px solid #232b3d;padding:8px 10px;text-align:left}
+  th{background:#131824} .mut{color:#97a1b3}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p><a href="/">← RepDB</a></p>
+  <h1>API docs</h1>
+  <p class="mut">Base URL (self-hosted): <code>https://your-host</code> · All responses are JSON.
+  Every route also exists as a static file under <code>/api-static/v1/…</code> — host the
+  folder on GitHub Pages or Cloudflare Pages and you have a free, serverless API.</p>
+
+  <h2>Endpoints</h2>
+  <table>
+    <tr><th>Route</th><th>Returns</th></tr>
+    <tr><td><code>GET /v1/exercises</code></td><td>All exercises. Query: <code>limit</code> (default 25, max 500), <code>offset</code>, <code>search</code></td></tr>
+    <tr><td><code>GET /v1/exercises/:id</code></td><td>One exercise by id</td></tr>
+    <tr><td><code>GET /v1/exercises/bodyPart/:bodyPart</code></td><td>Exercises for a body part (paginated)</td></tr>
+    <tr><td><code>GET /v1/exercises/target/:target</code></td><td>Exercises by target muscle (paginated)</td></tr>
+    <tr><td><code>GET /v1/exercises/equipment/:equipment</code></td><td>Exercises by equipment (paginated)</td></tr>
+    <tr><td><code>GET /v1/bodyPartList</code></td><td>All body parts</td></tr>
+    <tr><td><code>GET /v1/targetList</code></td><td>All target muscles</td></tr>
+    <tr><td><code>GET /v1/equipmentList</code></td><td>All equipment values</td></tr>
+  </table>
+
+  <h2>Exercise object</h2>
+  <pre>{
+  "id": "Barbell_Bench_Press_-_Medium_Grip",
+  "name": "Barbell Bench Press - Medium Grip",
+  "bodyPart": "chest",
+  "target": "chest",
+  "secondaryMuscles": ["shoulders", "triceps"],
+  "equipment": "barbell",
+  "gifUrl": "media/gif/Barbell_Bench_Press_-_Medium_Grip.gif",
+  "gifUrl360": "media/gif360/Barbell_Bench_Press_-_Medium_Grip.gif",
+  "imageUrls": ["media/img/…/0.jpg", "media/img/…/1.jpg"],
+  "instructions": ["…"],
+  "level": "beginner", "category": "strength",
+  "mechanic": "compound", "force": "push"
+}</pre>
+
+  <h2>Static equivalents</h2>
+  <pre>GET /api-static/v1/exercises.json
+GET /api-static/v1/exercise/&lt;id&gt;.json
+GET /api-static/v1/bodyPart/chest.json
+GET /api-static/v1/bodyPartList.json</pre>
+
+  <h2>Licence</h2>
+  <p class="mut">Exercise data derives from the public-domain free-exercise-db dataset
+  (Unlicense) — copy, modify and use it commercially. RepDB's own additions
+  (schema mapping, GIF generation, this API) are provided for use with RepDB;
+  see the repository README for the current terms of the hosted tiers.</p>
+</div>
+</body>
+</html>

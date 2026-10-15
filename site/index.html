@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RepDB — The exercise dataset & API for fitness apps</title>
+<meta name="description" content="876 exercises with structured data, looping demo GIFs and a simple API. Free to start, yours to host.">
+<style>
+  :root{--bg:#0b0e13;--card:#131824;--line:#232b3d;--txt:#eef1f6;--mut:#97a1b3;--acc:#ff4d2e;--acc2:#ff8a5c}
+  *{box-sizing:border-box} body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--txt)}
+  a{color:var(--acc2)} .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  header{display:flex;justify-content:space-between;align-items:center;padding:18px 0}
+  .logo{font-weight:800;font-size:22px;letter-spacing:-.5px}.logo span{color:var(--acc)}
+  nav a{margin-left:18px;color:var(--mut);text-decoration:none;font-size:14px}
+  .hero{padding:56px 0 30px;text-align:left}
+  .hero h1{font-size:44px;line-height:1.08;margin:0 0 14px;letter-spacing:-1px}
+  .hero h1 em{font-style:normal;color:var(--acc)}
+  .hero p{color:var(--mut);font-size:18px;max-width:620px;margin:0 0 24px}
+  .cta{display:inline-block;background:var(--acc);color:#fff;padding:12px 22px;border-radius:10px;text-decoration:none;font-weight:700}
+  .cta.ghost{background:transparent;border:1px solid var(--line);color:var(--txt);margin-left:10px}
+  .stats{display:flex;gap:14px;flex-wrap:wrap;margin:34px 0}
+  .stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 20px;min-width:150px}
+  .stat b{font-size:26px;display:block}.stat span{color:var(--mut);font-size:13px}
+  h2{font-size:26px;letter-spacing:-.5px;margin:36px 0 14px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
+  .ex{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+  .ex img,.ex video{width:100%;display:block;aspect-ratio:1;object-fit:cover;background:#fff}
+  .ex div{padding:9px 11px}.ex b{font-size:13px;display:block;line-height:1.25}
+  .ex span{color:var(--mut);font-size:11.5px;text-transform:capitalize}
+  .search{width:100%;padding:13px 16px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--txt);font-size:16px;margin-bottom:14px}
+  pre{background:#0e1220;border:1px solid var(--line);border-radius:12px;padding:16px;overflow:auto;font-size:13px;color:#c9d4e8}
+  .tiers{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+  .tier{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px}
+  .tier.hot{border-color:var(--acc)} .tier b{font-size:30px}.tier ul{color:var(--mut);font-size:14px;line-height:1.7;padding-left:18px}
+  footer{color:var(--mut);font-size:13px;padding:36px 0 46px;border-top:1px solid var(--line);margin-top:44px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="logo">Rep<span>DB</span></div>
+    <nav><a href="#browse">Browse</a><a href="#api">API</a><a href="#pricing">Pricing</a><a href="/docs">Docs</a></nav>
+  </header>
+
+  <section class="hero">
+    <h1>Every exercise your app needs.<br><em>Data, GIFs, one API.</em></h1>
+    <p>RepDB is an open exercise dataset for fitness products: structured movement data, looping start-to-finish demo GIFs and a dead-simple API — free to start, and you host the files yourself.</p>
+    <a class="cta" href="/api-static/v1/exercises.json">Download the dataset</a>
+    <a class="cta ghost" href="#api">Try the API</a>
+    <div class="stats">
+      <div class="stat"><b id="st-count">876</b><span>exercises</span></div>
+      <div class="stat"><b>2</b><span>GIF sizes (180 + 360)</span></div>
+      <div class="stat"><b>11</b><span>data fields per exercise</span></div>
+      <div class="stat"><b>£0</b><span>to start — free tier forever</span></div>
+    </div>
+  </section>
+
+  <h2 id="browse">Browse the library</h2>
+  <input class="search" id="q" type="search" placeholder="Search exercises — try 'bench press'">
+  <div class="grid" id="grid"></div>
+
+  <h2 id="api">One call. Everything about an exercise.</h2>
+  <pre>GET /v1/exercises/Barbell_Bench_Press_-_Medium_Grip
+
+{
+  "id": "Barbell_Bench_Press_-_Medium_Grip",
+  "name": "Barbell Bench Press - Medium Grip",
+  "bodyPart": "chest",
+  "target": "chest",
+  "secondaryMuscles": ["shoulders", "triceps"],
+  "equipment": "barbell",
+  "gifUrl": "media/gif/Barbell_Bench_Press_-_Medium_Grip.gif",
+  "instructions": ["Lie back on a flat bench…", "…"],
+  "level": "beginner", "mechanic": "compound", "force": "push"
+}</pre>
+  <p style="color:var(--mut)">Filter by <code>bodyPart</code>, <code>target</code> or <code>equipment</code>, page with <code>limit</code>/<code>offset</code>, or skip the server entirely — the whole API also ships as static JSON files any free host can serve. <a href="/docs">Read the docs →</a></p>
+
+  <h2 id="pricing">Pricing</h2>
+  <div class="tiers">
+    <div class="tier"><h3>Free</h3><b>£0</b><ul><li>Full 876-exercise JSON</li><li>180×180 looping GIFs</li><li>Static API (host it anywhere)</li><li>Public-domain data — use commercially</li></ul></div>
+    <div class="tier hot"><h3>Pro dataset</h3><b>Soon</b><ul><li>Everything in Free</li><li>360×360 GIFs for the full library</li><li>Similar exercises & substitutions</li><li>Perpetual licence, self-hosted</li></ul></div>
+    <div class="tier"><h3>Hosted API</h3><b>Soon</b><ul><li>Managed endpoint + API key</li><li>Rate limits that scale</li><li>New exercises added monthly</li></ul></div>
+  </div>
+
+  <footer>RepDB is built on the public-domain free-exercise-db dataset (Unlicense) with original tooling and presentation. Demo GIFs are generated from the dataset's public-domain start/end photos. Not affiliated with any other exercise database.</footer>
+</div>
+<script>
+const grid = document.getElementById('grid'), q = document.getElementById('q');
+let IDX = [];
+async function load(){
+  IDX = await (await fetch('/api-static/v1/search-index.json')).json();
+  document.getElementById('st-count').textContent = IDX.length;
+  render('');
+}
+function render(term){
+  const hits = IDX.filter(e => e.name.toLowerCase().includes(term.toLowerCase())).slice(0, 24);
+  grid.innerHTML = hits.map(e =>
+    `<div class="ex"><video autoplay loop muted playsinline preload="metadata" src="/media/enhanced/${e.id}.mp4" aria-label="${e.name}"></video>
+     <div><b>${e.name}</b><span>${e.bodyPart} · ${e.equipment}</span></div></div>`).join('')
+    || '<p style="color:var(--mut)">No matches.</p>';
+}
+q.addEventListener('input', () => render(q.value));
+load();
+</script>
+</body>
+</html>
