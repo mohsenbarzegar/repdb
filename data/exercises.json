@@ -141,7 +141,8 @@
   "gifUrl540": "media/enhanced/Adductor.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 28.4,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Adductor_Groin",
@@ -657,7 +658,8 @@
   "gifUrl540": "media/enhanced/Ankle_On_The_Knee.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 36.1,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Anterior_Tibialis-SMR",
@@ -1129,7 +1131,8 @@
   "gifUrl540": "media/enhanced/Band_Good_Morning.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 22.1,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Band_Good_Morning_Pull_Through",
@@ -1309,7 +1312,8 @@
   "gifUrl540": "media/enhanced/Barbell_Ab_Rollout_-_On_Knees.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 26.5,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Barbell_Bench_Press_-_Medium_Grip",
@@ -1473,7 +1477,8 @@
   "gifUrl540": "media/enhanced/Barbell_Full_Squat.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 34.8,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Barbell_Glute_Bridge",
@@ -1692,7 +1697,8 @@
   "gifUrl540": "media/enhanced/Barbell_Lunge.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 31.3,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Barbell_Rear_Delt_Row",
@@ -2012,7 +2018,8 @@
   "gifUrl540": "media/enhanced/Barbell_Squat_To_A_Bench.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 26.1,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Barbell_Step_Ups",
@@ -2138,7 +2145,8 @@
   "gifUrl540": "media/enhanced/Bear_Crawl_Sled_Drags.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 38.3,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Behind_Head_Chest_Stretch",
@@ -2331,7 +2339,8 @@
   "gifUrl540": "media/enhanced/Bench_Press_with_Chains.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 35.3,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Bench_Sprint",
@@ -3154,7 +3163,8 @@
   "gifUrl540": "media/enhanced/Box_Skip.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 22.8,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Box_Squat",
@@ -3764,7 +3774,8 @@
   "gifUrl540": "media/enhanced/Cable_Lying_Triceps_Extension.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 23.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Cable_One_Arm_Tricep_Extension",
@@ -4569,7 +4580,8 @@
   "gifUrl540": "media/enhanced/Chain_Press.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 28.7,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Chair_Leg_Extended_Stretch",
@@ -4691,7 +4703,8 @@
   "gifUrl540": "media/enhanced/Chair_Upper_Body_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 37.3,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Chest_And_Front_Of_Shoulder_Stretch",
@@ -4720,7 +4733,8 @@
   "gifUrl540": "media/enhanced/Chest_And_Front_Of_Shoulder_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 37.5,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Chest_Push_multiple_response",
@@ -4872,7 +4886,8 @@
   "gifUrl540": "media/enhanced/Chest_Stretch_on_Stability_Ball.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 23.1,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Childs_Pose",
@@ -5214,7 +5229,8 @@
   "gifUrl540": "media/enhanced/Clean_and_Press.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 39.2,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Clean_from_Blocks",
@@ -5439,7 +5455,8 @@
   "gifUrl540": "media/enhanced/Close-Grip_EZ-Bar_Press.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": null,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Close-Grip_Front_Lat_Pulldown",
@@ -5753,7 +5770,8 @@
   "gifUrl540": "media/enhanced/Crossover_Reverse_Lunge.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 23.9,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Crucifix",
@@ -5781,7 +5799,8 @@
   "gifUrl540": "media/enhanced/Crucifix.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 39.3,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Crunch_-_Hands_Overhead",
@@ -5902,7 +5921,8 @@
   "gifUrl540": "media/enhanced/Cuban_Press.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 27.1,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Dancers_Stretch",
@@ -5998,7 +6018,8 @@
   "gifUrl540": "media/enhanced/Deadlift_with_Bands.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 21.0,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Deadlift_with_Chains",
@@ -6534,7 +6555,8 @@
   "gifUrl540": "media/enhanced/Dips_-_Triceps_Version.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 23.1,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Donkey_Calf_Raises",
@@ -7349,7 +7371,8 @@
   "gifUrl540": "media/enhanced/Dumbbell_One-Arm_Triceps_Extension.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 31.2,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Dumbbell_One-Arm_Upright_Row",
@@ -7752,7 +7775,8 @@
   "gifUrl540": "media/enhanced/Dumbbell_Step_Ups.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 38.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
@@ -8308,7 +8332,8 @@
   "gifUrl540": "media/enhanced/Farmers_Walk.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 31.8,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Fast_Skipping",
@@ -8400,7 +8425,8 @@
   "gifUrl540": "media/enhanced/Flat_Bench_Cable_Flyes.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 26.3,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Flat_Bench_Leg_Pull-In",
@@ -8518,7 +8544,8 @@
   "gifUrl540": "media/enhanced/Floor_Glute-Ham_Raise.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 29.5,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Floor_Press",
@@ -8669,7 +8696,8 @@
   "gifUrl540": "media/enhanced/Forward_Drag_with_Press.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 35.8,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Frankenstein_Squat",
@@ -8736,7 +8764,8 @@
   "gifUrl540": "media/enhanced/Freehand_Jump_Squat.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 28.4,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Frog_Hops",
@@ -8831,7 +8860,8 @@
   "gifUrl540": "media/enhanced/Front_Barbell_Squat.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 32.5,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Front_Barbell_Squat_To_A_Bench",
@@ -8865,7 +8895,8 @@
   "gifUrl540": "media/enhanced/Front_Barbell_Squat_To_A_Bench.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 27.8,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Front_Box_Jump",
@@ -9383,7 +9414,8 @@
   "gifUrl540": "media/enhanced/Good_Morning.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 36.4,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Good_Morning_off_Pins",
@@ -9499,7 +9531,8 @@
   "gifUrl540": "media/enhanced/Groiners.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 25.3,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Hack_Squat",
@@ -9534,7 +9567,8 @@
   "gifUrl540": "media/enhanced/Hack_Squat.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 33.8,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Hammer_Curls",
@@ -9651,7 +9685,8 @@
   "gifUrl540": "media/enhanced/Hamstring-SMR.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 36.8,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Handstand_Push-Ups",
@@ -10186,7 +10221,8 @@
   "gifUrl540": "media/enhanced/Hug_Knees_To_Chest.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 37.2,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Hurdle_Hops",
@@ -10804,7 +10840,8 @@
   "gifUrl540": "media/enhanced/Incline_Push-Up_Depth_Jump.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 25.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Incline_Push-Up_Medium",
@@ -10955,7 +10992,8 @@
   "gifUrl540": "media/enhanced/Intermediate_Hip_Flexor_and_Quad_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 30.2,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Internal_Rotation_with_Band",
@@ -11076,7 +11114,8 @@
   "gifUrl540": "media/enhanced/Iron_Cross.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 35.5,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Iron_Crosses_stretch",
@@ -11103,7 +11142,8 @@
   "gifUrl540": "media/enhanced/Iron_Crosses_stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 21.6,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Isometric_Chest_Squeezes",
@@ -11135,7 +11175,8 @@
   "gifUrl540": "media/enhanced/Isometric_Chest_Squeezes.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 20.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Isometric_Neck_Exercise_-_Front_And_Back",
@@ -11479,7 +11520,8 @@
   "gifUrl540": "media/enhanced/Keg_Load.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 34.1,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Kettlebell_Arnold_Press",
@@ -12112,7 +12154,8 @@
   "gifUrl540": "media/enhanced/Knee_Across_The_Body.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 21.9,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Knee_Circles",
@@ -12414,7 +12457,8 @@
   "gifUrl540": "media/enhanced/Kneeling_Jump_Squat.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 28.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Kneeling_Single-Arm_High_Pulley_Row",
@@ -12476,7 +12520,8 @@
   "gifUrl540": "media/enhanced/Kneeling_Squat.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 36.4,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Landmine_180s",
@@ -12703,7 +12748,8 @@
   "gifUrl540": "media/enhanced/Latissimus_Dorsi-SMR.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 26.5,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Leg_Extensions",
@@ -12731,7 +12777,8 @@
   "gifUrl540": "media/enhanced/Leg_Extensions.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 30.9,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Leg_Lift",
@@ -13000,7 +13047,8 @@
   "gifUrl540": "media/enhanced/Leverage_High_Row.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 22.1,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Leverage_Incline_Chest_Press",
@@ -13151,7 +13199,8 @@
   "gifUrl540": "media/enhanced/Linear_3-Part_Start_Technique.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 38.7,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Linear_Acceleration_Wall_Drill",
@@ -13403,7 +13452,8 @@
   "gifUrl540": "media/enhanced/Low_Pulley_Row_To_Neck.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 21.9,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Lower_Back_Curl",
@@ -13757,7 +13807,8 @@
   "gifUrl540": "media/enhanced/Lying_Dumbbell_Tricep_Extension.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 29.8,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Lying_Face_Down_Plate_Neck_Resistance",
@@ -13928,7 +13979,8 @@
   "gifUrl540": "media/enhanced/Lying_Leg_Curls.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 25.3,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Lying_Machine_Squat",
@@ -13962,7 +14014,8 @@
   "gifUrl540": "media/enhanced/Lying_Machine_Squat.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 36.9,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Lying_One-Arm_Lateral_Raise",
@@ -14201,7 +14254,8 @@
   "gifUrl540": "media/enhanced/Machine_Bicep_Curl.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 20.6,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Machine_Preacher_Curls",
@@ -14559,7 +14613,8 @@
   "gifUrl540": "media/enhanced/Moving_Claw_Series.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 22.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Muscle_Snatch",
@@ -14731,7 +14786,8 @@
   "gifUrl540": "media/enhanced/Narrow_Stance_Squats.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 29.0,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Natural_Glute_Ham_Raise",
@@ -14938,7 +14994,8 @@
   "gifUrl540": "media/enhanced/On_Your_Side_Quad_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 34.3,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "On-Your-Back_Quad_Stretch",
@@ -14966,7 +15023,8 @@
   "gifUrl540": "media/enhanced/On-Your-Back_Quad_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 20.9,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "One_Arm_Against_Wall",
@@ -15124,7 +15182,8 @@
   "gifUrl540": "media/enhanced/One_Arm_Floor_Press.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 28.7,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "One_Arm_Lat_Pulldown",
@@ -15248,7 +15307,8 @@
   "gifUrl540": "media/enhanced/One_Half_Locust.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 24.8,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "One_Handed_Hang",
@@ -15306,7 +15366,8 @@
   "gifUrl540": "media/enhanced/One_Knee_To_Chest.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 30.0,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "One_Leg_Barbell_Squat",
@@ -15708,7 +15769,8 @@
   "gifUrl540": "media/enhanced/One-Arm_Kettlebell_Row.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 37.2,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "One-Arm_Kettlebell_Snatch",
@@ -16617,7 +16679,8 @@
   "gifUrl540": "media/enhanced/Peroneals-SMR.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 34.0,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Physioball_Hip_Bridge",
@@ -17301,7 +17364,8 @@
   "gifUrl540": "media/enhanced/Press_Sit-Up.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 20.2,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Prone_Manual_Hamstring",
@@ -17361,7 +17425,8 @@
   "gifUrl540": "media/enhanced/Prowler_Sprint.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 26.8,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Pull_Through",
@@ -17390,7 +17455,8 @@
   "gifUrl540": "media/enhanced/Pull_Through.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 37.8,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Pullups",
@@ -17907,7 +17973,8 @@
   "gifUrl540": "media/enhanced/Rack_Pulls.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 39.0,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Rear_Leg_Raises",
@@ -17964,7 +18031,8 @@
   "gifUrl540": "media/enhanced/Recumbent_Bike.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 39.3,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Return_Push_from_Stance",
@@ -18540,7 +18608,8 @@
   "gifUrl540": "media/enhanced/Reverse_Triceps_Bench_Press.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 25.7,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Rhomboids-SMR",
@@ -18568,7 +18637,8 @@
   "gifUrl540": "media/enhanced/Rhomboids-SMR.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 36.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Rickshaw_Carry",
@@ -18666,7 +18736,8 @@
   "gifUrl540": "media/enhanced/Ring_Dips.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 24.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Rocket_Jump",
@@ -18919,7 +18990,8 @@
   "gifUrl540": "media/enhanced/Rope_Jumping.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 29.5,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Rope_Straight-Arm_Pulldown",
@@ -18977,7 +19049,8 @@
   "gifUrl540": "media/enhanced/Round_The_World_Shoulder_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 25.3,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Rowing_Stationary",
@@ -19011,7 +19084,8 @@
   "gifUrl540": "media/enhanced/Rowing_Stationary.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 24.5,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Runners_Stretch",
@@ -19040,7 +19114,8 @@
   "gifUrl540": "media/enhanced/Runners_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 24.5,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Running_Treadmill",
@@ -19564,7 +19639,8 @@
   "gifUrl540": "media/enhanced/Seated_Calf_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 29.5,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
@@ -21281,7 +21357,8 @@
   "gifUrl540": "media/enhanced/Sit_Squats.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 36.1,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Sit-Up",
@@ -21403,7 +21480,8 @@
   "gifUrl540": "media/enhanced/Sled_Overhead_Backward_Walk.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 34.7,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Sled_Overhead_Triceps_Extension",
@@ -21431,7 +21509,8 @@
   "gifUrl540": "media/enhanced/Sled_Overhead_Triceps_Extension.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 26.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Sled_Push",
@@ -21463,7 +21542,8 @@
   "gifUrl540": "media/enhanced/Sled_Push.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 34.2,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Sled_Reverse_Flye",
@@ -21588,7 +21668,8 @@
   "gifUrl540": "media/enhanced/Smith_Incline_Shoulder_Raise.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 24.5,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Smith_Machine_Behind_the_Back_Shrug",
@@ -21685,7 +21766,8 @@
   "gifUrl540": "media/enhanced/Smith_Machine_Bent_Over_Row.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 20.4,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Smith_Machine_Calf_Raise",
@@ -21814,7 +21896,8 @@
   "gifUrl540": "media/enhanced/Smith_Machine_Hang_Power_Clean.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 26.9,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Smith_Machine_Hip_Raise",
@@ -21937,7 +22020,8 @@
   "gifUrl540": "media/enhanced/Smith_Machine_One-Arm_Upright_Row.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 31.8,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Smith_Machine_Overhead_Shoulder_Press",
@@ -22098,7 +22182,8 @@
   "gifUrl540": "media/enhanced/Smith_Machine_Stiff-Legged_Deadlift.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 23.6,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Smith_Machine_Upright_Row",
@@ -23005,7 +23090,8 @@
   "gifUrl540": "media/enhanced/Stairmaster.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 31.0,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Standing_Alternating_Dumbbell_Press",
@@ -23665,7 +23751,8 @@
   "gifUrl540": "media/enhanced/Standing_Gastrocnemius_Calf_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 21.6,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Standing_Hamstring_and_Calf_Stretch",
@@ -23807,7 +23894,8 @@
   "gifUrl540": "media/enhanced/Standing_Lateral_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 24.5,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Standing_Leg_Curl",
@@ -24322,7 +24410,8 @@
   "gifUrl540": "media/enhanced/Standing_Toe_Touches.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 26.5,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Standing_Towel_Triceps_Extension",
@@ -24380,7 +24469,8 @@
   "gifUrl540": "media/enhanced/Standing_Two-Arm_Overhead_Throw.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 32.5,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Star_Jump",
@@ -24442,7 +24532,8 @@
   "gifUrl540": "media/enhanced/Step_Mill.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 25.0,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Step-up_with_Knee_Raise",
@@ -24505,7 +24596,8 @@
   "gifUrl540": "media/enhanced/Stiff_Leg_Barbell_Good_Morning.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 38.7,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Stiff-Legged_Barbell_Deadlift",
@@ -24865,7 +24957,8 @@
   "gifUrl540": "media/enhanced/Sumo_Deadlift_with_Chains.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 36.6,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Superman",
@@ -25054,7 +25147,8 @@
   "gifUrl540": "media/enhanced/Suspended_Push-Up.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 28.3,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Suspended_Reverse_Crunch",
@@ -25082,7 +25176,8 @@
   "gifUrl540": "media/enhanced/Suspended_Reverse_Crunch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 35.8,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Suspended_Row",
@@ -25656,7 +25751,8 @@
   "gifUrl540": "media/enhanced/Triceps_Pushdown_-_V-Bar_Attachment.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 20.1,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Triceps_Stretch",
@@ -25921,7 +26017,8 @@
   "gifUrl540": "media/enhanced/Upper_Back_Stretch.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 36.0,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Upper_Back-Leg_Grab",
@@ -26230,7 +26327,8 @@
   "gifUrl540": "media/enhanced/Weighted_Ball_Hyperextension.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 22.0,
-  "pairQa": "suspect"
+  "pairQa": "mismatch",
+  "pairQaNote": "Visually verified 2026-10-16: pair changes angle/framing or person; loop not usable."
  },
  {
   "id": "Weighted_Ball_Side_Bend",
@@ -26828,7 +26926,8 @@
   "gifUrl540": "media/enhanced/Windmills.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 37.6,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Worlds_Greatest_Stretch",
@@ -26944,7 +27043,8 @@
   "gifUrl540": "media/enhanced/Wrist_Rotations_with_Straight_Bar.gif",
   "cameraLock": "angle_mismatch",
   "bgDiff": 23.0,
-  "pairQa": "suspect"
+  "pairQa": "ok",
+  "pairQaNote": "Visually verified 2026-10-16: pair is consistent, earlier flag was a false positive."
  },
  {
   "id": "Yoke_Walk",
